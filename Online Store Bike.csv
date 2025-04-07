@@ -1,0 +1,3294 @@
+customer_id,length,recency,frequency,monetary,L_score,R_score,F_score,M_score,LRFM_score_combined,LRFM_segment_combined
+1,277,17,6,6189.3099999999995,2,4,4,4,2444,New Customer High Value
+10,194,171,2,2840.87,1,1,1,2,1112,New Customer Low Value
+100,235,12,2,2748.2,2,4,1,2,2412,New Customer Low Value
+1000,315,71,5,4740.51,3,3,4,4,3344,Top Tier Loyalist
+1001,327,43,6,5490.97,3,3,4,4,3344,Top Tier Loyalist
+1002,310,156,3,4013.66,3,2,2,3,3223,Reactivated Spender
+1003,348,48,7,7413.95,4,3,4,4,4344,Top Tier Loyalist
+1004,317,204,5,6717.17,3,1,4,4,3144,At Risk Customer
+1005,332,160,3,5733.72,4,1,2,4,4124,Reactivated Spender
+1006,212,38,4,5903.4400000000005,2,3,3,4,2334,New Customer High Value
+1007,21,21,1,1775.81,1,4,1,1,1411,New Customer Low Value
+1008,110,110,1,1311.44,1,2,1,1,1211,New Customer Low Value
+1009,312,173,2,3670.0,3,1,1,3,3113,Reactivated Spender
+101,283,158,3,3561.6499999999996,3,1,2,3,3123,Reactivated Spender
+1010,355,245,2,2063.33,4,1,1,2,4112,Inactive Customer
+1012,328,300,2,3052.9700000000003,3,1,1,3,3113,Reactivated Spender
+1013,332,205,4,4303.09,4,1,3,3,4133,At Risk Customer
+1014,255,19,2,1390.1999999999998,2,4,1,1,2411,New Customer Low Value
+1016,314,137,3,3567.67,3,2,2,3,3223,Reactivated Spender
+1017,227,227,1,1577.53,2,1,1,1,2111,New Customer Low Value
+1018,190,27,3,3975.36,1,4,2,3,1423,New Customer High Spender
+1019,85,43,2,2057.83,1,3,1,2,1312,New Customer Low Value
+102,279,110,4,3434.93,2,2,3,3,2233,New Customer High Value
+1020,234,90,3,2267.76,2,2,2,2,2222,New Customer Low Value
+1021,134,29,5,6139.04,1,4,4,4,1444,New Customer High Value
+1022,364,84,5,8161.4,4,2,4,4,4244,At Risk Customer
+1023,133,133,1,1403.5,1,2,1,1,1211,New Customer Low Value
+1024,274,41,4,4074.83,2,3,3,3,2333,New Customer High Value
+1025,320,61,3,2950.1800000000003,3,3,2,3,3323,Occasional Spender
+1026,269,30,6,5229.9,2,4,4,4,2444,New Customer High Value
+1027,283,48,3,2850.59,3,3,2,2,3322,Occasional Spender
+1028,318,9,5,8773.65,3,4,4,4,3444,Top Tier Loyalist
+1029,313,262,3,3612.59,3,1,2,3,3123,Reactivated Spender
+103,211,136,2,1252.54,2,2,1,1,2211,New Customer Low Value
+1030,350,40,5,7700.21,4,3,4,4,4344,Top Tier Loyalist
+1032,355,126,5,4606.89,4,2,4,4,4244,At Risk Customer
+1033,358,15,7,9418.75,4,4,4,4,4444,Top Tier Loyalist
+1034,358,358,1,12.01,4,1,1,1,4111,Inactive Customer
+1035,58,14,3,1327.0600000000002,1,4,2,1,1421,New Customer Low Value
+1036,322,322,1,1274.93,3,1,1,1,3111,Inactive Customer
+1037,178,74,2,2734.55,1,3,1,2,1312,New Customer Low Value
+1038,169,30,3,4995.469999999999,1,4,2,4,1424,New Customer High Spender
+1039,215,62,3,3594.79,2,3,2,3,2323,New Customer High Spender
+104,307,170,2,2918.8500000000004,3,1,1,2,3112,Inactive Customer
+1040,162,162,1,290.62,1,1,1,1,1111,New Customer Low Value
+1041,214,64,2,1230.8,2,3,1,1,2311,New Customer Low Value
+1042,314,314,1,1057.51,3,1,1,1,3111,Inactive Customer
+1043,244,131,5,5937.58,2,2,4,4,2244,New Customer High Value
+1044,342,151,3,3468.1400000000003,4,2,2,3,4223,Reactivated Spender
+1045,129,114,2,2922.3999999999996,1,2,1,2,1212,New Customer Low Value
+1046,341,53,2,2410.15,4,3,1,2,4312,Occasional Spender
+1047,261,58,2,629.9,2,3,1,1,2311,New Customer Low Value
+1048,292,134,2,2205.24,3,2,1,2,3212,Inactive Customer
+1049,360,175,5,6043.63,4,1,4,4,4144,At Risk Customer
+105,278,153,2,2587.3,2,2,1,2,2212,New Customer Low Value
+1050,81,27,2,2429.8,1,4,1,2,1412,New Customer Low Value
+1051,284,272,2,2772.7,3,1,1,2,3112,Inactive Customer
+1052,307,2,2,3612.66,3,4,1,3,3413,Occasional Spender
+1053,274,140,3,3482.79,2,2,2,3,2223,New Customer High Potential
+1054,350,95,6,4856.26,4,2,4,4,4244,At Risk Customer
+1055,245,207,2,924.06,2,1,1,1,2111,New Customer Low Value
+1056,362,113,4,4333.54,4,2,3,3,4233,At Risk Customer
+1057,113,113,1,544.05,1,2,1,1,1211,New Customer Low Value
+1058,352,117,2,1733.45,4,2,1,1,4211,Inactive Customer
+1059,149,23,2,2449.81,1,4,1,2,1412,New Customer Low Value
+106,113,2,2,1136.52,1,4,1,1,1411,New Customer Low Value
+1060,319,188,3,4992.32,3,1,2,4,3124,Reactivated Spender
+1061,187,25,5,2985.5299999999997,1,4,4,3,1443,New Customer High Value
+1062,292,3,6,7619.47,3,4,4,4,3444,Top Tier Loyalist
+1063,251,88,4,4282.22,2,2,3,3,2233,New Customer High Value
+1064,223,208,2,3594.67,2,1,1,3,2113,New Customer High Potential
+1065,225,80,4,3272.01,2,3,3,3,2333,New Customer High Value
+1066,317,167,3,2637.5299999999997,3,1,2,2,3122,Inactive Customer
+1067,343,233,2,1854.93,4,1,1,2,4112,Inactive Customer
+1068,209,54,6,7077.78,2,3,4,4,2344,New Customer High Value
+1069,338,309,2,3820.2799999999997,4,1,1,3,4113,Reactivated Spender
+107,335,82,2,1650.54,4,2,1,1,4211,Inactive Customer
+1070,60,60,1,543.39,1,3,1,1,1311,New Customer Low Value
+1071,232,40,2,3546.44,2,3,1,3,2313,New Customer High Spender
+1072,219,219,1,688.63,2,1,1,1,2111,New Customer Low Value
+1073,222,222,1,1403.5,2,1,1,1,2111,New Customer Low Value
+1074,357,157,3,5167.22,4,1,2,4,4124,Reactivated Spender
+1075,220,68,4,4632.139999999999,2,3,3,4,2334,New Customer High Value
+1076,352,18,7,7781.4,4,4,4,4,4444,Top Tier Loyalist
+1077,131,6,3,4267.47,1,4,2,3,1423,New Customer High Spender
+1078,350,55,4,4124.85,4,3,3,3,4333,Top Tier Loyalist
+1079,286,66,3,2771.6,3,3,2,2,3322,Occasional Spender
+108,17,11,2,2520.07,1,4,1,2,1412,New Customer Low Value
+1080,48,48,1,1292.84,1,3,1,1,1311,New Customer Low Value
+1081,278,12,4,5207.2,2,4,3,4,2434,New Customer High Value
+1082,280,48,3,2136.11,2,3,2,2,2322,New Customer Low Value
+1083,306,306,1,1842.92,3,1,1,2,3112,Inactive Customer
+1084,291,5,5,6344.63,3,4,4,4,3444,Top Tier Loyalist
+1086,337,52,5,4989.9,4,3,4,4,4344,Top Tier Loyalist
+1087,15,15,1,1762.96,1,4,1,1,1411,New Customer Low Value
+1088,272,30,3,4408.05,2,4,2,3,2423,New Customer High Spender
+1089,265,152,6,5454.68,2,2,4,4,2244,New Customer High Value
+109,346,9,6,5945.360000000001,4,4,4,4,4444,Top Tier Loyalist
+1090,358,72,5,5475.63,4,3,4,4,4344,Top Tier Loyalist
+1091,361,204,3,1790.97,4,1,2,1,4121,Inactive Customer
+1092,349,272,2,2055.1099999999997,4,1,1,2,4112,Inactive Customer
+1093,319,100,5,6000.6,3,2,4,4,3244,At Risk Customer
+1094,350,250,3,3417.98,4,1,2,3,4123,Reactivated Spender
+1096,344,56,3,2225.42,4,3,2,2,4322,Occasional Spender
+1097,300,189,2,1433.4699999999998,3,1,1,1,3111,Inactive Customer
+1098,350,93,4,2841.9,4,2,3,2,4232,At Risk Customer
+1099,364,111,2,1248.96,4,2,1,1,4211,Inactive Customer
+11,62,47,2,2595.8100000000004,1,3,1,2,1312,New Customer Low Value
+110,346,173,4,3953.21,4,1,3,3,4133,At Risk Customer
+1100,333,61,2,1455.9099999999999,4,3,1,1,4311,Occasional Spender
+1101,194,180,2,2533.09,1,1,1,2,1112,New Customer Low Value
+1102,306,62,3,2290.2200000000003,3,3,2,2,3322,Occasional Spender
+1103,356,33,6,7782.55,4,4,4,4,4444,Top Tier Loyalist
+1104,196,97,3,2688.8599999999997,1,2,2,2,1222,New Customer Low Value
+1106,308,25,5,5586.24,3,4,4,4,3444,Top Tier Loyalist
+1107,268,245,2,2826.48,2,1,1,2,2112,New Customer Low Value
+1108,251,251,1,416.98,2,1,1,1,2111,New Customer Low Value
+1109,274,256,2,1232.02,2,1,1,1,2111,New Customer Low Value
+111,251,158,2,2867.38,2,1,1,2,2112,New Customer Low Value
+1110,348,18,4,4777.4,4,4,3,4,4434,Top Tier Loyalist
+1111,206,158,4,4672.9,1,1,3,4,1134,New Customer High Value
+1113,294,30,5,6839.43,3,4,4,4,3444,Top Tier Loyalist
+1114,65,65,1,1065.03,1,3,1,1,1311,New Customer Low Value
+1115,145,101,3,2591.34,1,2,2,2,1222,New Customer Low Value
+1116,346,346,1,2091.47,4,1,1,2,4112,Inactive Customer
+1117,304,210,6,5161.18,3,1,4,4,3144,At Risk Customer
+1118,275,39,3,2166.73,2,3,2,2,2322,New Customer Low Value
+1119,280,108,4,7395.13,2,2,3,4,2234,New Customer High Value
+112,341,48,4,6527.26,4,3,3,4,4334,Top Tier Loyalist
+1120,291,2,3,1548.7199999999998,3,4,2,1,3421,Occasional Spender
+1121,8,8,1,1311.44,1,4,1,1,1411,New Customer Low Value
+1122,282,136,2,477.32000000000005,3,2,1,1,3211,Inactive Customer
+1123,284,284,1,1179.0,3,1,1,1,3111,Inactive Customer
+1124,341,341,1,1292.84,4,1,1,1,4111,Inactive Customer
+1125,263,30,4,3352.08,2,4,3,3,2433,New Customer High Value
+1126,360,302,2,2122.54,4,1,1,2,4112,Inactive Customer
+1127,290,290,1,1362.99,3,1,1,1,3111,Inactive Customer
+1128,65,55,2,2890.4700000000003,1,3,1,2,1312,New Customer Low Value
+1129,276,27,8,11124.6,2,4,4,4,2444,New Customer High Value
+113,361,176,3,3301.91,4,1,2,3,4123,Reactivated Spender
+1130,137,137,1,1386.84,1,2,1,1,1211,New Customer Low Value
+1131,277,277,1,642.31,2,1,1,1,2111,New Customer Low Value
+1132,330,74,2,1982.73,3,3,1,2,3312,Occasional Spender
+1133,310,123,3,4710.11,3,2,2,4,3224,Reactivated Spender
+1134,308,4,4,3677.2,3,4,3,3,3433,Top Tier Loyalist
+1135,165,165,1,1216.14,1,1,1,1,1111,New Customer Low Value
+1136,352,168,2,1212.48,4,1,1,1,4111,Inactive Customer
+1137,295,145,5,5488.35,3,2,4,4,3244,At Risk Customer
+1138,270,125,2,2819.01,2,2,1,2,2212,New Customer Low Value
+1139,70,70,1,183.86,1,3,1,1,1311,New Customer Low Value
+114,193,193,1,1065.03,1,1,1,1,1111,New Customer Low Value
+1140,317,7,7,7492.96,3,4,4,4,3444,Top Tier Loyalist
+1141,318,134,4,2787.09,3,2,3,2,3232,At Risk Customer
+1142,73,73,1,1577.53,1,3,1,1,1311,New Customer Low Value
+1144,108,18,5,6013.54,1,4,4,4,1444,New Customer High Value
+1145,66,66,1,1807.45,1,3,1,2,1312,New Customer Low Value
+1146,313,313,1,1148.64,3,1,1,1,3111,Inactive Customer
+1147,353,353,1,1807.45,4,1,1,2,4112,Inactive Customer
+1148,351,351,1,1765.3,4,1,1,1,4111,Inactive Customer
+1149,344,189,2,2123.36,4,1,1,2,4112,Inactive Customer
+115,319,15,5,4294.81,3,4,4,3,3443,Top Tier Loyalist
+1150,331,104,4,7865.18,3,2,3,4,3234,At Risk Customer
+1151,177,99,2,3070.69,1,2,1,3,1213,New Customer High Potential
+1152,311,139,5,6638.85,3,2,4,4,3244,At Risk Customer
+1153,181,18,2,239.89,1,4,1,1,1411,New Customer Low Value
+1154,320,132,4,2339.71,3,2,3,2,3232,At Risk Customer
+1155,242,30,2,1382.8700000000001,2,4,1,1,2411,New Customer Low Value
+1156,67,41,2,3169.55,1,3,1,3,1313,New Customer High Spender
+1157,239,149,3,3884.04,2,2,2,3,2223,New Customer High Potential
+1158,204,101,3,4215.79,1,2,2,3,1223,New Customer High Potential
+1159,173,7,2,2661.77,1,4,1,2,1412,New Customer Low Value
+116,230,13,4,2230.57,2,4,3,2,2432,2432
+1161,198,13,3,3976.09,1,4,2,3,1423,New Customer High Spender
+1162,286,286,1,1810.0,3,1,1,2,3112,Inactive Customer
+1163,65,65,1,478.16,1,3,1,1,1311,New Customer Low Value
+1165,342,11,5,3469.47,4,4,4,3,4443,Top Tier Loyalist
+1166,168,164,2,1672.52,1,1,1,1,1111,New Customer Low Value
+1167,39,39,1,60.34,1,3,1,1,1311,New Customer Low Value
+1168,347,114,3,4721.29,4,2,2,4,4224,Reactivated Spender
+1169,286,63,3,3163.8100000000004,3,3,2,3,3323,Occasional Spender
+117,352,12,7,10063.56,4,4,4,4,4444,Top Tier Loyalist
+1170,284,147,3,5009.280000000001,3,2,2,4,3224,Reactivated Spender
+1171,324,129,4,4074.22,3,2,3,3,3233,At Risk Customer
+1172,108,45,2,2524.19,1,3,1,2,1312,New Customer Low Value
+1173,121,121,1,227.88,1,2,1,1,1211,New Customer Low Value
+1174,27,9,2,3106.53,1,4,1,3,1413,New Customer High Spender
+1175,363,363,1,575.27,4,1,1,1,4111,Inactive Customer
+1176,212,212,1,1403.5,2,1,1,1,2111,New Customer Low Value
+1177,315,103,5,4628.53,3,2,4,4,3244,At Risk Customer
+1178,340,80,4,6564.4,4,3,3,4,4334,Top Tier Loyalist
+1179,310,158,2,3165.32,3,1,1,3,3113,Reactivated Spender
+118,278,70,3,3611.7799999999997,2,3,2,3,2323,New Customer High Spender
+1181,301,48,4,2053.66,3,3,3,2,3332,Price Conscious Buyers
+1182,162,25,4,5465.91,1,4,3,4,1434,New Customer High Value
+1183,350,194,2,1570.1,4,1,1,1,4111,Inactive Customer
+1184,312,6,4,4819.35,3,4,3,4,3434,Top Tier Loyalist
+1185,352,10,2,808.51,4,4,1,1,4411,Occasional Spender
+1186,58,58,1,1129.13,1,3,1,1,1311,New Customer Low Value
+1187,344,59,2,1273.85,4,3,1,1,4311,Occasional Spender
+1188,232,19,2,3043.9,2,4,1,3,2413,New Customer High Spender
+1189,206,92,2,1339.0900000000001,1,2,1,1,1211,New Customer Low Value
+119,64,31,2,2926.75,1,4,1,2,1412,New Customer Low Value
+1190,359,245,3,1730.01,4,1,2,1,4121,Inactive Customer
+1191,219,45,4,3643.21,2,3,3,3,2333,New Customer High Value
+1192,362,224,2,2011.44,4,1,1,2,4112,Inactive Customer
+1193,331,37,3,3419.69,3,4,2,3,3423,Occasional Spender
+1194,233,29,2,1614.62,2,4,1,1,2411,New Customer Low Value
+1195,191,60,2,2024.0500000000002,1,3,1,2,1312,New Customer Low Value
+1196,272,19,4,4461.8,2,4,3,4,2434,New Customer High Value
+1197,79,79,1,175.89,1,3,1,1,1311,New Customer Low Value
+1198,237,69,3,2737.23,2,3,2,2,2322,New Customer Low Value
+1199,355,134,3,2248.46,4,2,2,2,4222,Inactive Customer
+12,322,68,3,1495.33,3,3,2,1,3321,Occasional Spender
+120,194,130,2,2173.3,1,2,1,2,1212,New Customer Low Value
+1200,126,80,2,1617.63,1,3,1,1,1311,New Customer Low Value
+1201,83,83,1,688.63,1,2,1,1,1211,New Customer Low Value
+1202,129,129,1,1977.36,1,2,1,2,1212,New Customer Low Value
+1203,8,8,1,1036.59,1,4,1,1,1411,New Customer Low Value
+1204,201,201,1,235.63,1,1,1,1,1111,New Customer Low Value
+1205,349,301,2,1416.84,4,1,1,1,4111,Inactive Customer
+1206,161,161,1,1842.92,1,1,1,2,1112,New Customer Low Value
+1207,295,17,2,1300.6499999999999,3,4,1,1,3411,Occasional Spender
+1208,188,78,3,4171.62,1,3,2,3,1323,New Customer High Spender
+1209,133,133,1,1890.39,1,2,1,2,1212,New Customer Low Value
+121,132,132,1,1065.03,1,2,1,1,1211,New Customer Low Value
+1210,321,18,7,7111.5,3,4,4,4,3444,Top Tier Loyalist
+1211,289,258,2,1580.8700000000001,3,1,1,1,3111,Inactive Customer
+1212,123,123,1,1057.51,1,2,1,1,1211,New Customer Low Value
+1213,341,329,2,3819.4,4,1,1,3,4113,Reactivated Spender
+1215,363,78,4,2618.29,4,3,3,2,4332,Price Conscious Buyers
+1217,139,54,3,2713.78,1,3,2,2,1322,New Customer Low Value
+1218,248,144,2,3758.23,2,2,1,3,2213,New Customer High Potential
+1219,281,5,2,1906.38,2,4,1,2,2412,New Customer Low Value
+122,211,9,3,3540.85,2,4,2,3,2423,New Customer High Spender
+1220,311,184,2,2783.94,3,1,1,2,3112,Inactive Customer
+1221,147,45,3,1958.1399999999999,1,3,2,2,1322,New Customer Low Value
+1222,155,52,2,2198.86,1,3,1,2,1312,New Customer Low Value
+1223,267,63,2,1296.69,2,3,1,1,2311,New Customer Low Value
+1224,225,48,3,2421.0699999999997,2,3,2,2,2322,New Customer Low Value
+1225,317,59,3,4073.14,3,3,2,3,3323,Occasional Spender
+1226,189,25,5,5188.65,1,4,4,4,1444,New Customer High Value
+1227,318,81,6,4352.18,3,3,4,3,3343,Top Tier Loyalist
+1228,133,133,1,1810.0,1,2,1,2,1212,New Customer Low Value
+1229,322,86,3,1192.65,3,2,2,1,3221,Inactive Customer
+123,318,192,2,2123.36,3,1,1,2,3112,Inactive Customer
+1230,236,77,2,1824.33,2,3,1,2,2312,New Customer Low Value
+1231,350,350,1,1769.64,4,1,1,1,4111,Inactive Customer
+1232,259,61,5,6201.05,2,3,4,4,2344,New Customer High Value
+1233,258,169,4,7054.58,2,1,3,4,2134,New Customer High Value
+1234,346,86,6,4809.98,4,2,4,4,4244,At Risk Customer
+1236,255,106,2,1220.7,2,2,1,1,2211,New Customer Low Value
+1237,284,29,5,6284.599999999999,3,4,4,4,3444,Top Tier Loyalist
+1238,319,180,3,1185.4299999999998,3,1,2,1,3121,Inactive Customer
+1239,363,79,3,1031.03,4,3,2,1,4321,Occasional Spender
+124,288,3,3,4086.24,3,4,2,3,3423,Occasional Spender
+1240,74,20,2,1518.69,1,4,1,1,1411,New Customer Low Value
+1241,320,76,3,2865.39,3,3,2,2,3322,Occasional Spender
+1242,51,18,2,2610.13,1,4,1,2,1412,New Customer Low Value
+1243,347,254,5,4837.97,4,1,4,4,4144,At Risk Customer
+1244,259,20,2,2636.73,2,4,1,2,2412,New Customer Low Value
+1245,332,72,4,3580.2700000000004,4,3,3,3,4333,Top Tier Loyalist
+1246,116,116,1,1890.39,1,2,1,2,1212,New Customer Low Value
+1247,262,262,1,1636.9,2,1,1,1,2111,New Customer Low Value
+125,352,84,6,4276.08,4,2,4,3,4243,At Risk Customer
+1250,276,36,4,2569.49,2,4,3,2,2432,2432
+1252,233,10,2,2251.07,2,4,1,2,2412,New Customer Low Value
+1253,219,5,3,2524.9,2,4,2,2,2422,New Customer Low Value
+1254,250,38,5,5261.84,2,3,4,4,2344,New Customer High Value
+1255,254,254,1,290.62,2,1,1,1,2111,New Customer Low Value
+1256,278,82,6,6083.15,2,2,4,4,2244,New Customer High Value
+1257,328,257,2,1728.54,3,1,1,1,3111,Inactive Customer
+1258,345,53,4,5181.74,4,3,3,4,4334,Top Tier Loyalist
+1259,174,42,4,3812.8599999999997,1,3,3,3,1333,New Customer High Value
+1260,307,67,3,1975.2000000000003,3,3,2,2,3322,Occasional Spender
+1261,350,120,4,4328.97,4,2,3,3,4233,At Risk Customer
+1262,164,44,3,4584.04,1,3,2,4,1324,New Customer High Spender
+1263,310,43,3,2542.02,3,3,2,2,3322,Occasional Spender
+1264,180,180,1,363.01,1,1,1,1,1111,New Customer Low Value
+1265,321,8,3,2639.86,3,4,2,2,3422,Occasional Spender
+1266,363,258,2,4182.94,4,1,1,3,4113,Reactivated Spender
+1267,284,167,3,5188.52,3,1,2,4,3124,Reactivated Spender
+1268,322,322,1,574.64,3,1,1,1,3111,Inactive Customer
+1269,212,212,1,1842.92,2,1,1,2,2112,New Customer Low Value
+127,362,24,8,7478.53,4,4,4,4,4444,Top Tier Loyalist
+1270,315,206,2,2314.85,3,1,1,2,3112,Inactive Customer
+1272,308,25,2,2602.9,3,4,1,2,3412,Occasional Spender
+1273,268,268,1,416.98,2,1,1,1,2111,New Customer Low Value
+1274,350,16,4,1555.06,4,4,3,1,4431,Price Conscious Buyers
+1275,359,150,4,4050.43,4,2,3,3,4233,At Risk Customer
+1277,80,56,2,2259.9,1,3,1,2,1312,New Customer Low Value
+1278,153,65,2,3121.44,1,3,1,3,1313,New Customer High Spender
+1279,291,53,4,2907.04,3,3,3,2,3332,Price Conscious Buyers
+128,270,138,3,3110.19,2,2,2,3,2223,New Customer High Potential
+1280,309,198,2,3669.0,3,1,1,3,3113,Reactivated Spender
+1281,246,88,2,2628.6499999999996,2,2,1,2,2212,New Customer Low Value
+1282,241,101,3,3132.3999999999996,2,2,2,3,2223,New Customer High Potential
+1285,363,119,3,4775.25,4,2,2,4,4224,Reactivated Spender
+1286,331,52,2,1340.6599999999999,3,3,1,1,3311,Occasional Spender
+1287,315,68,3,3815.76,3,3,2,3,3323,Occasional Spender
+1288,246,101,2,2515.9700000000003,2,2,1,2,2212,New Customer Low Value
+1289,302,83,2,3121.54,3,2,1,3,3213,Reactivated Spender
+129,353,179,3,2283.03,4,1,2,2,4122,Inactive Customer
+1290,96,45,3,3851.75,1,3,2,3,1323,New Customer High Spender
+1291,348,53,6,7074.389999999999,4,3,4,4,4344,Top Tier Loyalist
+1292,203,131,2,2683.7799999999997,1,2,1,2,1212,New Customer Low Value
+1293,360,240,2,1514.75,4,1,1,1,4111,Inactive Customer
+1295,329,30,4,5886.63,3,4,3,4,3434,Top Tier Loyalist
+1296,356,131,3,5235.3,4,2,2,4,4224,Reactivated Spender
+1297,355,3,2,1815.58,4,4,1,2,4412,Occasional Spender
+1298,354,142,3,4777.23,4,2,2,4,4224,Reactivated Spender
+1299,232,7,6,9202.609999999999,2,4,4,4,2444,New Customer High Value
+13,305,28,4,3317.4700000000003,3,4,3,3,3433,Top Tier Loyalist
+130,332,332,1,1636.9,4,1,1,1,4111,Inactive Customer
+1300,237,36,4,6464.86,2,4,3,4,2434,New Customer High Value
+1301,318,13,3,1927.98,3,4,2,2,3422,Occasional Spender
+1302,355,77,7,7710.25,4,3,4,4,4344,Top Tier Loyalist
+1303,359,71,5,6783.0,4,3,4,4,4344,Top Tier Loyalist
+1304,347,4,4,1792.25,4,4,3,2,4432,Price Conscious Buyers
+1305,268,204,2,2097.0,2,1,1,2,2112,New Customer Low Value
+1306,302,184,3,3053.5099999999998,3,1,2,3,3123,Reactivated Spender
+1307,286,134,5,4700.27,3,2,4,4,3244,At Risk Customer
+1308,303,94,3,3527.39,3,2,2,3,3223,Reactivated Spender
+1309,338,83,4,3547.44,4,2,3,3,4233,At Risk Customer
+131,349,206,4,7610.35,4,1,3,4,4134,At Risk Customer
+1310,355,355,1,533.51,4,1,1,1,4111,Inactive Customer
+1311,318,48,3,4724.29,3,3,2,4,3324,Occasional Spender
+1312,118,27,2,2706.66,1,4,1,2,1412,New Customer Low Value
+1313,88,8,2,3424.37,1,4,1,3,1413,New Customer High Spender
+1314,257,257,1,1762.96,2,1,1,1,2111,New Customer Low Value
+1315,320,10,3,2746.59,3,4,2,2,3422,Occasional Spender
+1316,179,179,1,569.56,1,1,1,1,1111,New Customer Low Value
+1317,255,36,4,7605.66,2,4,3,4,2434,New Customer High Value
+1318,269,27,2,2720.85,2,4,1,2,2412,New Customer Low Value
+1319,345,312,2,3139.0699999999997,4,1,1,3,4113,Reactivated Spender
+132,324,8,4,5499.72,3,4,3,4,3434,Top Tier Loyalist
+1320,321,282,2,1411.79,3,1,1,1,3111,Inactive Customer
+1321,327,216,2,709.07,3,1,1,1,3111,Inactive Customer
+1322,90,64,2,3058.14,1,3,1,3,1313,New Customer High Spender
+1323,148,54,3,1846.69,1,3,2,2,1322,New Customer Low Value
+1324,310,75,4,3626.93,3,3,3,3,3333,Top Tier Loyalist
+1325,83,83,1,416.98,1,2,1,1,1211,New Customer Low Value
+1326,341,11,6,6384.110000000001,4,4,4,4,4444,Top Tier Loyalist
+1327,331,216,2,1847.6,3,1,1,2,3112,Inactive Customer
+1328,187,17,3,3971.6400000000003,1,4,2,3,1423,New Customer High Spender
+1329,360,5,6,7358.5599999999995,4,4,4,4,4444,Top Tier Loyalist
+133,361,27,4,2578.1,4,4,3,2,4432,Price Conscious Buyers
+1330,357,76,3,3941.27,4,3,2,3,4323,Occasional Spender
+1331,131,6,3,4253.46,1,4,2,3,1423,New Customer High Spender
+1332,289,89,3,2935.17,3,2,2,2,3222,Inactive Customer
+1333,202,202,1,1636.9,1,1,1,1,1111,New Customer Low Value
+1335,291,175,4,4791.16,3,1,3,4,3134,At Risk Customer
+1336,228,86,3,4380.62,2,2,2,3,2223,New Customer High Potential
+1337,278,84,6,6160.39,2,2,4,4,2244,New Customer High Value
+1339,329,103,4,5652.139999999999,3,2,3,4,3234,At Risk Customer
+134,327,327,1,1661.92,3,1,1,1,3111,Inactive Customer
+1340,250,29,5,6724.43,2,4,4,4,2444,New Customer High Value
+1341,313,76,2,1753.6599999999999,3,3,1,1,3311,Occasional Spender
+1342,324,4,2,2261.02,3,4,1,2,3412,Occasional Spender
+1343,358,29,2,2277.12,4,4,1,2,4412,Occasional Spender
+1344,55,55,1,945.04,1,3,1,1,1311,New Customer Low Value
+1345,93,51,2,2837.41,1,3,1,2,1312,New Customer Low Value
+1346,352,16,6,6877.41,4,4,4,4,4444,Top Tier Loyalist
+1347,327,92,3,3042.12,3,2,2,3,3223,Reactivated Spender
+1348,329,158,4,5798.7300000000005,3,1,3,4,3134,At Risk Customer
+1349,364,44,4,3929.2,4,3,3,3,4333,Top Tier Loyalist
+135,116,116,1,1483.2,1,2,1,1,1211,New Customer Low Value
+1350,346,117,2,2243.46,4,2,1,2,4212,Inactive Customer
+1351,361,18,4,4847.3099999999995,4,4,3,4,4434,Top Tier Loyalist
+1352,211,89,2,1551.0,2,2,1,1,2211,New Customer Low Value
+1353,338,256,2,2123.36,4,1,1,2,4112,Inactive Customer
+1354,141,141,1,912.52,1,2,1,1,1211,New Customer Low Value
+1355,230,93,2,2964.71,2,2,1,3,2213,New Customer High Potential
+1356,223,23,2,1468.19,2,4,1,1,2411,New Customer Low Value
+1357,303,54,6,9189.68,3,3,4,4,3344,Top Tier Loyalist
+1358,259,259,1,642.31,2,1,1,1,2111,New Customer Low Value
+1359,13,13,1,544.05,1,4,1,1,1411,New Customer Low Value
+136,352,21,6,6533.91,4,4,4,4,4444,Top Tier Loyalist
+1360,287,182,3,3476.3199999999997,3,1,2,3,3123,Reactivated Spender
+1361,264,29,3,3444.6,2,4,2,3,2423,New Customer High Spender
+1362,257,257,1,1311.44,2,1,1,1,2111,New Customer Low Value
+1363,272,25,5,4961.66,2,4,4,4,2444,New Customer High Value
+1364,210,65,2,2871.56,2,3,1,2,2312,New Customer Low Value
+1365,221,218,2,1692.0300000000002,2,1,1,1,2111,New Customer Low Value
+1366,357,55,3,1977.28,4,3,2,2,4322,Occasional Spender
+1367,334,80,3,2659.25,4,3,2,2,4322,Occasional Spender
+1368,360,60,3,2861.63,4,3,2,2,4322,Occasional Spender
+1369,193,193,1,1386.84,1,1,1,1,1111,New Customer Low Value
+137,339,281,3,2410.12,4,1,2,2,4122,Inactive Customer
+1370,298,34,3,1956.8700000000001,3,4,2,2,3422,Occasional Spender
+1371,316,27,2,2643.81,3,4,1,2,3412,Occasional Spender
+1372,341,70,3,3543.58,4,3,2,3,4323,Occasional Spender
+1374,281,40,2,3957.91,2,3,1,3,2313,New Customer High Spender
+1375,326,83,4,4951.4400000000005,3,2,3,4,3234,At Risk Customer
+1376,139,124,3,4212.02,1,2,2,3,1223,New Customer High Potential
+1377,304,177,2,1426.3400000000001,3,1,1,1,3111,Inactive Customer
+1378,249,13,6,8072.719999999999,2,4,4,4,2444,New Customer High Value
+1379,232,232,1,1198.46,2,1,1,1,2111,New Customer Low Value
+138,237,65,4,2816.27,2,3,3,2,2332,2332
+1381,162,136,2,3687.62,1,2,1,3,1213,New Customer High Potential
+1382,123,123,1,1635.3,1,2,1,1,1211,New Customer Low Value
+1383,347,228,2,2191.8199999999997,4,1,1,2,4112,Inactive Customer
+1384,245,245,1,1458.17,2,1,1,1,2111,New Customer Low Value
+1385,196,143,2,2580.3,1,2,1,2,1212,New Customer Low Value
+1386,329,306,2,1466.7800000000002,3,1,1,1,3111,Inactive Customer
+1388,170,124,2,2248.78,1,2,1,2,1212,New Customer Low Value
+1389,354,85,5,6180.18,4,2,4,4,4244,At Risk Customer
+139,362,61,7,9215.69,4,3,4,4,4344,Top Tier Loyalist
+1390,291,189,3,3779.1099999999997,3,1,2,3,3123,Reactivated Spender
+1391,152,64,2,1520.31,1,3,1,1,1311,New Customer Low Value
+1392,136,108,2,3985.66,1,2,1,3,1213,New Customer High Potential
+1393,31,31,1,1179.0,1,4,1,1,1411,New Customer Low Value
+1394,248,172,2,3222.46,2,1,1,3,2113,New Customer High Potential
+1395,88,88,1,1198.46,1,2,1,1,1211,New Customer Low Value
+1396,320,10,7,6379.88,3,4,4,4,3444,Top Tier Loyalist
+1397,343,138,4,5623.43,4,2,3,4,4234,At Risk Customer
+1398,239,37,6,7128.7300000000005,2,4,4,4,2444,New Customer High Value
+1399,17,17,1,1775.81,1,4,1,1,1411,New Customer Low Value
+14,137,48,3,1956.67,1,3,2,2,1322,New Customer Low Value
+140,245,4,4,6034.62,2,4,3,4,2434,New Customer High Value
+1400,358,57,4,4958.6,4,3,3,4,4334,Top Tier Loyalist
+1401,82,82,1,1466.68,1,2,1,1,1211,New Customer Low Value
+1402,320,41,5,4331.87,3,3,4,3,3343,Top Tier Loyalist
+1403,277,165,2,1663.42,2,1,1,1,2111,New Customer Low Value
+1404,310,8,6,5341.93,3,4,4,4,3444,Top Tier Loyalist
+1405,253,85,5,3655.6400000000003,2,2,4,3,2243,New Customer High Value
+1406,168,29,5,4421.49,1,4,4,3,1443,New Customer High Value
+1407,337,1,3,2453.29,4,4,2,2,4422,Occasional Spender
+1408,273,11,3,4975.92,2,4,2,4,2424,New Customer High Spender
+1409,86,86,1,2005.66,1,2,1,2,1212,New Customer Low Value
+141,233,160,2,2924.8500000000004,2,1,1,2,2112,New Customer Low Value
+1410,284,61,4,4723.11,3,3,3,4,3334,Top Tier Loyalist
+1411,44,44,1,1228.07,1,3,1,1,1311,New Customer Low Value
+1412,213,127,3,1766.56,2,2,2,1,2221,New Customer Low Value
+1413,333,4,3,2312.65,4,4,2,2,4422,Occasional Spender
+1414,19,19,1,1280.28,1,4,1,1,1411,New Customer Low Value
+1415,58,58,1,1483.2,1,3,1,1,1311,New Customer Low Value
+1416,68,68,1,1023.39,1,3,1,1,1311,New Customer Low Value
+1417,270,57,2,3216.25,2,3,1,3,2313,New Customer High Spender
+1418,332,87,4,3841.84,4,2,3,3,4233,At Risk Customer
+1419,320,23,4,3209.35,3,4,3,3,3433,Top Tier Loyalist
+142,312,5,6,8607.61,3,4,4,4,3444,Top Tier Loyalist
+1420,351,39,4,3091.8700000000003,4,3,3,3,4333,Top Tier Loyalist
+1421,344,58,5,3993.86,4,3,4,3,4343,Top Tier Loyalist
+1422,309,48,3,2672.42,3,3,2,2,3322,Occasional Spender
+1423,278,278,1,569.56,2,1,1,1,2111,New Customer Low Value
+1424,360,77,2,2157.2,4,3,1,2,4312,Occasional Spender
+1425,77,1,2,2844.1099999999997,1,4,1,2,1412,New Customer Low Value
+1426,218,107,3,1886.17,2,2,2,2,2222,New Customer Low Value
+1428,349,237,3,4136.22,4,1,2,3,4123,Reactivated Spender
+1429,361,244,4,3341.1899999999996,4,1,3,3,4133,At Risk Customer
+143,339,14,2,2643.81,4,4,1,2,4412,Occasional Spender
+1430,177,177,1,2005.66,1,1,1,2,1112,New Customer Low Value
+1431,360,97,2,1427.02,4,2,1,1,4211,Inactive Customer
+1432,318,34,3,944.77,3,4,2,1,3421,Occasional Spender
+1433,330,132,2,2749.83,3,2,1,2,3212,Inactive Customer
+1435,302,34,2,2541.6,3,4,1,2,3412,Occasional Spender
+1436,144,144,1,1151.96,1,2,1,1,1211,New Customer Low Value
+1437,343,144,3,3495.9300000000003,4,2,2,3,4223,Reactivated Spender
+1438,267,23,7,8460.09,2,4,4,4,2444,New Customer High Value
+1439,241,138,2,1590.13,2,2,1,1,2211,New Customer Low Value
+144,308,59,5,5900.83,3,3,4,4,3344,Top Tier Loyalist
+1440,352,45,2,3454.46,4,3,1,3,4313,Occasional Spender
+1441,311,311,1,499.53,3,1,1,1,3111,Inactive Customer
+1442,117,117,1,71.49,1,2,1,1,1211,New Customer Low Value
+1443,149,69,3,2811.77,1,3,2,2,1322,New Customer Low Value
+1444,234,94,3,1642.96,2,2,2,1,2221,New Customer Low Value
+1445,89,7,4,6032.95,1,4,3,4,1434,New Customer High Value
+1446,332,11,5,6533.59,4,4,4,4,4444,Top Tier Loyalist
+1447,305,212,4,3878.06,3,1,3,3,3133,At Risk Customer
+1448,238,238,1,642.31,2,1,1,1,2111,New Customer Low Value
+1449,267,15,3,3085.9,2,4,2,3,2423,New Customer High Spender
+145,230,230,1,1386.84,2,1,1,1,2111,New Customer Low Value
+1450,346,43,6,7473.360000000001,4,3,4,4,4344,Top Tier Loyalist
+1451,352,84,5,3571.09,4,2,4,3,4243,At Risk Customer
+1452,163,3,2,2951.95,1,4,1,3,1413,New Customer High Spender
+1453,301,1,4,5116.26,3,4,3,4,3434,Top Tier Loyalist
+1454,57,57,1,227.88,1,3,1,1,1311,New Customer Low Value
+1455,234,211,2,2214.85,2,1,1,2,2112,New Customer Low Value
+1456,297,297,1,795.34,3,1,1,1,3111,Inactive Customer
+1457,341,66,4,3861.96,4,3,3,3,4333,Top Tier Loyalist
+1458,199,199,1,1769.64,1,1,1,1,1111,New Customer Low Value
+1459,266,244,2,3582.33,2,1,1,3,2113,New Customer High Potential
+146,195,195,1,586.45,1,1,1,1,1111,New Customer Low Value
+1460,325,13,4,6484.860000000001,3,4,3,4,3434,Top Tier Loyalist
+1461,96,32,2,2652.84,1,4,1,2,1412,New Customer Low Value
+1462,270,82,3,1213.39,2,2,2,1,2221,New Customer Low Value
+1463,111,111,1,575.27,1,2,1,1,1211,New Customer Low Value
+1464,147,107,2,1590.9,1,2,1,1,1211,New Customer Low Value
+1465,241,108,3,2764.79,2,2,2,2,2222,New Customer Low Value
+1466,34,34,1,1172.78,1,4,1,1,1411,New Customer Low Value
+1467,291,33,3,2406.21,3,4,2,2,3422,Occasional Spender
+1468,349,194,2,2613.4700000000003,4,1,1,2,4112,Inactive Customer
+1469,343,75,4,4473.5,4,3,3,4,4334,Top Tier Loyalist
+147,35,35,1,1483.2,1,4,1,1,1411,New Customer Low Value
+1470,247,2,6,7016.79,2,4,4,4,2444,New Customer High Value
+1471,259,6,3,3844.2799999999997,2,4,2,3,2423,New Customer High Spender
+1472,346,317,3,4341.45,4,1,2,3,4123,Reactivated Spender
+1473,237,33,6,7885.2300000000005,2,4,4,4,2444,New Customer High Value
+1474,350,67,4,4036.7,4,3,3,3,4333,Top Tier Loyalist
+1475,281,47,5,7764.49,2,3,4,4,2344,New Customer High Value
+1476,25,25,1,478.16,1,4,1,1,1411,New Customer Low Value
+1477,345,78,6,5545.15,4,3,4,4,4344,Top Tier Loyalist
+1478,312,20,5,4550.650000000001,3,4,4,4,3444,Top Tier Loyalist
+1479,323,256,2,1820.0,3,1,1,2,3112,Inactive Customer
+148,224,44,3,3588.02,2,3,2,3,2323,New Customer High Spender
+1480,189,45,6,3980.06,1,3,4,3,1343,New Customer High Value
+1481,341,30,7,7502.639999999999,4,4,4,4,4444,Top Tier Loyalist
+1482,360,130,5,5279.17,4,2,4,4,4244,At Risk Customer
+1483,357,157,2,984.01,4,1,1,1,4111,Inactive Customer
+1484,309,15,3,3219.13,3,4,2,3,3423,Occasional Spender
+1485,10,5,2,1871.67,1,4,1,2,1412,New Customer Low Value
+1486,214,33,2,1546.85,2,4,1,1,2411,New Customer Low Value
+1488,41,41,1,533.51,1,3,1,1,1311,New Customer Low Value
+1489,168,83,2,2264.75,1,2,1,2,1212,New Customer Low Value
+1490,172,75,2,1700.3500000000001,1,3,1,1,1311,New Customer Low Value
+1491,189,161,2,1739.16,1,1,1,1,1111,New Customer Low Value
+1492,298,6,5,6933.5599999999995,3,4,4,4,3444,Top Tier Loyalist
+1493,259,222,3,3941.04,2,1,2,3,2123,New Customer High Potential
+1494,352,42,7,8851.880000000001,4,3,4,4,4344,Top Tier Loyalist
+1495,111,4,2,1217.97,1,4,1,1,1411,New Customer Low Value
+1496,305,116,2,2532.7,3,2,1,2,3212,Inactive Customer
+1497,224,211,2,2852.16,2,1,1,2,2112,New Customer Low Value
+1498,226,41,3,3086.83,2,3,2,3,2323,New Customer High Spender
+1499,266,126,4,4967.75,2,2,3,4,2234,New Customer High Value
+15,207,36,3,2314.87,2,4,2,2,2422,New Customer Low Value
+150,244,244,1,1362.99,2,1,1,1,2111,New Customer Low Value
+1500,294,6,3,4483.389999999999,3,4,2,4,3424,Occasional Spender
+1501,322,54,4,3773.05,3,3,3,3,3333,Top Tier Loyalist
+1502,288,136,5,6572.31,3,2,4,4,3244,At Risk Customer
+1503,350,35,3,4181.26,4,4,2,3,4423,Occasional Spender
+1504,306,6,5,5266.7,3,4,4,4,3444,Top Tier Loyalist
+1505,275,225,2,2444.8,2,1,1,2,2112,New Customer Low Value
+1506,344,1,5,5052.469999999999,4,4,4,4,4444,Top Tier Loyalist
+1508,114,62,3,3093.72,1,3,2,3,1323,New Customer High Spender
+1509,355,45,3,2949.6800000000003,4,3,2,3,4323,Occasional Spender
+151,359,102,6,10053.43,4,2,4,4,4244,At Risk Customer
+1510,320,57,2,2588.77,3,3,1,2,3312,Occasional Spender
+1511,202,135,4,2727.19,1,2,3,2,1232,New Customer Budget Spender
+1512,288,288,1,980.37,3,1,1,1,3111,Inactive Customer
+1513,337,154,3,3647.51,4,2,2,3,4223,Reactivated Spender
+1514,227,68,3,2941.36,2,3,2,2,2322,New Customer Low Value
+1515,339,83,4,4269.79,4,2,3,3,4233,At Risk Customer
+1516,167,38,4,4056.06,1,3,3,3,1333,New Customer High Value
+1517,222,29,7,8665.03,2,4,4,4,2444,New Customer High Value
+1518,336,92,2,3445.3,4,2,1,3,4213,Reactivated Spender
+1519,246,9,3,1506.6999999999998,2,4,2,1,2421,New Customer Low Value
+152,227,159,2,2941.37,2,1,1,2,2112,New Customer Low Value
+1520,254,168,3,3794.6,2,1,2,3,2123,New Customer High Potential
+1521,106,96,2,2287.37,1,2,1,2,1212,New Customer Low Value
+1522,336,10,2,1108.08,4,4,1,1,4411,Occasional Spender
+1523,291,42,2,2508.35,3,3,1,2,3312,Occasional Spender
+1524,292,266,3,2473.85,3,1,2,2,3122,Inactive Customer
+1526,207,196,3,5286.6900000000005,2,1,2,4,2124,New Customer High Potential
+1527,177,42,4,3151.67,1,3,3,3,1333,New Customer High Value
+1528,331,76,5,4898.15,3,3,4,4,3344,Top Tier Loyalist
+1529,105,105,1,1810.0,1,2,1,2,1212,New Customer Low Value
+153,357,90,4,5081.71,4,2,3,4,4234,At Risk Customer
+1530,323,2,6,7786.400000000001,3,4,4,4,3444,Top Tier Loyalist
+1531,313,232,4,5129.41,3,1,3,4,3134,At Risk Customer
+1532,153,153,1,183.86,1,2,1,1,1211,New Customer Low Value
+1533,360,134,5,4387.21,4,2,4,3,4243,At Risk Customer
+1534,171,47,4,2666.8199999999997,1,3,3,2,1332,1332
+1535,230,198,2,2468.1,2,1,1,2,2112,New Customer Low Value
+1536,304,34,4,4914.46,3,4,3,4,3434,Top Tier Loyalist
+1537,315,27,4,5056.93,3,4,3,4,3434,Top Tier Loyalist
+1538,217,217,1,175.89,2,1,1,1,2111,New Customer Low Value
+1539,331,66,4,3640.5699999999997,3,3,3,3,3333,Top Tier Loyalist
+154,111,35,4,2055.52,1,4,3,2,1432,1432
+1540,290,6,3,4074.4,3,4,2,3,3423,Occasional Spender
+1541,296,243,2,3561.24,3,1,1,3,3113,Reactivated Spender
+1542,319,134,3,2515.16,3,2,2,2,3222,Inactive Customer
+1543,224,139,2,2567.57,2,2,1,2,2212,New Customer Low Value
+1544,330,330,1,1057.51,3,1,1,1,3111,Inactive Customer
+1545,344,3,5,4332.429999999999,4,4,4,3,4443,Top Tier Loyalist
+1546,342,70,4,3938.7000000000003,4,3,3,3,4333,Top Tier Loyalist
+1547,178,83,5,7669.46,1,2,4,4,1244,New Customer High Value
+1548,38,38,1,1292.84,1,3,1,1,1311,New Customer Low Value
+1549,191,4,4,3600.7200000000003,1,4,3,3,1433,New Customer High Value
+155,150,150,1,1458.17,1,2,1,1,1211,New Customer Low Value
+1550,280,250,2,1527.17,2,1,1,1,2111,New Customer Low Value
+1551,307,23,5,5102.71,3,4,4,4,3444,Top Tier Loyalist
+1552,344,301,2,2776.04,4,1,1,2,4112,Inactive Customer
+1554,144,116,2,3253.38,1,2,1,3,1213,New Customer High Potential
+1555,354,292,3,1644.1599999999999,4,1,2,1,4121,Inactive Customer
+1556,301,301,1,1240.31,3,1,1,1,3111,Inactive Customer
+1557,294,108,3,5465.27,3,2,2,4,3224,Reactivated Spender
+1558,295,76,4,5976.96,3,3,3,4,3334,Top Tier Loyalist
+1559,350,57,5,7250.33,4,3,4,4,4344,Top Tier Loyalist
+156,340,17,3,4007.45,4,4,2,3,4423,Occasional Spender
+1560,289,203,2,1287.6799999999998,3,1,1,1,3111,Inactive Customer
+1561,355,44,6,7427.26,4,3,4,4,4344,Top Tier Loyalist
+1562,358,101,3,4066.11,4,2,2,3,4223,Reactivated Spender
+1563,359,149,3,3617.04,4,2,2,3,4223,Reactivated Spender
+1564,314,14,2,1910.73,3,4,1,2,3412,Occasional Spender
+1565,64,10,2,3083.23,1,4,1,3,1413,New Customer High Spender
+1566,360,200,2,2252.58,4,1,1,2,4112,Inactive Customer
+1567,292,25,5,6546.8,3,4,4,4,3444,Top Tier Loyalist
+1568,292,140,4,5914.610000000001,3,2,3,4,3234,At Risk Customer
+1569,54,54,1,1466.68,1,3,1,1,1311,New Customer Low Value
+1570,326,34,6,7378.74,3,4,4,4,3444,Top Tier Loyalist
+1571,113,6,2,3357.07,1,4,1,3,1413,New Customer High Spender
+1572,359,83,3,4931.11,4,2,2,4,4224,Reactivated Spender
+1573,234,65,3,4810.18,2,3,2,4,2324,New Customer High Spender
+1574,314,74,4,3392.65,3,3,3,3,3333,Top Tier Loyalist
+1575,247,247,1,478.16,2,1,1,1,2111,New Customer Low Value
+1576,340,38,6,5348.22,4,3,4,4,4344,Top Tier Loyalist
+1577,298,13,7,7980.92,3,4,4,4,3444,Top Tier Loyalist
+1578,270,58,2,2468.5299999999997,2,3,1,2,2312,New Customer Low Value
+1579,316,79,7,7585.46,3,3,4,4,3344,Top Tier Loyalist
+158,323,66,5,5993.71,3,3,4,4,3344,Top Tier Loyalist
+1580,313,70,3,2661.33,3,3,2,2,3322,Occasional Spender
+1581,300,37,4,5114.67,3,4,3,4,3434,Top Tier Loyalist
+1583,350,113,3,2997.66,4,2,2,3,4223,Reactivated Spender
+1584,360,3,2,2749.7200000000003,4,4,1,2,4412,Occasional Spender
+1585,219,219,1,1810.0,2,1,1,2,2112,New Customer Low Value
+1586,261,200,2,2849.34,2,1,1,2,2112,New Customer Low Value
+1587,273,78,2,726.02,2,3,1,1,2311,New Customer Low Value
+1588,335,43,3,3586.67,4,3,2,3,4323,Occasional Spender
+1589,267,110,3,4533.41,2,2,2,4,2224,New Customer High Potential
+159,301,67,4,4489.3,3,3,3,4,3334,Top Tier Loyalist
+1591,320,30,6,7415.4,3,4,4,4,3444,Top Tier Loyalist
+1592,131,101,2,3036.5099999999998,1,2,1,3,1213,New Customer High Potential
+1593,190,59,3,2938.86,1,3,2,2,1322,New Customer Low Value
+1594,361,1,4,4574.16,4,4,3,4,4434,Top Tier Loyalist
+1595,157,78,3,4832.84,1,3,2,4,1324,New Customer High Spender
+1596,184,136,3,3684.49,1,2,2,3,1223,New Customer High Potential
+1597,350,27,6,10207.61,4,4,4,4,4444,Top Tier Loyalist
+1598,181,171,2,2563.81,1,1,1,2,1112,New Customer Low Value
+1599,348,136,3,3946.7200000000003,4,2,2,3,4223,Reactivated Spender
+16,100,100,1,1636.9,1,2,1,1,1211,New Customer Low Value
+160,196,196,1,1793.43,1,1,1,2,1112,New Customer Low Value
+1600,283,14,4,2733.05,3,4,3,2,3432,Price Conscious Buyers
+1601,263,20,3,3699.2200000000003,2,4,2,3,2423,New Customer High Spender
+1602,8,8,1,1148.64,1,4,1,1,1411,New Customer Low Value
+1603,356,24,4,5471.889999999999,4,4,3,4,4434,Top Tier Loyalist
+1604,171,100,3,3311.7200000000003,1,2,2,3,1223,New Customer High Potential
+1606,51,43,2,3003.27,1,3,1,3,1313,New Customer High Spender
+1607,277,277,1,795.34,2,1,1,1,2111,New Customer Low Value
+1608,308,308,1,533.51,3,1,1,1,3111,Inactive Customer
+1609,270,62,4,5467.02,2,3,3,4,2334,New Customer High Value
+1610,198,9,2,1701.28,1,4,1,1,1411,New Customer Low Value
+1611,319,42,7,9164.9,3,3,4,4,3344,Top Tier Loyalist
+1612,71,68,2,3904.22,1,3,1,3,1313,New Customer High Spender
+1613,209,175,3,1359.4,2,1,2,1,2121,New Customer Low Value
+1614,244,51,4,2778.61,2,3,3,2,2332,2332
+1615,319,153,2,3577.09,3,2,1,3,3213,Reactivated Spender
+1616,154,154,1,1577.53,1,2,1,1,1211,New Customer Low Value
+1617,260,210,2,2927.61,2,1,1,2,2112,New Customer Low Value
+1618,29,29,1,792.9,1,4,1,1,1411,New Customer Low Value
+1619,194,115,5,5601.59,1,2,4,4,1244,New Customer High Value
+162,278,99,2,1913.9699999999998,2,2,1,2,2212,New Customer Low Value
+1620,350,217,2,2947.04,4,1,1,2,4112,Inactive Customer
+1621,223,83,2,1169.62,2,2,1,1,2211,New Customer Low Value
+1622,79,48,2,1593.9,1,3,1,1,1311,New Customer Low Value
+1623,188,188,1,100.35,1,1,1,1,1111,New Customer Low Value
+1624,192,41,2,2216.99,1,3,1,2,1312,New Customer Low Value
+1625,298,156,3,4887.36,3,2,2,4,3224,Reactivated Spender
+1626,256,256,1,1289.85,2,1,1,1,2111,New Customer Low Value
+1627,269,25,7,9298.94,2,4,4,4,2444,New Customer High Value
+1629,302,2,3,2398.29,3,4,2,2,3422,Occasional Spender
+1630,73,24,2,2547.8199999999997,1,4,1,2,1412,New Customer Low Value
+1631,233,233,1,980.37,2,1,1,1,2111,New Customer Low Value
+1632,282,282,1,1538.99,3,1,1,1,3111,Inactive Customer
+1633,324,18,2,3471.7200000000003,3,4,1,3,3413,Occasional Spender
+1635,288,184,2,2992.54,3,1,1,3,3113,Reactivated Spender
+1636,344,344,1,1894.19,4,1,1,2,4112,Inactive Customer
+1637,350,173,3,2788.1,4,1,2,2,4122,Inactive Customer
+1638,322,12,3,4495.360000000001,3,4,2,4,3424,Occasional Spender
+1639,68,68,1,1793.43,1,3,1,2,1312,New Customer Low Value
+164,274,262,2,1941.54,2,1,1,2,2112,New Customer Low Value
+1640,338,63,6,3692.08,4,3,4,3,4343,Top Tier Loyalist
+1641,346,64,6,7391.96,4,3,4,4,4344,Top Tier Loyalist
+1642,221,221,1,1483.2,2,1,1,1,2111,New Customer Low Value
+1643,345,39,3,3419.21,4,3,2,3,4323,Occasional Spender
+1644,266,32,4,5501.7,2,4,3,4,2434,New Customer High Value
+1645,295,91,6,3562.31,3,2,4,3,3243,At Risk Customer
+1646,305,27,5,5475.17,3,4,4,4,3444,Top Tier Loyalist
+1647,307,179,4,4188.15,3,1,3,3,3133,At Risk Customer
+1648,161,14,3,3543.3599999999997,1,4,2,3,1423,New Customer High Spender
+1649,117,117,1,1812.75,1,2,1,2,1212,New Customer Low Value
+165,261,95,4,5615.98,2,2,3,4,2234,New Customer High Value
+1650,268,11,2,2155.89,2,4,1,2,2412,New Customer Low Value
+1651,293,98,2,1279.35,3,2,1,1,3211,Inactive Customer
+1652,268,178,5,6482.28,2,1,4,4,2144,New Customer High Value
+1653,319,65,2,1669.56,3,3,1,1,3311,Occasional Spender
+1654,314,85,3,3435.02,3,2,2,3,3223,Reactivated Spender
+1655,252,17,2,2756.5299999999997,2,4,1,2,2412,New Customer Low Value
+1656,317,85,4,4040.0299999999997,3,2,3,3,3233,At Risk Customer
+1657,310,62,3,2917.69,3,3,2,2,3322,Occasional Spender
+1658,364,351,2,1815.58,4,1,1,2,4112,Inactive Customer
+1659,230,81,4,4243.13,2,3,3,3,2333,New Customer High Value
+166,115,115,1,1945.43,1,2,1,2,1212,New Customer Low Value
+1660,195,151,4,3811.25,1,2,3,3,1233,New Customer High Value
+1661,295,219,3,3640.3199999999997,3,1,2,3,3123,Reactivated Spender
+1662,230,63,2,1312.9900000000002,2,3,1,1,2311,New Customer Low Value
+1663,225,47,3,4391.61,2,3,2,3,2323,New Customer High Spender
+1664,340,138,3,3158.4,4,2,2,3,4223,Reactivated Spender
+1665,362,161,3,3044.48,4,1,2,3,4123,Reactivated Spender
+1666,164,164,1,1765.3,1,1,1,1,1111,New Customer Low Value
+1668,343,5,3,3939.5699999999997,4,4,2,3,4423,Occasional Spender
+1669,312,115,2,2278.0,3,2,1,2,3212,Inactive Customer
+167,350,15,3,2379.8900000000003,4,4,2,2,4422,Occasional Spender
+1670,270,61,5,6391.87,2,3,4,4,2344,New Customer High Value
+1671,44,44,1,1538.99,1,3,1,1,1311,New Customer Low Value
+1672,334,48,6,7011.64,4,3,4,4,4344,Top Tier Loyalist
+1673,274,134,3,1318.28,2,2,2,1,2221,New Customer Low Value
+1674,352,49,3,741.0699999999999,4,3,2,1,4321,Occasional Spender
+1675,295,102,3,3089.1400000000003,3,2,2,3,3223,Reactivated Spender
+1676,285,144,2,3187.0299999999997,3,2,1,3,3213,Reactivated Spender
+1677,251,99,4,5257.759999999999,2,2,3,4,2234,New Customer High Value
+1678,348,135,3,2745.86,4,2,2,2,4222,Inactive Customer
+1679,363,243,3,3919.9300000000003,4,1,2,3,4123,Reactivated Spender
+168,329,137,4,4054.71,3,2,3,3,3233,At Risk Customer
+1681,164,164,1,533.51,1,1,1,1,1111,New Customer Low Value
+1682,318,83,3,5181.33,3,2,2,4,3224,Reactivated Spender
+1683,221,83,5,6813.32,2,2,4,4,2244,New Customer High Value
+1684,306,26,4,2853.13,3,4,3,2,3432,Price Conscious Buyers
+1685,235,26,2,1818.98,2,4,1,2,2412,New Customer Low Value
+1686,334,110,7,6876.67,4,2,4,4,4244,At Risk Customer
+1687,215,215,1,12.01,2,1,1,1,2111,New Customer Low Value
+1688,225,192,3,4182.27,2,1,2,3,2123,New Customer High Potential
+1689,237,137,3,3922.5299999999997,2,2,2,3,2223,New Customer High Potential
+169,344,62,3,2065.08,4,3,2,2,4322,Occasional Spender
+1690,329,17,6,4995.23,3,4,4,4,3444,Top Tier Loyalist
+1691,364,3,6,5193.96,4,4,4,4,4444,Top Tier Loyalist
+1692,248,137,2,1255.0900000000001,2,2,1,1,2211,New Customer Low Value
+1693,76,76,1,1807.45,1,3,1,2,1312,New Customer Low Value
+1694,238,20,4,2854.45,2,4,3,2,2432,2432
+1695,152,94,2,3535.8900000000003,1,2,1,3,1213,New Customer High Potential
+1696,281,29,7,9329.68,2,4,4,4,2444,New Customer High Value
+1697,363,341,2,1832.45,4,1,1,2,4112,Inactive Customer
+1698,267,33,6,8225.34,2,4,4,4,2444,New Customer High Value
+1699,283,82,4,4569.32,3,2,3,4,3234,At Risk Customer
+17,81,47,2,2261.02,1,3,1,2,1312,New Customer Low Value
+170,349,335,2,2555.62,4,1,1,2,4112,Inactive Customer
+1700,218,86,4,2313.2,2,2,3,2,2232,New Customer Budget Spender
+1701,328,70,3,3104.54,3,3,2,3,3323,Occasional Spender
+1702,314,15,3,2282.63,3,4,2,2,3422,Occasional Spender
+1703,327,327,1,202.62,3,1,1,1,3111,Inactive Customer
+1704,307,307,1,1216.14,3,1,1,1,3111,Inactive Customer
+1705,104,16,2,2309.5299999999997,1,4,1,2,1412,New Customer Low Value
+1706,258,3,4,4125.62,2,4,3,3,2433,New Customer High Value
+1707,222,79,2,2437.58,2,3,1,2,2312,New Customer Low Value
+1708,280,280,1,1231.15,2,1,1,1,2111,New Customer Low Value
+1709,348,5,3,4005.8599999999997,4,4,2,3,4423,Occasional Spender
+171,357,19,9,9865.380000000001,4,4,4,4,4444,Top Tier Loyalist
+1710,362,81,4,4067.49,4,3,3,3,4333,Top Tier Loyalist
+1711,213,61,4,2438.8,2,3,3,2,2332,2332
+1712,333,333,1,774.53,4,1,1,1,4111,Inactive Customer
+1713,337,62,3,5531.24,4,3,2,4,4324,Occasional Spender
+1714,77,77,1,1231.15,1,3,1,1,1311,New Customer Low Value
+1715,126,126,1,100.35,1,2,1,1,1211,New Customer Low Value
+1716,171,171,1,1577.53,1,1,1,1,1111,New Customer Low Value
+1717,182,182,1,1057.51,1,1,1,1,1111,New Customer Low Value
+1718,260,25,3,2565.2200000000003,2,4,2,2,2422,New Customer Low Value
+1719,236,101,2,1423.2,2,2,1,1,2211,New Customer Low Value
+172,326,12,4,4574.95,3,4,3,4,3434,Top Tier Loyalist
+1720,167,24,2,2830.33,1,4,1,2,1412,New Customer Low Value
+1721,363,23,5,6593.76,4,4,4,4,4444,Top Tier Loyalist
+1722,317,135,4,3893.25,3,2,3,3,3233,At Risk Customer
+1723,18,18,1,1024.66,1,4,1,1,1411,New Customer Low Value
+1724,253,104,2,1200.6200000000001,2,2,1,1,2211,New Customer Low Value
+1725,274,61,3,4656.1900000000005,2,3,2,4,2324,New Customer High Spender
+1726,271,271,1,1890.39,2,1,1,2,2112,New Customer Low Value
+1727,328,146,2,2584.5299999999997,3,2,1,2,3212,Inactive Customer
+1728,194,146,2,3041.15,1,2,1,3,1213,New Customer High Potential
+1729,302,59,3,2205.17,3,3,2,2,3322,Occasional Spender
+173,362,121,3,3187.8599999999997,4,2,2,3,4223,Reactivated Spender
+1730,334,334,1,1172.78,4,1,1,1,4111,Inactive Customer
+1731,235,67,3,1867.6999999999998,2,3,2,2,2322,New Customer Low Value
+1732,139,98,2,1258.8,1,2,1,1,1211,New Customer Low Value
+1733,331,54,2,1272.92,3,3,1,1,3311,Occasional Spender
+1734,26,26,1,235.63,1,4,1,1,1411,New Customer Low Value
+1735,329,66,4,4446.81,3,3,3,4,3334,Top Tier Loyalist
+1736,265,55,5,7322.36,2,3,4,4,2344,New Customer High Value
+1737,226,46,3,4477.58,2,3,2,4,2324,New Customer High Spender
+1738,327,144,3,2264.85,3,2,2,2,3222,Inactive Customer
+1739,69,38,2,2308.13,1,3,1,2,1312,New Customer Low Value
+174,212,63,2,1791.8600000000001,2,3,1,2,2312,New Customer Low Value
+1740,253,70,4,4605.93,2,3,3,4,2334,New Customer High Value
+1741,220,65,2,2387.65,2,3,1,2,2312,New Customer Low Value
+1742,363,70,5,5989.48,4,3,4,4,4344,Top Tier Loyalist
+1743,175,87,3,2600.0600000000004,1,2,2,2,1222,New Customer Low Value
+1744,352,352,1,1227.34,4,1,1,1,4111,Inactive Customer
+1745,355,37,6,4506.32,4,4,4,4,4444,Top Tier Loyalist
+1746,299,106,4,5273.92,3,2,3,4,3234,At Risk Customer
+1748,302,13,7,8102.04,3,4,4,4,3444,Top Tier Loyalist
+1749,210,210,1,1636.9,2,1,1,1,2111,New Customer Low Value
+175,252,154,2,2612.06,2,2,1,2,2212,New Customer Low Value
+1750,214,57,3,3383.7200000000003,2,3,2,3,2323,New Customer High Spender
+1751,262,45,3,3360.52,2,3,2,3,2323,New Customer High Spender
+1752,218,29,5,4627.35,2,4,4,4,2444,New Customer High Value
+1753,42,42,1,1163.89,1,3,1,1,1311,New Customer Low Value
+1754,155,143,2,3883.32,1,2,1,3,1213,New Customer High Potential
+1755,278,49,4,4492.67,2,3,3,4,2334,New Customer High Value
+1756,128,128,1,1362.99,1,2,1,1,1211,New Customer Low Value
+1758,169,36,3,1542.01,1,4,2,1,1421,New Customer Low Value
+1759,332,105,3,2966.73,4,2,2,3,4223,Reactivated Spender
+176,176,176,1,1842.92,1,1,1,2,1112,New Customer Low Value
+1760,325,55,4,4000.1000000000004,3,3,3,3,3333,Top Tier Loyalist
+1761,277,51,3,3505.2200000000003,2,3,2,3,2323,New Customer High Spender
+1762,231,22,3,2123.21,2,4,2,2,2422,New Customer Low Value
+1763,251,40,5,5624.1900000000005,2,3,4,4,2344,New Customer High Value
+1764,139,3,2,488.47,1,4,1,1,1411,New Customer Low Value
+1765,47,47,1,2083.94,1,3,1,2,1312,New Customer Low Value
+1766,336,179,3,1312.5300000000002,4,1,2,1,4121,Inactive Customer
+1767,271,5,5,5973.14,2,4,4,4,2444,New Customer High Value
+1768,93,93,1,945.04,1,2,1,1,1211,New Customer Low Value
+1769,348,289,3,2214.66,4,1,2,2,4122,Inactive Customer
+177,227,77,5,3933.5699999999997,2,3,4,3,2343,New Customer High Value
+1770,343,151,3,3073.7000000000003,4,2,2,3,4223,Reactivated Spender
+1771,357,40,5,5464.37,4,3,4,4,4344,Top Tier Loyalist
+1772,351,173,3,3725.35,4,1,2,3,4123,Reactivated Spender
+1773,290,77,6,7333.88,3,3,4,4,3344,Top Tier Loyalist
+1774,322,98,2,818.14,3,2,1,1,3211,Inactive Customer
+1775,342,53,3,4198.139999999999,4,3,2,3,4323,Occasional Spender
+1776,94,94,1,1179.0,1,2,1,1,1211,New Customer Low Value
+1777,302,199,3,3598.9300000000003,3,1,2,3,3123,Reactivated Spender
+1778,349,349,1,1636.9,4,1,1,1,4111,Inactive Customer
+1779,135,130,2,3446.9300000000003,1,2,1,3,1213,New Customer High Potential
+178,102,71,2,2228.56,1,3,1,2,1312,New Customer Low Value
+1780,329,39,2,646.7900000000001,3,3,1,1,3311,Occasional Spender
+1781,301,10,3,2840.6899999999996,3,4,2,2,3422,Occasional Spender
+1782,276,82,3,4501.28,2,2,2,4,2224,New Customer High Potential
+1783,303,50,7,7651.6900000000005,3,3,4,4,3344,Top Tier Loyalist
+1784,195,72,2,2983.8,1,3,1,3,1313,New Customer High Spender
+1785,344,125,3,2669.77,4,2,2,2,4222,Inactive Customer
+1787,134,42,2,3236.32,1,3,1,3,1313,New Customer High Spender
+1788,137,30,3,2705.67,1,4,2,2,1422,New Customer Low Value
+1789,270,133,2,2579.66,2,2,1,2,2212,New Customer Low Value
+179,352,41,3,3168.84,4,3,2,3,4323,Occasional Spender
+1790,181,33,3,3110.84,1,4,2,3,1423,New Customer High Spender
+1791,355,347,2,2989.0,4,1,1,3,4113,Reactivated Spender
+1792,306,28,5,4122.41,3,4,4,3,3443,Top Tier Loyalist
+1793,362,61,3,3715.62,4,3,2,3,4323,Occasional Spender
+1794,243,69,2,1853.77,2,3,1,2,2312,New Customer Low Value
+1795,328,213,2,1817.7600000000002,3,1,1,2,3112,Inactive Customer
+1796,123,123,1,235.63,1,2,1,1,1211,New Customer Low Value
+1797,317,98,5,3936.38,3,2,4,3,3243,At Risk Customer
+1798,326,14,3,1283.79,3,4,2,1,3421,Occasional Spender
+1799,60,60,1,1061.56,1,3,1,1,1311,New Customer Low Value
+18,281,169,4,4306.47,2,1,3,3,2133,New Customer High Value
+180,342,12,4,5905.43,4,4,3,4,4434,Top Tier Loyalist
+1800,276,237,2,1620.49,2,1,1,1,2111,New Customer Low Value
+1801,283,66,5,4170.53,3,3,4,3,3343,Top Tier Loyalist
+1802,14,14,1,1894.19,1,4,1,2,1412,New Customer Low Value
+1803,350,122,3,2246.8999999999996,4,2,2,2,4222,Inactive Customer
+1804,263,32,2,3270.6,2,4,1,3,2413,New Customer High Spender
+1805,331,91,3,1419.52,3,2,2,1,3221,Inactive Customer
+1806,192,38,2,2818.09,1,3,1,2,1312,New Customer Low Value
+1807,205,64,4,5365.41,1,3,3,4,1334,New Customer High Value
+1808,347,77,3,4893.93,4,3,2,4,4324,Occasional Spender
+1809,161,28,3,4566.860000000001,1,4,2,4,1424,New Customer High Spender
+181,241,187,2,1760.02,2,1,1,1,2111,New Customer Low Value
+1810,337,7,2,458.74,4,4,1,1,4411,Occasional Spender
+1811,164,33,4,5770.79,1,4,3,4,1434,New Customer High Value
+1812,286,117,4,3870.46,3,2,3,3,3233,At Risk Customer
+1813,303,303,1,590.26,3,1,1,1,3111,Inactive Customer
+1814,346,132,3,1701.5,4,2,2,1,4221,Inactive Customer
+1815,351,12,5,4235.58,4,4,4,3,4443,Top Tier Loyalist
+1816,195,81,3,2240.5,1,3,2,2,1322,New Customer Low Value
+1817,298,32,6,4656.05,3,4,4,4,3444,Top Tier Loyalist
+1818,274,25,3,3470.92,2,4,2,3,2423,New Customer High Spender
+182,348,271,3,4379.96,4,1,2,3,4123,Reactivated Spender
+1820,316,36,5,3893.81,3,4,4,3,3443,Top Tier Loyalist
+1821,328,45,5,6225.85,3,3,4,4,3344,Top Tier Loyalist
+1822,235,3,3,1733.72,2,4,2,1,2421,New Customer Low Value
+1823,297,207,3,2581.46,3,1,2,2,3122,Inactive Customer
+1824,132,13,3,4791.26,1,4,2,4,1424,New Customer High Spender
+1825,325,41,3,2733.28,3,3,2,2,3322,Occasional Spender
+1826,343,92,3,3280.2000000000003,4,2,2,3,4223,Reactivated Spender
+1827,39,39,1,1129.13,1,3,1,1,1311,New Customer Low Value
+1828,294,294,1,12.01,3,1,1,1,3111,Inactive Customer
+1829,4,4,1,1228.07,1,4,1,1,1411,New Customer Low Value
+183,207,103,2,743.0500000000001,2,2,1,1,2211,New Customer Low Value
+1831,348,274,2,2855.48,4,1,1,2,4112,Inactive Customer
+1832,234,109,4,6039.3,2,2,3,4,2234,New Customer High Value
+1833,361,11,3,3606.4399999999996,4,4,2,3,4423,Occasional Spender
+1834,233,127,2,3752.88,2,2,1,3,2213,New Customer High Potential
+1835,346,36,3,3678.84,4,4,2,3,4423,Occasional Spender
+1836,167,167,1,1873.97,1,1,1,2,1112,New Customer Low Value
+1837,305,36,4,4668.68,3,4,3,4,3434,Top Tier Loyalist
+1838,162,162,1,1945.43,1,1,1,2,1112,New Customer Low Value
+1839,274,50,2,1878.94,2,3,1,2,2312,New Customer Low Value
+1840,307,108,3,4797.73,3,2,2,4,3224,Reactivated Spender
+1841,362,37,2,4061.3,4,4,1,3,4413,Occasional Spender
+1842,337,218,2,2719.9700000000003,4,1,1,2,4112,Inactive Customer
+1843,287,252,3,4004.08,3,1,2,3,3123,Reactivated Spender
+1844,363,363,1,1216.14,4,1,1,1,4111,Inactive Customer
+1845,359,22,2,1322.1999999999998,4,4,1,1,4411,Occasional Spender
+1847,145,33,2,2027.73,1,4,1,2,1412,New Customer Low Value
+1848,298,43,2,3506.4799999999996,3,3,1,3,3313,Occasional Spender
+1849,272,137,4,5099.71,2,2,3,4,2234,New Customer High Value
+185,205,9,5,6398.0,1,4,4,4,1444,New Customer High Value
+1850,228,45,4,4442.4400000000005,2,3,3,3,2333,New Customer High Value
+1851,319,319,1,1703.52,3,1,1,1,3111,Inactive Customer
+1852,291,221,2,2235.05,3,1,1,2,3112,Inactive Customer
+1853,233,84,4,4025.1600000000003,2,2,3,3,2233,New Customer High Value
+1854,329,1,3,3384.5600000000004,3,4,2,3,3423,Occasional Spender
+1855,155,23,2,2351.41,1,4,1,2,1412,New Customer Low Value
+1856,184,184,1,175.89,1,1,1,1,1111,New Customer Low Value
+1857,118,88,3,5042.049999999999,1,2,2,4,1224,New Customer High Potential
+1858,265,22,6,9593.77,2,4,4,4,2444,New Customer High Value
+1859,224,77,3,3175.23,2,3,2,3,2323,New Customer High Spender
+186,308,24,3,3415.74,3,4,2,3,3423,Occasional Spender
+1860,236,12,3,4335.1900000000005,2,4,2,3,2423,New Customer High Spender
+1861,30,30,1,1024.66,1,4,1,1,1411,New Customer Low Value
+1862,265,75,5,4262.63,2,3,4,3,2343,New Customer High Value
+1863,360,280,3,4980.46,4,1,2,4,4124,Reactivated Spender
+1864,351,109,2,1033.04,4,2,1,1,4211,Inactive Customer
+1866,313,39,5,6507.76,3,3,4,4,3344,Top Tier Loyalist
+1867,23,23,1,958.74,1,4,1,1,1411,New Customer Low Value
+1868,272,27,4,6974.53,2,4,3,4,2434,New Customer High Value
+1869,359,123,3,1447.84,4,2,2,1,4221,Inactive Customer
+187,347,49,4,4086.24,4,3,3,3,4333,Top Tier Loyalist
+1870,137,39,2,2722.52,1,3,1,2,1312,New Customer Low Value
+1871,217,95,3,3584.65,2,2,2,3,2223,New Customer High Potential
+1872,238,154,3,2534.12,2,2,2,2,2222,New Customer Low Value
+1873,122,9,2,2115.02,1,4,1,2,1412,New Customer Low Value
+1874,100,100,1,478.16,1,2,1,1,1211,New Customer Low Value
+1875,255,111,2,3332.42,2,2,1,3,2213,New Customer High Potential
+1876,326,145,3,6160.299999999999,3,2,2,4,3224,Reactivated Spender
+1877,347,181,4,3389.43,4,1,3,3,4133,At Risk Customer
+1878,142,140,2,1400.23,1,2,1,1,1211,New Customer Low Value
+1879,355,48,4,2132.56,4,3,3,2,4332,Price Conscious Buyers
+188,115,16,3,2925.92,1,4,2,2,1422,New Customer Low Value
+1880,325,325,1,1163.89,3,1,1,1,3111,Inactive Customer
+1881,363,36,5,5567.58,4,4,4,4,4444,Top Tier Loyalist
+1882,310,194,3,3220.96,3,1,2,3,3123,Reactivated Spender
+1883,333,213,2,2833.3199999999997,4,1,1,2,4112,Inactive Customer
+1884,323,25,4,3431.8900000000003,3,4,3,3,3433,Top Tier Loyalist
+1885,233,161,2,1223.45,2,1,1,1,2111,New Customer Low Value
+1886,236,7,4,4591.32,2,4,3,4,2434,New Customer High Value
+1887,317,119,4,5551.6900000000005,3,2,3,4,3234,At Risk Customer
+1888,200,178,2,3038.7799999999997,1,1,1,3,1113,New Customer High Potential
+1889,360,136,4,4573.79,4,2,3,4,4234,At Risk Customer
+189,12,12,1,1812.75,1,4,1,2,1412,New Customer Low Value
+1890,349,83,4,5293.64,4,2,3,4,4234,At Risk Customer
+1891,287,82,5,6955.030000000001,3,2,4,4,3244,At Risk Customer
+1892,361,108,3,2245.03,4,2,2,2,4222,Inactive Customer
+1893,200,3,3,3144.91,1,4,2,3,1423,New Customer High Spender
+1894,164,74,2,1706.79,1,3,1,1,1311,New Customer Low Value
+1895,306,79,3,1114.7399999999998,3,3,2,1,3321,Occasional Spender
+1896,339,160,2,1953.53,4,1,1,2,4112,Inactive Customer
+1897,320,63,6,4703.77,3,3,4,4,3344,Top Tier Loyalist
+1898,108,56,2,1470.2599999999998,1,3,1,1,1311,New Customer Low Value
+190,208,208,1,1216.14,2,1,1,1,2111,New Customer Low Value
+1900,119,83,2,1349.17,1,2,1,1,1211,New Customer Low Value
+1901,303,165,4,6311.97,3,1,3,4,3134,At Risk Customer
+1902,357,53,3,4449.2,4,3,2,4,4324,Occasional Spender
+1903,17,17,1,1775.81,1,4,1,1,1411,New Customer Low Value
+1904,132,68,3,1954.46,1,3,2,2,1322,New Customer Low Value
+1905,334,185,4,3654.66,4,1,3,3,4133,At Risk Customer
+1906,221,2,3,2171.06,2,4,2,2,2422,New Customer Low Value
+1907,334,140,3,3377.59,4,2,2,3,4223,Reactivated Spender
+1908,309,185,2,2870.1800000000003,3,1,1,2,3112,Inactive Customer
+1909,306,60,4,4122.68,3,3,3,3,3333,Top Tier Loyalist
+1910,116,116,1,71.16,1,2,1,1,1211,New Customer Low Value
+1912,294,50,4,3747.07,3,3,3,3,3333,Top Tier Loyalist
+1913,344,43,7,4115.25,4,3,4,3,4343,Top Tier Loyalist
+1914,317,13,4,2822.5099999999998,3,4,3,2,3432,Price Conscious Buyers
+1915,217,62,2,3255.3599999999997,2,3,1,3,2313,New Customer High Spender
+1916,333,166,4,4496.51,4,1,3,4,4134,At Risk Customer
+1918,188,79,3,5027.8,1,3,2,4,1324,New Customer High Spender
+1919,333,45,2,2636.73,4,3,1,2,4312,Occasional Spender
+1920,70,70,1,360.4,1,3,1,1,1311,New Customer Low Value
+1922,353,94,2,2819.01,4,2,1,2,4212,Inactive Customer
+1923,246,16,2,1164.23,2,4,1,1,2411,New Customer Low Value
+1924,297,297,1,792.9,3,1,1,1,3111,Inactive Customer
+1925,231,13,4,3745.9,2,4,3,3,2433,New Customer High Value
+1926,243,6,2,3981.8599999999997,2,4,1,3,2413,New Customer High Spender
+1927,263,91,2,2486.24,2,2,1,2,2212,New Customer Low Value
+1929,114,46,2,302.97,1,3,1,1,1311,New Customer Low Value
+193,342,25,5,7368.36,4,4,4,4,4444,Top Tier Loyalist
+1930,315,144,4,4872.05,3,2,3,4,3234,At Risk Customer
+1931,364,231,2,1855.49,4,1,1,2,4112,Inactive Customer
+1932,283,90,5,6439.46,3,2,4,4,3244,At Risk Customer
+1933,215,42,6,7545.49,2,3,4,4,2344,New Customer High Value
+1934,253,155,3,2657.8999999999996,2,2,2,2,2222,New Customer Low Value
+1935,364,58,5,6156.05,4,3,4,4,4344,Top Tier Loyalist
+1936,362,306,3,3171.46,4,1,2,3,4123,Reactivated Spender
+1937,182,35,2,2075.62,1,4,1,2,1412,New Customer Low Value
+1938,310,292,2,3068.6499999999996,3,1,1,3,3113,Reactivated Spender
+1939,77,77,1,575.27,1,3,1,1,1311,New Customer Low Value
+194,109,109,1,1274.93,1,2,1,1,1211,New Customer Low Value
+1940,142,133,2,3265.62,1,2,1,3,1213,New Customer High Potential
+1941,261,6,2,1288.62,2,4,1,1,2411,New Customer Low Value
+1942,261,17,4,2857.5,2,4,3,2,2432,2432
+1943,328,328,1,360.4,3,1,1,1,3111,Inactive Customer
+1944,354,6,3,2136.32,4,4,2,2,4422,Occasional Spender
+1945,116,116,1,533.51,1,2,1,1,1211,New Customer Low Value
+1946,357,118,6,3586.79,4,2,4,3,4243,At Risk Customer
+1947,345,126,4,2755.51,4,2,3,2,4232,At Risk Customer
+1948,307,169,3,2699.25,3,1,2,2,3122,Inactive Customer
+1949,252,244,2,1701.28,2,1,1,1,2111,New Customer Low Value
+195,277,22,3,5133.82,2,4,2,4,2424,New Customer High Spender
+1950,181,7,3,4945.71,1,4,2,4,1424,New Customer High Spender
+1951,334,297,3,1665.25,4,1,2,1,4121,Inactive Customer
+1952,343,176,3,837.31,4,1,2,1,4121,Inactive Customer
+1953,247,135,4,3492.32,2,2,3,3,2233,New Customer High Value
+1954,338,101,4,4322.5599999999995,4,2,3,3,4233,At Risk Customer
+1955,348,348,1,1703.52,4,1,1,1,4111,Inactive Customer
+1956,190,68,2,1108.15,1,3,1,1,1311,New Customer Low Value
+1957,285,20,6,7380.39,3,4,4,4,3444,Top Tier Loyalist
+1958,133,70,2,586.65,1,3,1,1,1311,New Customer Low Value
+1959,235,142,3,1963.23,2,2,2,2,2222,New Customer Low Value
+196,223,147,2,1020.78,2,2,1,1,2211,New Customer Low Value
+1960,340,70,2,2948.77,4,3,1,3,4313,Occasional Spender
+1961,330,200,2,2963.46,3,1,1,3,3113,Reactivated Spender
+1962,94,94,1,795.34,1,2,1,1,1211,New Customer Low Value
+1963,10,10,1,1890.39,1,4,1,2,1412,New Customer Low Value
+1965,297,297,1,795.34,3,1,1,1,3111,Inactive Customer
+1966,357,162,4,3226.9300000000003,4,1,3,3,4133,At Risk Customer
+1967,346,88,3,3845.29,4,2,2,3,4223,Reactivated Spender
+1968,363,160,5,4664.66,4,1,4,4,4144,At Risk Customer
+1969,238,18,5,5567.4,2,4,4,4,2444,New Customer High Value
+197,345,28,6,4895.09,4,4,4,4,4444,Top Tier Loyalist
+1970,290,1,4,3504.49,3,4,3,3,3433,Top Tier Loyalist
+1971,260,63,3,4183.599999999999,2,3,2,3,2323,New Customer High Spender
+1972,287,1,3,3239.56,3,4,2,3,3423,Occasional Spender
+1973,337,48,3,3639.26,4,3,2,3,4323,Occasional Spender
+1974,259,74,3,2571.4700000000003,2,3,2,2,2322,New Customer Low Value
+1975,281,281,1,71.16,2,1,1,1,2111,New Customer Low Value
+1976,338,136,4,4263.22,4,2,3,3,4233,At Risk Customer
+1977,162,114,2,3006.99,1,2,1,3,1213,New Customer High Potential
+1978,153,153,1,71.16,1,2,1,1,1211,New Customer Low Value
+1979,217,214,2,3409.16,2,1,1,3,2113,New Customer High Potential
+198,309,95,4,3462.55,3,2,3,3,3233,At Risk Customer
+1980,208,74,3,3074.26,2,3,2,3,2323,New Customer High Spender
+1981,263,263,1,1280.28,2,1,1,1,2111,New Customer Low Value
+1982,356,51,4,6322.11,4,3,3,4,4334,Top Tier Loyalist
+1983,90,90,1,1765.3,1,2,1,1,1211,New Customer Low Value
+1984,247,106,3,4556.5,2,2,2,4,2224,New Customer High Potential
+1985,274,122,4,4669.08,2,2,3,4,2234,New Customer High Value
+1986,350,45,4,3322.34,4,3,3,3,4333,Top Tier Loyalist
+1987,43,43,1,586.45,1,3,1,1,1311,New Customer Low Value
+1988,263,135,5,6485.0,2,2,4,4,2244,New Customer High Value
+1989,175,175,1,227.88,1,1,1,1,1111,New Customer Low Value
+199,328,16,4,4323.860000000001,3,4,3,3,3433,Top Tier Loyalist
+1990,251,11,5,4435.26,2,4,4,3,2443,New Customer High Value
+1991,350,43,4,5312.47,4,3,3,4,4334,Top Tier Loyalist
+1992,342,158,6,9189.39,4,1,4,4,4144,At Risk Customer
+1993,357,166,5,5113.889999999999,4,1,4,4,4144,At Risk Customer
+1994,203,3,2,2377.84,1,4,1,2,1412,New Customer Low Value
+1995,242,126,4,2932.2799999999997,2,2,3,2,2232,New Customer Budget Spender
+1996,232,14,2,1209.88,2,4,1,1,2411,New Customer Low Value
+1997,357,357,1,202.62,4,1,1,1,4111,Inactive Customer
+1998,310,157,2,3121.5299999999997,3,1,1,3,3113,Reactivated Spender
+1999,228,18,3,3707.96,2,4,2,3,2423,New Customer High Spender
+2,241,241,1,1403.5,2,1,1,1,2111,New Customer Low Value
+20,60,32,2,2764.4300000000003,1,4,1,2,1412,New Customer Low Value
+200,319,46,2,2645.6800000000003,3,3,1,2,3312,Occasional Spender
+2000,137,137,1,688.63,1,2,1,1,1211,New Customer Low Value
+2001,355,120,6,7718.97,4,2,4,4,4244,At Risk Customer
+2002,194,194,1,1992.93,1,1,1,2,1112,New Customer Low Value
+2003,306,306,1,1720.7,3,1,1,1,3111,Inactive Customer
+2004,240,171,3,3984.67,2,1,2,3,2123,New Customer High Potential
+2005,348,171,3,3719.37,4,1,2,3,4123,Reactivated Spender
+2006,334,148,3,3888.55,4,2,2,3,4223,Reactivated Spender
+2007,151,145,2,3088.8500000000004,1,2,1,3,1213,New Customer High Potential
+2008,220,220,1,1538.99,2,1,1,1,2111,New Customer Low Value
+2009,267,52,2,2084.05,2,3,1,2,2312,New Customer Low Value
+201,361,29,5,7207.55,4,4,4,4,4444,Top Tier Loyalist
+2010,293,88,4,4063.16,3,2,3,3,3233,At Risk Customer
+2011,364,316,2,1315.2800000000002,4,1,1,1,4111,Inactive Customer
+2012,350,327,2,2286.56,4,1,1,2,4112,Inactive Customer
+2013,48,16,2,2535.9700000000003,1,4,1,2,1412,New Customer Low Value
+2014,253,55,3,2264.29,2,3,2,2,2322,New Customer Low Value
+2015,257,51,5,4744.14,2,3,4,4,2344,New Customer High Value
+2016,200,69,2,1965.3500000000001,1,3,1,2,1312,New Customer Low Value
+2017,319,228,3,2063.2200000000003,3,1,2,2,3122,Inactive Customer
+2018,247,36,4,4072.52,2,4,3,3,2433,New Customer High Value
+2019,266,94,5,6179.7,2,2,4,4,2244,New Customer High Value
+2020,296,44,2,2327.59,3,3,1,2,3312,Occasional Spender
+2021,126,126,1,60.34,1,2,1,1,1211,New Customer Low Value
+2022,276,14,5,5843.24,2,4,4,4,2444,New Customer High Value
+2023,199,98,4,5129.41,1,2,3,4,1234,New Customer High Value
+2024,89,30,3,3732.04,1,4,2,3,1423,New Customer High Spender
+2025,321,321,1,1538.99,3,1,1,1,3111,Inactive Customer
+2026,227,147,2,2696.34,2,2,1,2,2212,New Customer Low Value
+2027,326,15,6,5993.41,3,4,4,4,3444,Top Tier Loyalist
+2028,316,135,3,2869.59,3,2,2,2,3222,Inactive Customer
+2029,308,2,3,3456.8900000000003,3,4,2,3,3423,Occasional Spender
+203,360,12,4,3733.56,4,4,3,3,4433,Top Tier Loyalist
+2030,307,240,3,5257.1,3,1,2,4,3124,Reactivated Spender
+2031,314,65,2,1790.95,3,3,1,1,3311,Occasional Spender
+2033,360,47,2,2911.83,4,3,1,2,4312,Occasional Spender
+2034,340,90,6,6954.37,4,2,4,4,4244,At Risk Customer
+2035,334,334,1,358.39,4,1,1,1,4111,Inactive Customer
+2036,276,113,4,3798.63,2,2,3,3,2233,New Customer High Value
+2037,313,260,2,1902.4,3,1,1,2,3112,Inactive Customer
+2038,271,28,2,2360.28,2,4,1,2,2412,New Customer Low Value
+2039,310,310,1,1469.44,3,1,1,1,3111,Inactive Customer
+204,315,28,5,6632.81,3,4,4,4,3444,Top Tier Loyalist
+2040,224,224,1,1812.75,2,1,1,2,2112,New Customer Low Value
+2041,337,262,2,2646.83,4,1,1,2,4112,Inactive Customer
+2042,12,12,1,1198.46,1,4,1,1,1411,New Customer Low Value
+2044,250,6,3,5250.96,2,4,2,4,2424,New Customer High Spender
+2045,199,75,2,2722.52,1,3,1,2,1312,New Customer Low Value
+2046,363,34,6,7371.16,4,4,4,4,4444,Top Tier Loyalist
+2047,280,280,1,1289.85,2,1,1,1,2111,New Customer Low Value
+2048,351,71,3,3299.05,4,3,2,3,4323,Occasional Spender
+2049,345,145,3,2461.46,4,2,2,2,4222,Inactive Customer
+205,293,53,5,3146.84,3,3,4,3,3343,Top Tier Loyalist
+2050,61,61,1,980.37,1,3,1,1,1311,New Customer Low Value
+2051,353,73,5,7146.02,4,3,4,4,4344,Top Tier Loyalist
+2052,360,194,8,6259.18,4,1,4,4,4144,At Risk Customer
+2053,230,16,2,1877.3000000000002,2,4,1,2,2412,New Customer Low Value
+2054,159,2,2,2386.92,1,4,1,2,1412,New Customer Low Value
+2055,313,1,5,6497.74,3,4,4,4,3444,Top Tier Loyalist
+2056,246,246,1,792.9,2,1,1,1,2111,New Customer Low Value
+2057,361,17,6,6889.26,4,4,4,4,4444,Top Tier Loyalist
+2058,332,121,3,3580.85,4,2,2,3,4223,Reactivated Spender
+2059,274,171,3,2285.16,2,1,2,2,2122,New Customer Low Value
+206,230,78,4,5633.8099999999995,2,3,3,4,2334,New Customer High Value
+2060,319,104,5,5354.91,3,2,4,4,3244,At Risk Customer
+2061,344,133,4,6479.18,4,2,3,4,4234,At Risk Customer
+2062,261,261,1,1812.75,2,1,1,2,2112,New Customer Low Value
+2063,272,10,3,2088.12,2,4,2,2,2422,New Customer Low Value
+2064,254,239,2,2236.56,2,1,1,2,2112,New Customer Low Value
+2065,216,216,1,1240.31,2,1,1,1,2111,New Customer Low Value
+2066,135,91,3,4268.88,1,2,2,3,1223,New Customer High Potential
+2067,241,31,7,9047.41,2,4,4,4,2444,New Customer High Value
+2068,364,162,3,3911.2200000000003,4,1,2,3,4123,Reactivated Spender
+207,291,291,1,795.34,3,1,1,1,3111,Inactive Customer
+2070,318,5,5,5948.83,3,4,4,4,3444,Top Tier Loyalist
+2071,352,21,2,2492.12,4,4,1,2,4412,Occasional Spender
+2072,349,22,8,7964.32,4,4,4,4,4444,Top Tier Loyalist
+2073,308,57,3,4321.25,3,3,2,3,3323,Occasional Spender
+2075,165,41,2,2565.84,1,3,1,2,1312,New Customer Low Value
+2076,20,20,1,1977.36,1,4,1,2,1412,New Customer Low Value
+2077,266,263,2,2550.73,2,1,1,2,2112,New Customer Low Value
+2078,340,66,3,3175.0,4,3,2,3,4323,Occasional Spender
+2079,4,4,1,1458.17,1,4,1,1,1411,New Customer Low Value
+208,354,28,4,3619.99,4,4,3,3,4433,Top Tier Loyalist
+2080,350,298,3,4090.08,4,1,2,3,4123,Reactivated Spender
+2081,300,12,3,3342.73,3,4,2,3,3423,Occasional Spender
+2082,150,74,3,1778.8799999999999,1,3,2,1,1321,New Customer Low Value
+2083,249,174,2,2331.88,2,1,1,2,2112,New Customer Low Value
+2084,344,120,2,1415.51,4,2,1,1,4211,Inactive Customer
+2085,28,28,1,1148.64,1,4,1,1,1411,New Customer Low Value
+2086,281,99,2,3268.17,2,2,1,3,2213,New Customer High Potential
+2087,113,56,2,2790.34,1,3,1,2,1312,New Customer Low Value
+2088,219,10,4,6104.32,2,4,3,4,2434,New Customer High Value
+2089,306,148,2,477.32000000000005,3,2,1,1,3211,Inactive Customer
+209,273,108,4,4323.84,2,2,3,3,2233,New Customer High Value
+2090,164,164,1,792.9,1,1,1,1,1111,New Customer Low Value
+2092,278,278,1,1231.15,2,1,1,1,2111,New Customer Low Value
+2093,350,253,3,3491.54,4,1,2,3,4123,Reactivated Spender
+2094,135,54,2,1669.83,1,3,1,1,1311,New Customer Low Value
+2095,314,106,4,2492.24,3,2,3,2,3232,At Risk Customer
+2096,329,234,2,3898.92,3,1,1,3,3113,Reactivated Spender
+2097,223,223,1,1466.68,2,1,1,1,2111,New Customer Low Value
+2098,276,9,4,3697.21,2,4,3,3,2433,New Customer High Value
+2099,233,82,2,3067.2200000000003,2,2,1,3,2213,New Customer High Potential
+21,322,136,2,3332.42,3,2,1,3,3213,Reactivated Spender
+210,232,186,2,3048.76,2,1,1,3,2113,New Customer High Potential
+2100,198,198,1,912.52,1,1,1,1,1111,New Customer Low Value
+2101,237,21,6,8883.92,2,4,4,4,2444,New Customer High Value
+2102,318,18,4,2605.7,3,4,3,2,3432,Price Conscious Buyers
+2103,331,42,7,8165.22,3,3,4,4,3344,Top Tier Loyalist
+2105,303,165,3,4462.99,3,1,2,4,3124,Reactivated Spender
+2106,339,4,3,5566.139999999999,4,4,2,4,4424,Occasional Spender
+2107,143,143,1,742.54,1,2,1,1,1211,New Customer Low Value
+2108,310,13,2,2839.64,3,4,1,2,3412,Occasional Spender
+2109,334,3,4,2970.65,4,4,3,3,4433,Top Tier Loyalist
+211,214,90,2,2850.87,2,2,1,2,2212,New Customer Low Value
+2110,358,27,4,4845.16,4,4,3,4,4434,Top Tier Loyalist
+2111,324,7,6,7575.870000000001,3,4,4,4,3444,Top Tier Loyalist
+2112,53,53,1,1362.99,1,3,1,1,1311,New Customer Low Value
+2113,34,34,1,1945.43,1,4,1,2,1412,New Customer Low Value
+2114,273,15,3,3226.72,2,4,2,3,2423,New Customer High Spender
+2115,139,139,1,1762.96,1,2,1,1,1211,New Customer Low Value
+2116,106,106,1,1873.97,1,2,1,2,1212,New Customer Low Value
+2117,345,25,3,2269.32,4,4,2,2,4422,Occasional Spender
+2118,323,146,4,4368.84,3,2,3,3,3233,At Risk Customer
+2119,355,68,3,4197.32,4,3,2,3,4323,Occasional Spender
+212,320,320,1,1636.9,3,1,1,1,3111,Inactive Customer
+2120,342,3,4,6272.02,4,4,3,4,4434,Top Tier Loyalist
+2121,356,161,6,6010.8,4,1,4,4,4144,At Risk Customer
+2122,361,361,1,1615.62,4,1,1,1,4111,Inactive Customer
+2123,347,250,2,2045.63,4,1,1,2,4112,Inactive Customer
+2124,295,58,3,4310.62,3,3,2,3,3323,Occasional Spender
+2125,337,14,2,845.6899999999999,4,4,1,1,4411,Occasional Spender
+2126,26,26,1,1311.44,1,4,1,1,1411,New Customer Low Value
+2127,313,313,1,590.26,3,1,1,1,3111,Inactive Customer
+2128,344,344,1,2083.94,4,1,1,2,4112,Inactive Customer
+2129,150,150,1,1228.07,1,2,1,1,1211,New Customer Low Value
+213,354,69,6,8521.2,4,3,4,4,4344,Top Tier Loyalist
+2130,171,2,4,4577.27,1,4,3,4,1434,New Customer High Value
+2131,346,127,3,3591.24,4,2,2,3,4223,Reactivated Spender
+2132,275,19,7,11539.11,2,4,4,4,2444,New Customer High Value
+2133,121,121,1,1148.64,1,2,1,1,1211,New Customer Low Value
+2134,82,82,1,1842.92,1,2,1,2,1212,New Customer Low Value
+2135,339,138,2,3174.01,4,2,1,3,4213,Reactivated Spender
+2136,228,228,1,1280.28,2,1,1,1,2111,New Customer Low Value
+2138,325,44,4,5671.97,3,3,3,4,3334,Top Tier Loyalist
+2139,280,61,5,7480.94,2,3,4,4,2344,New Customer High Value
+214,363,57,4,4001.1400000000003,4,3,3,3,4333,Top Tier Loyalist
+2140,333,99,5,4536.23,4,2,4,4,4244,At Risk Customer
+2141,228,228,1,1765.3,2,1,1,1,2111,New Customer Low Value
+2142,356,82,5,7597.2300000000005,4,2,4,4,4244,At Risk Customer
+2143,338,338,1,1403.5,4,1,1,1,4111,Inactive Customer
+2144,316,68,4,4188.77,3,3,3,3,3333,Top Tier Loyalist
+2146,361,51,2,2173.1099999999997,4,3,1,2,4312,Occasional Spender
+2147,327,126,2,2362.92,3,2,1,2,3212,Inactive Customer
+2148,189,138,2,1316.49,1,2,1,1,1211,New Customer Low Value
+2149,245,245,1,358.39,2,1,1,1,2111,New Customer Low Value
+215,184,4,3,4015.25,1,4,2,3,1423,New Customer High Spender
+2150,362,362,1,958.74,4,1,1,1,4111,Inactive Customer
+2151,334,237,3,4087.05,4,1,2,3,4123,Reactivated Spender
+2152,266,2,2,2925.8,2,4,1,2,2412,New Customer Low Value
+2153,296,140,3,2128.52,3,2,2,2,3222,Inactive Customer
+2154,147,144,2,3412.11,1,2,1,3,1213,New Customer High Potential
+2155,359,37,7,5334.549999999999,4,4,4,4,4444,Top Tier Loyalist
+2156,218,198,3,3699.8,2,1,2,3,2123,New Customer High Potential
+2157,194,162,2,2131.52,1,1,1,2,1112,New Customer Low Value
+2158,328,96,4,4754.96,3,2,3,4,3234,At Risk Customer
+2159,101,101,1,12.01,1,2,1,1,1211,New Customer Low Value
+216,323,17,3,4257.56,3,4,2,3,3423,Occasional Spender
+2160,364,194,2,2379.3,4,1,1,2,4112,Inactive Customer
+2161,188,53,2,2719.4300000000003,1,3,1,2,1312,New Customer Low Value
+2162,257,54,2,2605.65,2,3,1,2,2312,New Customer Low Value
+2163,71,71,1,1793.43,1,3,1,2,1312,New Customer Low Value
+2164,345,69,5,6203.85,4,3,4,4,4344,Top Tier Loyalist
+2165,245,196,3,2487.4,2,1,2,2,2122,New Customer Low Value
+2166,322,77,3,2804.19,3,3,2,2,3322,Occasional Spender
+2167,209,145,4,3341.8500000000004,2,2,3,3,2233,New Customer High Value
+2168,322,322,1,1280.28,3,1,1,1,3111,Inactive Customer
+2169,175,157,2,2890.4700000000003,1,1,1,2,1112,New Customer Low Value
+217,197,5,5,7125.63,1,4,4,4,1444,New Customer High Value
+2170,332,33,4,6068.68,4,4,3,4,4434,Top Tier Loyalist
+2171,219,219,1,1403.5,2,1,1,1,2111,New Customer Low Value
+2172,326,322,2,3116.13,3,1,1,3,3113,Reactivated Spender
+2175,301,297,2,2655.83,3,1,1,2,3112,Inactive Customer
+2176,186,29,3,2662.8199999999997,1,4,2,2,1422,New Customer Low Value
+2177,330,133,2,2129.38,3,2,1,2,3212,Inactive Customer
+2178,197,88,2,805.1899999999999,1,2,1,1,1211,New Customer Low Value
+2179,359,224,3,3380.7799999999997,4,1,2,3,4123,Reactivated Spender
+218,355,15,5,4232.68,4,4,4,3,4443,Top Tier Loyalist
+2180,354,291,2,1864.7800000000002,4,1,1,2,4112,Inactive Customer
+2181,335,52,6,4272.66,4,3,4,3,4343,Top Tier Loyalist
+2182,274,18,4,5737.0,2,4,3,4,2434,New Customer High Value
+2183,236,84,4,6241.81,2,2,3,4,2234,New Customer High Value
+2184,287,75,5,5957.72,3,3,4,4,3344,Top Tier Loyalist
+2185,355,137,6,9137.48,4,2,4,4,4244,At Risk Customer
+2186,320,155,3,4245.21,3,2,2,3,3223,Reactivated Spender
+2187,320,64,6,7120.48,3,3,4,4,3344,Top Tier Loyalist
+2188,279,71,4,4966.120000000001,2,3,3,4,2334,New Customer High Value
+2189,176,84,4,4809.49,1,2,3,4,1234,New Customer High Value
+219,259,63,2,2251.07,2,3,1,2,2312,New Customer Low Value
+2190,318,154,3,4046.0,3,2,2,3,3223,Reactivated Spender
+2191,264,264,1,1466.68,2,1,1,1,2111,New Customer Low Value
+2192,239,57,2,571.02,2,3,1,1,2311,New Customer Low Value
+2193,84,55,2,3170.67,1,3,1,3,1313,New Customer High Spender
+2194,225,113,4,2671.7200000000003,2,2,3,2,2232,New Customer Budget Spender
+2195,69,69,1,1466.68,1,3,1,1,1311,New Customer Low Value
+2196,295,72,3,2227.8100000000004,3,3,2,2,3322,Occasional Spender
+2198,26,26,1,1057.51,1,4,1,1,1411,New Customer Low Value
+2199,217,25,2,2011.44,2,4,1,2,2412,New Customer Low Value
+22,216,98,3,3826.4700000000003,2,2,2,3,2223,New Customer High Potential
+220,330,16,3,3879.21,3,4,2,3,3423,Occasional Spender
+2200,255,255,1,980.37,2,1,1,1,2111,New Customer Low Value
+2201,183,78,3,5353.51,1,3,2,4,1324,New Customer High Spender
+2202,304,59,5,5951.68,3,3,4,4,3344,Top Tier Loyalist
+2203,310,50,3,3304.9700000000003,3,3,2,3,3323,Occasional Spender
+2204,310,100,5,4784.76,3,2,4,4,3244,At Risk Customer
+2205,334,171,3,3474.83,4,1,2,3,4123,Reactivated Spender
+2206,194,59,3,2149.66,1,3,2,2,1322,New Customer Low Value
+2207,185,75,3,3763.19,1,3,2,3,1323,New Customer High Spender
+2208,228,203,2,2646.83,2,1,1,2,2112,New Customer Low Value
+221,332,46,3,4785.22,4,3,2,4,4324,Occasional Spender
+2210,239,28,5,4346.62,2,4,4,3,2443,New Customer High Value
+2211,260,112,2,896.52,2,2,1,1,2211,New Customer Low Value
+2212,180,180,1,1024.66,1,1,1,1,1111,New Customer Low Value
+2213,268,16,2,2733.7799999999997,2,4,1,2,2412,New Customer Low Value
+2214,250,50,2,1742.34,2,3,1,1,2311,New Customer Low Value
+2215,20,20,1,1172.78,1,4,1,1,1411,New Customer Low Value
+2216,302,75,2,2223.19,3,3,1,2,3312,Occasional Spender
+2217,362,23,6,6807.83,4,4,4,4,4444,Top Tier Loyalist
+2218,308,22,2,2837.41,3,4,1,2,3412,Occasional Spender
+2219,312,286,2,1292.9099999999999,3,1,1,1,3111,Inactive Customer
+222,242,21,2,2626.81,2,4,1,2,2412,New Customer Low Value
+2220,355,86,2,3117.8500000000004,4,2,1,3,4213,Reactivated Spender
+2221,331,95,4,4557.53,3,2,3,4,3234,At Risk Customer
+2222,151,74,3,3256.4,1,3,2,3,1323,New Customer High Spender
+2223,316,55,5,3882.8199999999997,3,3,4,3,3343,Top Tier Loyalist
+2224,330,330,1,1538.99,3,1,1,1,3111,Inactive Customer
+2225,209,209,1,1469.44,2,1,1,1,2111,New Customer Low Value
+2226,293,50,7,6633.63,3,3,4,4,3344,Top Tier Loyalist
+2227,41,41,1,1240.31,1,3,1,1,1311,New Customer Low Value
+2228,335,169,2,3407.94,4,1,1,3,4113,Reactivated Spender
+223,319,53,3,3567.8900000000003,3,3,2,3,3323,Occasional Spender
+2230,271,66,4,4589.35,2,3,3,4,2334,New Customer High Value
+2231,202,65,3,4555.37,1,3,2,4,1324,New Customer High Spender
+2232,302,131,4,2686.9300000000003,3,2,3,2,3232,At Risk Customer
+2233,241,64,3,4445.24,2,3,2,4,2324,New Customer High Spender
+2234,358,209,2,1580.4699999999998,4,1,1,1,4111,Inactive Customer
+2235,333,162,2,2125.9700000000003,4,1,1,2,4112,Inactive Customer
+2236,261,2,2,3998.59,2,4,1,3,2413,New Customer High Spender
+2237,154,39,3,4129.7,1,3,2,3,1323,New Customer High Spender
+2238,164,142,2,3124.4300000000003,1,2,1,3,1213,New Customer High Potential
+2239,74,33,2,1693.21,1,4,1,1,1411,New Customer Low Value
+224,193,2,4,3236.16,1,4,3,3,1433,New Customer High Value
+2240,257,32,8,8682.64,2,4,4,4,2444,New Customer High Value
+2241,332,18,3,2796.01,4,4,2,2,4422,Occasional Spender
+2242,339,339,1,1061.56,4,1,1,1,4111,Inactive Customer
+2243,208,184,2,1965.16,2,1,1,2,2112,New Customer Low Value
+2244,243,155,3,3910.48,2,2,2,3,2223,New Customer High Potential
+2245,323,75,3,2819.79,3,3,2,2,3322,Occasional Spender
+2246,291,291,1,586.45,3,1,1,1,3111,Inactive Customer
+2247,333,188,3,2673.45,4,1,2,2,4122,Inactive Customer
+2248,345,68,6,6700.48,4,3,4,4,4344,Top Tier Loyalist
+2249,352,113,4,3965.16,4,2,3,3,4233,At Risk Customer
+2250,222,195,2,1542.3500000000001,2,1,1,1,2111,New Customer Low Value
+2251,207,101,3,1764.9299999999998,2,2,2,1,2221,New Customer Low Value
+2253,228,148,2,2290.26,2,2,1,2,2212,New Customer Low Value
+2254,240,4,4,3818.12,2,4,3,3,2433,New Customer High Value
+2255,261,144,2,3277.4700000000003,2,2,1,3,2213,New Customer High Potential
+2256,258,170,2,2724.04,2,1,1,2,2112,New Customer Low Value
+2257,253,161,2,2317.5,2,1,1,2,2112,New Customer Low Value
+2258,172,53,4,5573.22,1,3,3,4,1334,New Customer High Value
+2259,221,162,3,2569.91,2,1,2,2,2122,New Customer Low Value
+226,272,272,1,1198.46,2,1,1,1,2111,New Customer Low Value
+2261,250,36,3,2746.48,2,4,2,2,2422,New Customer Low Value
+2262,100,100,1,1065.03,1,2,1,1,1211,New Customer Low Value
+2263,139,36,2,4089.6000000000004,1,4,1,3,1413,New Customer High Spender
+2264,326,165,4,3937.8900000000003,3,1,3,3,3133,At Risk Customer
+2265,267,267,1,774.53,2,1,1,1,2111,New Customer Low Value
+2266,362,30,5,4134.86,4,4,4,3,4443,Top Tier Loyalist
+2267,349,100,4,4287.639999999999,4,2,3,3,4233,At Risk Customer
+2268,328,36,4,3744.0299999999997,3,4,3,3,3433,Top Tier Loyalist
+2269,312,149,3,3480.91,3,2,2,3,3223,Reactivated Spender
+227,350,169,2,2879.28,4,1,1,2,4112,Inactive Customer
+2270,355,186,2,3934.39,4,1,1,3,4113,Reactivated Spender
+2272,105,105,1,1292.84,1,2,1,1,1211,New Customer Low Value
+2273,320,83,6,6532.1900000000005,3,2,4,4,3244,At Risk Customer
+2274,138,56,2,142.98,1,3,1,1,1311,New Customer Low Value
+2275,342,122,5,6197.53,4,2,4,4,4244,At Risk Customer
+2276,340,11,3,3421.6099999999997,4,4,2,3,4423,Occasional Spender
+2277,279,37,2,1650.54,2,4,1,1,2411,New Customer Low Value
+2279,214,78,3,2603.72,2,3,2,2,2322,New Customer Low Value
+228,288,80,2,2698.46,3,3,1,2,3312,Occasional Spender
+2280,230,25,3,4019.27,2,4,2,3,2423,New Customer High Spender
+2281,269,39,4,4604.33,2,3,3,4,2334,New Customer High Value
+2282,235,15,2,2277.7700000000004,2,4,1,2,2412,New Customer Low Value
+2283,335,165,4,3863.59,4,1,3,3,4133,At Risk Customer
+2284,269,35,5,5946.46,2,4,4,4,2444,New Customer High Value
+2285,308,173,3,2544.18,3,1,2,2,3122,Inactive Customer
+2286,350,50,5,4606.01,4,3,4,4,4344,Top Tier Loyalist
+2287,160,160,1,792.9,1,1,1,1,1111,New Customer Low Value
+2288,261,30,4,4167.1,2,4,3,3,2433,New Customer High Value
+2289,233,214,2,2386.9700000000003,2,1,1,2,2112,New Customer Low Value
+229,283,61,4,3401.84,3,3,3,3,3333,Top Tier Loyalist
+2290,308,73,5,5602.610000000001,3,3,4,4,3344,Top Tier Loyalist
+2291,108,108,1,792.9,1,2,1,1,1211,New Customer Low Value
+2292,244,46,4,5107.14,2,3,3,4,2334,New Customer High Value
+2293,91,91,1,574.64,1,2,1,1,1211,New Customer Low Value
+2294,290,74,3,5089.76,3,3,2,4,3324,Occasional Spender
+2296,255,37,3,4060.59,2,4,2,3,2423,New Customer High Spender
+2297,328,217,3,3543.37,3,1,2,3,3123,Reactivated Spender
+2298,253,46,4,3184.74,2,3,3,3,2333,New Customer High Value
+2299,309,68,4,3222.8,3,3,3,3,3333,Top Tier Loyalist
+23,279,83,4,4584.67,2,2,3,4,2234,New Customer High Value
+230,99,37,3,4313.6900000000005,1,4,2,3,1423,New Customer High Spender
+2300,49,18,3,5583.15,1,4,2,4,1424,New Customer High Spender
+2301,6,6,1,1992.93,1,4,1,2,1412,New Customer Low Value
+2302,122,122,1,1057.51,1,2,1,1,1211,New Customer Low Value
+2304,165,4,5,7066.34,1,4,4,4,1444,New Customer High Value
+2305,101,79,2,512.65,1,3,1,1,1311,New Customer Low Value
+2306,233,7,2,2661.0299999999997,2,4,1,2,2412,New Customer Low Value
+2307,232,82,5,3556.5,2,2,4,3,2243,New Customer High Value
+2308,314,14,5,6559.83,3,4,4,4,3444,Top Tier Loyalist
+2309,344,54,8,9821.13,4,3,4,4,4344,Top Tier Loyalist
+231,336,46,2,1502.79,4,3,1,1,4311,Occasional Spender
+2310,152,16,3,3801.7799999999997,1,4,2,3,1423,New Customer High Spender
+2311,231,67,4,5144.72,2,3,3,4,2334,New Customer High Value
+2312,246,140,3,4366.14,2,2,2,3,2223,New Customer High Potential
+2313,359,248,3,3368.34,4,1,2,3,4123,Reactivated Spender
+2314,49,49,1,1289.85,1,3,1,1,1311,New Customer Low Value
+2315,328,328,1,742.54,3,1,1,1,3111,Inactive Customer
+2316,328,207,2,1774.54,3,1,1,1,3111,Inactive Customer
+2317,155,106,2,2706.66,1,2,1,2,1212,New Customer Low Value
+2318,274,17,5,5485.8,2,4,4,4,2444,New Customer High Value
+2319,353,10,2,3023.32,4,4,1,3,4413,Occasional Spender
+232,342,145,4,3091.73,4,2,3,3,4233,At Risk Customer
+2320,288,288,1,230.91,3,1,1,1,3111,Inactive Customer
+2321,239,162,2,3583.19,2,1,1,3,2113,New Customer High Potential
+2322,334,68,4,4035.5099999999998,4,3,3,3,4333,Top Tier Loyalist
+2323,269,213,3,4599.45,2,1,2,4,2124,New Customer High Potential
+2324,305,80,2,2368.95,3,3,1,2,3312,Occasional Spender
+2325,348,122,3,2370.53,4,2,2,2,4222,Inactive Customer
+2327,227,226,2,2517.81,2,1,1,2,2112,New Customer Low Value
+2329,11,9,2,429.88,1,4,1,1,1411,New Customer Low Value
+233,230,18,4,3282.29,2,4,3,3,2433,New Customer High Value
+2330,126,126,1,912.52,1,2,1,1,1211,New Customer Low Value
+2331,86,20,4,2596.96,1,4,3,2,1432,1432
+2332,270,168,2,1270.25,2,1,1,1,2111,New Customer Low Value
+2333,237,93,3,3496.12,2,2,2,3,2223,New Customer High Potential
+2334,291,70,3,3616.74,3,3,2,3,3323,Occasional Spender
+2335,291,12,5,6228.56,3,4,4,4,3444,Top Tier Loyalist
+2336,203,85,3,3386.33,1,2,2,3,1223,New Customer High Potential
+2338,362,24,3,3040.2599999999998,4,4,2,3,4423,Occasional Spender
+2339,328,26,4,4437.74,3,4,3,3,3433,Top Tier Loyalist
+234,364,27,5,6619.67,4,4,4,4,4444,Top Tier Loyalist
+2340,318,6,6,7091.68,3,4,4,4,3444,Top Tier Loyalist
+2341,182,17,3,3634.96,1,4,2,3,1423,New Customer High Spender
+2343,216,144,2,2922.5600000000004,2,2,1,2,2212,New Customer Low Value
+2344,346,48,5,5795.34,4,3,4,4,4344,Top Tier Loyalist
+2345,45,45,1,1793.43,1,3,1,2,1312,New Customer Low Value
+2346,267,267,1,2005.66,2,1,1,2,2112,New Customer Low Value
+2347,277,88,6,7171.72,2,2,4,4,2244,New Customer High Value
+2348,170,61,3,1658.8700000000001,1,3,2,1,1321,New Customer Low Value
+2349,247,58,2,273.78,2,3,1,1,2311,New Customer Low Value
+235,358,121,5,4371.51,4,2,4,3,4243,At Risk Customer
+2350,234,181,2,2518.35,2,1,1,2,2112,New Customer Low Value
+2351,343,56,6,4754.02,4,3,4,4,4344,Top Tier Loyalist
+2352,37,37,1,1292.84,1,4,1,1,1411,New Customer Low Value
+2353,342,140,3,3592.8,4,2,2,3,4223,Reactivated Spender
+2354,214,66,2,1557.04,2,3,1,1,2311,New Customer Low Value
+2355,327,307,2,1852.85,3,1,1,2,3112,Inactive Customer
+2356,211,147,2,3608.2200000000003,2,2,1,3,2213,New Customer High Potential
+2357,273,273,1,1945.43,2,1,1,2,2112,New Customer Low Value
+2358,243,4,6,4869.25,2,4,4,4,2444,New Customer High Value
+2359,359,83,4,5487.05,4,2,3,4,4234,At Risk Customer
+236,323,7,3,3618.44,3,4,2,3,3423,Occasional Spender
+2360,281,32,4,5642.1900000000005,2,4,3,4,2434,New Customer High Value
+2361,267,23,4,4647.65,2,4,3,4,2434,New Customer High Value
+2363,226,59,3,2830.67,2,3,2,2,2322,New Customer Low Value
+2364,318,44,4,6597.360000000001,3,3,3,4,3334,Top Tier Loyalist
+2365,264,2,3,3510.65,2,4,2,3,2423,New Customer High Spender
+2366,175,20,3,4088.04,1,4,2,3,1423,New Customer High Spender
+2367,339,246,2,2839.3599999999997,4,1,1,2,4112,Inactive Customer
+2368,360,360,1,1292.84,4,1,1,1,4111,Inactive Customer
+2369,300,2,6,8200.2,3,4,4,4,3444,Top Tier Loyalist
+237,335,27,5,4982.02,4,4,4,4,4444,Top Tier Loyalist
+2370,237,21,2,2532.7,2,4,1,2,2412,New Customer Low Value
+2371,351,135,2,2776.59,4,2,1,2,4212,Inactive Customer
+2372,182,122,2,3569.24,1,2,1,3,1213,New Customer High Potential
+2373,187,187,1,1216.14,1,1,1,1,1111,New Customer Low Value
+2374,63,63,1,980.37,1,3,1,1,1311,New Customer Low Value
+2375,312,87,3,4896.58,3,2,2,4,3224,Reactivated Spender
+2376,136,136,1,1228.07,1,2,1,1,1211,New Customer Low Value
+2377,8,8,1,2091.47,1,4,1,2,1412,New Customer Low Value
+2378,294,11,5,5040.639999999999,3,4,4,4,3444,Top Tier Loyalist
+2379,196,52,4,5625.82,1,3,3,4,1334,New Customer High Value
+238,356,284,2,1769.26,4,1,1,1,4111,Inactive Customer
+2380,330,127,4,4128.15,3,2,3,3,3233,At Risk Customer
+2381,32,30,2,2383.11,1,4,1,2,1412,New Customer Low Value
+2382,254,81,4,2025.53,2,3,3,2,2332,2332
+2383,344,129,5,6052.1,4,2,4,4,4244,At Risk Customer
+2384,339,161,5,5617.29,4,1,4,4,4144,At Risk Customer
+2385,321,39,5,5555.27,3,3,4,4,3344,Top Tier Loyalist
+2386,360,106,3,1858.79,4,2,2,2,4222,Inactive Customer
+2387,290,183,2,591.31,3,1,1,1,3111,Inactive Customer
+2388,360,114,4,5133.63,4,2,3,4,4234,At Risk Customer
+2389,171,9,3,2456.1800000000003,1,4,2,2,1422,New Customer Low Value
+239,362,15,4,4361.85,4,4,3,3,4433,Top Tier Loyalist
+2390,119,70,3,4828.47,1,3,2,4,1324,New Customer High Spender
+2391,283,13,5,5751.49,3,4,4,4,3444,Top Tier Loyalist
+2392,209,27,3,3879.3599999999997,2,4,2,3,2423,New Customer High Spender
+2393,130,123,2,1228.76,1,2,1,1,1211,New Customer Low Value
+2395,63,63,1,230.91,1,3,1,1,1311,New Customer Low Value
+2396,172,172,1,1635.3,1,1,1,1,1111,New Customer Low Value
+2397,324,70,5,5443.9800000000005,3,3,4,4,3344,Top Tier Loyalist
+2398,351,114,2,1186.62,4,2,1,1,4211,Inactive Customer
+2399,68,45,2,1194.37,1,3,1,1,1311,New Customer Low Value
+24,232,48,3,3197.52,2,3,2,3,2323,New Customer High Spender
+240,266,89,3,3690.72,2,2,2,3,2223,New Customer High Potential
+2400,273,20,7,8368.34,2,4,4,4,2444,New Customer High Value
+2401,345,22,7,9093.01,4,4,4,4,4444,Top Tier Loyalist
+2402,336,79,3,4490.75,4,3,2,4,4324,Occasional Spender
+2403,347,309,3,2476.21,4,1,2,2,4122,Inactive Customer
+2404,248,248,1,360.4,2,1,1,1,2111,New Customer Low Value
+2405,296,225,2,1038.79,3,1,1,1,3111,Inactive Customer
+2406,308,81,3,2339.5699999999997,3,3,2,2,3322,Occasional Spender
+2407,149,69,3,3289.77,1,3,2,3,1323,New Customer High Spender
+2408,148,148,1,1292.84,1,2,1,1,1211,New Customer Low Value
+2409,345,83,6,6881.72,4,2,4,4,4244,At Risk Customer
+241,290,48,2,1275.53,3,3,1,1,3311,Occasional Spender
+2410,330,37,5,4778.860000000001,3,4,4,4,3444,Top Tier Loyalist
+2411,334,277,2,2871.56,4,1,1,2,4112,Inactive Customer
+2412,299,247,3,3080.25,3,1,2,3,3123,Reactivated Spender
+2413,286,129,3,3707.97,3,2,2,3,3223,Reactivated Spender
+2414,298,298,1,980.37,3,1,1,1,3111,Inactive Customer
+2415,245,116,2,1703.87,2,2,1,1,2211,New Customer Low Value
+2416,280,280,1,499.53,2,1,1,1,2111,New Customer Low Value
+2418,364,3,4,5499.89,4,4,3,4,4434,Top Tier Loyalist
+2419,251,251,1,1720.7,2,1,1,1,2111,New Customer Low Value
+242,268,132,5,4244.639999999999,2,2,4,3,2243,New Customer High Value
+2420,240,140,2,2307.37,2,2,1,2,2212,New Customer Low Value
+2421,112,1,3,1459.5500000000002,1,4,2,1,1421,New Customer Low Value
+2422,121,33,2,2535.77,1,4,1,2,1412,New Customer Low Value
+2424,339,161,2,905.0,4,1,1,1,4111,Inactive Customer
+2425,351,58,3,752.27,4,3,2,1,4321,Occasional Spender
+2426,289,17,3,5001.39,3,4,2,4,3424,Occasional Spender
+2427,110,60,2,3376.7799999999997,1,3,1,3,1313,New Customer High Spender
+2428,246,47,6,6092.97,2,3,4,4,2344,New Customer High Value
+2429,316,223,3,3811.29,3,1,2,3,3123,Reactivated Spender
+243,291,143,3,4909.46,3,2,2,4,3224,Reactivated Spender
+2430,136,136,1,175.89,1,2,1,1,1211,New Customer Low Value
+2431,219,219,1,1386.84,2,1,1,1,2111,New Customer Low Value
+2432,361,41,5,3930.31,4,3,4,3,4343,Top Tier Loyalist
+2433,339,194,3,2763.82,4,1,2,2,4122,Inactive Customer
+2434,321,52,4,5066.07,3,3,3,4,3334,Top Tier Loyalist
+2435,322,154,2,2826.8599999999997,3,2,1,2,3212,Inactive Customer
+2436,350,248,2,1141.84,4,1,1,1,4111,Inactive Customer
+2437,199,199,1,688.63,1,1,1,1,1111,New Customer Low Value
+2438,250,250,1,12.01,2,1,1,1,2111,New Customer Low Value
+2439,350,19,2,3353.34,4,4,1,3,4413,Occasional Spender
+244,355,195,3,4199.1900000000005,4,1,2,3,4123,Reactivated Spender
+2440,83,54,2,2694.29,1,3,1,2,1312,New Customer Low Value
+2442,125,114,2,3033.74,1,2,1,3,1213,New Customer High Potential
+2443,317,128,3,3444.07,3,2,2,3,3223,Reactivated Spender
+2444,327,327,1,1289.85,3,1,1,1,3111,Inactive Customer
+2445,219,219,1,642.7,2,1,1,1,2111,New Customer Low Value
+2446,363,103,3,4014.76,4,2,2,3,4223,Reactivated Spender
+2447,341,40,4,3597.94,4,3,3,3,4333,Top Tier Loyalist
+2448,235,7,3,2167.12,2,4,2,2,2422,New Customer Low Value
+2449,337,223,2,2685.73,4,1,1,2,4112,Inactive Customer
+245,132,13,4,3047.8099999999995,1,4,3,3,1433,New Customer High Value
+2450,312,41,2,3861.74,3,3,1,3,3313,Occasional Spender
+2451,18,18,1,1024.66,1,4,1,1,1411,New Customer Low Value
+2452,303,10,3,4109.36,3,4,2,3,3423,Occasional Spender
+2453,190,190,1,544.05,1,1,1,1,1111,New Customer Low Value
+2454,232,30,4,4480.679999999999,2,4,3,4,2434,New Customer High Value
+2455,343,139,5,4994.83,4,2,4,4,4244,At Risk Customer
+2456,211,168,3,2045.59,2,1,2,2,2122,New Customer Low Value
+2457,353,214,2,2198.86,4,1,1,2,4112,Inactive Customer
+2458,303,5,4,6497.900000000001,3,4,3,4,3434,Top Tier Loyalist
+2459,232,54,5,5783.56,2,3,4,4,2344,New Customer High Value
+246,345,49,5,7307.17,4,3,4,4,4344,Top Tier Loyalist
+2460,181,51,3,3792.1099999999997,1,3,2,3,1323,New Customer High Spender
+2461,343,32,5,4029.92,4,4,4,3,4443,Top Tier Loyalist
+2462,49,43,2,2228.56,1,3,1,2,1312,New Customer Low Value
+2463,225,65,5,5122.6,2,3,4,4,2344,New Customer High Value
+2464,311,166,3,2061.81,3,1,2,2,3122,Inactive Customer
+2465,359,42,6,6480.240000000001,4,3,4,4,4344,Top Tier Loyalist
+2467,111,22,3,1123.35,1,4,2,1,1421,New Customer Low Value
+2468,363,85,5,8670.59,4,2,4,4,4244,At Risk Customer
+2469,260,21,6,8619.76,2,4,4,4,2444,New Customer High Value
+247,349,130,3,3400.8999999999996,4,2,2,3,4223,Reactivated Spender
+2470,306,13,3,2560.7599999999998,3,4,2,2,3422,Occasional Spender
+2471,290,14,2,3111.16,3,4,1,3,3413,Occasional Spender
+2472,277,181,2,2955.75,2,1,1,3,2113,New Customer High Potential
+2473,311,114,4,3104.72,3,2,3,3,3233,At Risk Customer
+2474,225,225,1,742.54,2,1,1,1,2111,New Customer Low Value
+2475,339,86,5,7160.57,4,2,4,4,4244,At Risk Customer
+2476,263,15,6,6905.83,2,4,4,4,2444,New Customer High Value
+2478,271,194,3,2398.57,2,1,2,2,2122,New Customer Low Value
+2479,350,3,6,2277.8,4,4,4,2,4442,Price Conscious Buyers
+248,223,223,1,1311.44,2,1,1,1,2111,New Customer Low Value
+2480,147,147,1,1274.93,1,2,1,1,1211,New Customer Low Value
+2481,212,92,3,2691.84,2,2,2,2,2222,New Customer Low Value
+2482,344,335,2,1882.62,4,1,1,2,4112,Inactive Customer
+2483,209,70,2,2032.81,2,3,1,2,2312,New Customer Low Value
+2484,208,28,2,1562.73,2,4,1,1,2411,New Customer Low Value
+2485,230,166,3,2696.6800000000003,2,1,2,2,2122,New Customer Low Value
+2486,293,230,2,3246.42,3,1,1,3,3113,Reactivated Spender
+2487,339,339,1,642.7,4,1,1,1,4111,Inactive Customer
+2488,364,19,3,3472.7200000000003,4,4,2,3,4423,Occasional Spender
+2489,349,41,5,7566.43,4,3,4,4,4344,Top Tier Loyalist
+249,348,108,5,3010.09,4,2,4,3,4243,At Risk Customer
+2490,302,302,1,1172.78,3,1,1,1,3111,Inactive Customer
+2491,315,106,4,1896.92,3,2,3,2,3232,At Risk Customer
+2492,169,34,4,6845.51,1,4,3,4,1434,New Customer High Value
+2493,262,55,3,3796.09,2,3,2,3,2323,New Customer High Spender
+2494,316,115,5,5153.71,3,2,4,4,3244,At Risk Customer
+2495,32,32,1,945.04,1,4,1,1,1411,New Customer Low Value
+2496,309,197,3,860.47,3,1,2,1,3121,Inactive Customer
+2497,361,47,3,2272.51,4,3,2,2,4322,Occasional Spender
+2498,228,8,7,8833.27,2,4,4,4,2444,New Customer High Value
+2499,211,176,2,2070.27,2,1,1,2,2112,New Customer Low Value
+25,326,6,8,6838.78,3,4,4,4,3444,Top Tier Loyalist
+250,334,32,4,5980.47,4,4,3,4,4434,Top Tier Loyalist
+2500,315,24,2,1120.8600000000001,3,4,1,1,3411,Occasional Spender
+2501,138,23,3,3021.55,1,4,2,3,1423,New Customer High Spender
+2502,311,15,3,3012.23,3,4,2,3,3423,Occasional Spender
+2503,290,109,3,3143.55,3,2,2,3,3223,Reactivated Spender
+2504,285,94,2,808.51,3,2,1,1,3211,Inactive Customer
+2505,330,13,7,7985.78,3,4,4,4,3444,Top Tier Loyalist
+2506,316,107,3,4614.04,3,2,2,4,3224,Reactivated Spender
+2508,267,57,8,10385.32,2,3,4,4,2344,New Customer High Value
+2509,248,53,3,3620.1000000000004,2,3,2,3,2323,New Customer High Spender
+251,296,56,3,2676.83,3,3,2,2,3322,Occasional Spender
+2510,288,249,3,5095.459999999999,3,1,2,4,3124,Reactivated Spender
+2511,154,78,2,2942.42,1,3,1,2,1312,New Customer Low Value
+2512,282,231,2,1978.77,3,1,1,2,3112,Inactive Customer
+2513,233,127,3,3369.57,2,2,2,3,2223,New Customer High Potential
+2514,47,47,1,1403.5,1,3,1,1,1311,New Customer Low Value
+2515,25,25,1,1812.75,1,4,1,2,1412,New Customer Low Value
+2516,334,84,3,1978.9299999999998,4,2,2,2,4222,Inactive Customer
+2517,157,157,1,1057.51,1,1,1,1,1111,New Customer Low Value
+2518,340,71,4,5454.53,4,3,3,4,4334,Top Tier Loyalist
+2519,234,109,4,2487.22,2,2,3,2,2232,New Customer Budget Spender
+252,243,63,3,4150.469999999999,2,3,2,3,2323,New Customer High Spender
+2520,207,12,3,2356.81,2,4,2,2,2422,New Customer Low Value
+2521,351,209,2,2223.84,4,1,1,2,4112,Inactive Customer
+2522,25,25,1,1227.34,1,4,1,1,1411,New Customer Low Value
+2523,325,15,7,6776.36,3,4,4,4,3444,Top Tier Loyalist
+2524,340,278,2,924.26,4,1,1,1,4111,Inactive Customer
+2526,248,54,5,5597.62,2,3,4,4,2344,New Customer High Value
+2527,285,112,4,5017.1,3,2,3,4,3234,At Risk Customer
+2528,77,70,2,3605.88,1,3,1,3,1313,New Customer High Spender
+2529,261,99,4,3621.36,2,2,3,3,2233,New Customer High Value
+253,18,18,1,230.91,1,4,1,1,1411,New Customer Low Value
+2530,289,10,3,3424.45,3,4,2,3,3423,Occasional Spender
+2531,6,6,1,1403.5,1,4,1,1,1411,New Customer Low Value
+2534,171,64,3,3849.66,1,3,2,3,1323,New Customer High Spender
+2535,237,15,4,3052.4300000000003,2,4,3,3,2433,New Customer High Value
+2536,311,8,5,7152.17,3,4,4,4,3444,Top Tier Loyalist
+2537,336,23,7,6896.79,4,4,4,4,4444,Top Tier Loyalist
+2538,132,36,4,5575.74,1,4,3,4,1434,New Customer High Value
+2539,260,77,3,1770.23,2,3,2,1,2321,New Customer Low Value
+254,334,42,4,5529.66,4,3,3,4,4334,Top Tier Loyalist
+2540,265,64,3,3781.9,2,3,2,3,2323,New Customer High Spender
+2541,21,21,1,1274.93,1,4,1,1,1411,New Customer Low Value
+2542,275,205,3,4904.14,2,1,2,4,2124,New Customer High Potential
+2543,364,135,3,4253.61,4,2,2,3,4223,Reactivated Spender
+2544,320,180,3,2596.98,3,1,2,2,3122,Inactive Customer
+2545,175,175,1,1289.85,1,1,1,1,1111,New Customer Low Value
+2546,355,20,3,1844.37,4,4,2,2,4422,Occasional Spender
+2547,340,185,2,1068.42,4,1,1,1,4111,Inactive Customer
+2548,149,4,4,5769.83,1,4,3,4,1434,New Customer High Value
+2549,325,58,3,4119.53,3,3,2,3,3323,Occasional Spender
+255,336,145,6,7858.639999999999,4,2,4,4,4244,At Risk Customer
+2550,249,12,2,2482.06,2,4,1,2,2412,New Customer Low Value
+2551,342,267,3,3436.81,4,1,2,3,4123,Reactivated Spender
+2552,301,36,3,3281.33,3,4,2,3,3423,Occasional Spender
+2553,299,161,3,3078.9300000000003,3,1,2,3,3123,Reactivated Spender
+2554,349,269,3,1926.06,4,1,2,2,4122,Inactive Customer
+2555,355,2,4,6006.75,4,4,3,4,4434,Top Tier Loyalist
+2557,50,31,2,3428.63,1,4,1,3,1413,New Customer High Spender
+2559,275,59,4,3137.27,2,3,3,3,2333,New Customer High Value
+256,135,28,3,3778.99,1,4,2,3,1423,New Customer High Spender
+2560,314,120,5,4875.28,3,2,4,4,3244,At Risk Customer
+2561,329,189,2,3399.86,3,1,1,3,3113,Reactivated Spender
+2562,259,118,3,2375.71,2,2,2,2,2222,New Customer Low Value
+2563,108,58,2,2353.35,1,3,1,2,1312,New Customer Low Value
+2564,145,145,1,912.52,1,2,1,1,1211,New Customer Low Value
+2565,181,30,2,3293.8900000000003,1,4,1,3,1413,New Customer High Spender
+2566,347,18,5,3017.41,4,4,4,3,4443,Top Tier Loyalist
+2567,277,144,2,3217.67,2,2,1,3,2213,New Customer High Potential
+2568,302,152,2,2146.04,3,2,1,2,3212,Inactive Customer
+2569,328,76,6,8549.24,3,3,4,4,3344,Top Tier Loyalist
+257,106,106,1,1403.5,1,2,1,1,1211,New Customer Low Value
+2570,296,94,6,5764.43,3,2,4,4,3244,At Risk Customer
+2571,46,46,1,358.39,1,3,1,1,1311,New Customer Low Value
+2572,299,80,6,6779.67,3,3,4,4,3344,Top Tier Loyalist
+2573,15,15,1,227.88,1,4,1,1,1411,New Customer Low Value
+2574,347,28,8,8490.55,4,4,4,4,4444,Top Tier Loyalist
+2575,198,198,1,945.04,1,1,1,1,1111,New Customer Low Value
+2576,258,96,4,5184.98,2,2,3,4,2234,New Customer High Value
+2577,330,94,4,3739.83,3,2,3,3,3233,At Risk Customer
+2578,237,39,2,2867.58,2,3,1,2,2312,New Customer Low Value
+2579,216,50,3,2288.84,2,3,2,2,2322,New Customer Low Value
+2580,304,304,1,71.49,3,1,1,1,3111,Inactive Customer
+2581,260,135,3,4774.89,2,2,2,4,2224,New Customer High Potential
+2582,187,53,4,3925.4300000000003,1,3,3,3,1333,New Customer High Value
+2583,338,93,2,2108.99,4,2,1,2,4212,Inactive Customer
+2584,290,290,1,569.56,3,1,1,1,3111,Inactive Customer
+2585,142,54,3,2282.09,1,3,2,2,1322,New Customer Low Value
+2586,362,20,2,2139.48,4,4,1,2,4412,Occasional Spender
+2587,214,65,5,5287.64,2,3,4,4,2344,New Customer High Value
+2588,340,340,1,1765.3,4,1,1,1,4111,Inactive Customer
+2589,175,135,2,774.9599999999999,1,2,1,1,1211,New Customer Low Value
+259,28,28,1,1403.5,1,4,1,1,1411,New Customer Low Value
+2590,347,51,3,4729.73,4,3,2,4,4324,Occasional Spender
+2591,337,126,3,3735.33,4,2,2,3,4223,Reactivated Spender
+2592,348,38,5,7324.98,4,3,4,4,4344,Top Tier Loyalist
+2593,359,61,2,2029.54,4,3,1,2,4312,Occasional Spender
+2594,274,92,6,9467.470000000001,2,2,4,4,2244,New Customer High Value
+2595,356,132,6,7267.34,4,2,4,4,4244,At Risk Customer
+2596,204,73,3,4441.99,1,3,2,3,1323,New Customer High Spender
+2597,254,254,1,1228.07,2,1,1,1,2111,New Customer Low Value
+2598,146,146,1,945.04,1,2,1,1,1211,New Customer Low Value
+2599,236,54,3,4426.5599999999995,2,3,2,3,2323,New Customer High Spender
+26,273,260,2,2245.85,2,1,1,2,2112,New Customer Low Value
+260,314,9,5,5316.61,3,4,4,4,3444,Top Tier Loyalist
+2600,172,172,1,1483.2,1,1,1,1,1111,New Customer Low Value
+2601,347,37,4,4475.7,4,4,3,4,4434,Top Tier Loyalist
+2602,328,72,5,5052.35,3,3,4,4,3344,Top Tier Loyalist
+2603,310,15,6,6760.43,3,4,4,4,3444,Top Tier Loyalist
+2604,333,87,4,3249.46,4,2,3,3,4233,At Risk Customer
+2605,272,116,3,3324.43,2,2,2,3,2223,New Customer High Potential
+2606,322,104,5,6175.14,3,2,4,4,3244,At Risk Customer
+2607,354,6,4,3750.12,4,4,3,3,4433,Top Tier Loyalist
+2608,180,18,3,1739.48,1,4,2,1,1421,New Customer Low Value
+2609,307,188,4,4906.879999999999,3,1,3,4,3134,At Risk Customer
+261,307,102,3,3438.0099999999998,3,2,2,3,3223,Reactivated Spender
+2610,148,113,4,2465.1800000000003,1,2,3,2,1232,New Customer Budget Spender
+2611,154,3,4,3819.33,1,4,3,3,1433,New Customer High Value
+2612,210,210,1,1129.13,2,1,1,1,2111,New Customer Low Value
+2613,126,126,1,1386.84,1,2,1,1,1211,New Customer Low Value
+2614,224,171,2,3092.65,2,1,1,3,2113,New Customer High Potential
+2615,350,153,3,5867.4,4,2,2,4,4224,Reactivated Spender
+2616,258,68,4,3378.74,2,3,3,3,2333,New Customer High Value
+2617,343,214,4,7028.049999999999,4,1,3,4,4134,At Risk Customer
+2618,228,14,5,4531.65,2,4,4,4,2444,New Customer High Value
+262,119,119,1,688.63,1,2,1,1,1211,New Customer Low Value
+2620,181,131,3,2703.9,1,2,2,2,1222,New Customer Low Value
+2621,279,60,4,2925.33,2,3,3,2,2332,2332
+2622,300,17,4,4649.969999999999,3,4,3,4,3434,Top Tier Loyalist
+2623,28,11,2,3081.08,1,4,1,3,1413,New Customer High Spender
+2624,186,156,2,3300.08,1,2,1,3,1213,New Customer High Potential
+2625,343,85,3,2274.54,4,2,2,2,4222,Inactive Customer
+2626,209,42,3,2485.91,2,3,2,2,2322,New Customer Low Value
+2627,89,34,3,4333.18,1,4,2,3,1423,New Customer High Spender
+2628,327,174,3,4437.91,3,1,2,3,3123,Reactivated Spender
+2629,289,265,2,2337.79,3,1,1,2,3112,Inactive Customer
+263,324,47,5,6299.52,3,3,4,4,3344,Top Tier Loyalist
+2630,323,111,5,6109.86,3,2,4,4,3244,At Risk Customer
+2632,232,8,2,3445.9700000000003,2,4,1,3,2413,New Customer High Spender
+2633,345,16,4,5608.48,4,4,3,4,4434,Top Tier Loyalist
+2634,340,190,2,1971.9,4,1,1,2,4112,Inactive Customer
+2635,225,69,2,3481.3199999999997,2,3,1,3,2313,New Customer High Spender
+2636,183,31,2,3048.76,1,4,1,3,1413,New Customer High Spender
+2637,352,55,7,9357.3,4,3,4,4,4344,Top Tier Loyalist
+2638,208,84,3,2656.37,2,2,2,2,2222,New Customer Low Value
+2639,349,32,4,5700.38,4,4,3,4,4434,Top Tier Loyalist
+264,339,161,2,2268.77,4,1,1,2,4112,Inactive Customer
+2640,286,89,6,4600.75,3,2,4,4,3244,At Risk Customer
+2641,352,12,6,4769.33,4,4,4,4,4444,Top Tier Loyalist
+2643,55,55,1,1073.07,1,3,1,1,1311,New Customer Low Value
+2644,103,103,1,60.34,1,2,1,1,1211,New Customer Low Value
+2645,294,219,3,2334.5,3,1,2,2,3122,Inactive Customer
+2646,289,120,4,3284.2000000000003,3,2,3,3,3233,At Risk Customer
+2647,144,18,3,2441.56,1,4,2,2,1422,New Customer Low Value
+2648,349,349,1,752.64,4,1,1,1,4111,Inactive Customer
+265,99,80,2,3008.4300000000003,1,3,1,3,1313,New Customer High Spender
+2650,85,85,1,958.74,1,2,1,1,1211,New Customer Low Value
+2651,321,299,3,3422.6200000000003,3,1,2,3,3123,Reactivated Spender
+2652,363,57,3,5282.860000000001,4,3,2,4,4324,Occasional Spender
+2653,362,4,7,9146.45,4,4,4,4,4444,Top Tier Loyalist
+2654,318,151,3,3252.85,3,2,2,3,3223,Reactivated Spender
+2655,295,293,2,3144.8900000000003,3,1,1,3,3113,Reactivated Spender
+2656,296,139,4,5650.26,3,2,3,4,3234,At Risk Customer
+2657,206,183,2,3600.88,1,1,1,3,1113,New Customer High Potential
+2658,67,67,1,1469.44,1,3,1,1,1311,New Customer Low Value
+2659,342,6,6,5075.71,4,4,4,4,4444,Top Tier Loyalist
+266,296,33,3,2383.98,3,4,2,2,3422,Occasional Spender
+2661,307,9,3,2536.12,3,4,2,2,3422,Occasional Spender
+2662,253,69,5,8324.91,2,3,4,4,2344,New Customer High Value
+2663,347,183,3,5013.9,4,1,2,4,4124,Reactivated Spender
+2664,340,192,2,1495.1799999999998,4,1,1,1,4111,Inactive Customer
+2665,84,84,1,1992.93,1,2,1,2,1212,New Customer Low Value
+2666,289,257,3,3990.85,3,1,2,3,3123,Reactivated Spender
+2667,207,124,2,1286.15,2,2,1,1,2211,New Customer Low Value
+2668,279,62,3,1784.1299999999999,2,3,2,1,2321,New Customer Low Value
+2669,49,49,1,1274.93,1,3,1,1,1311,New Customer Low Value
+267,131,131,1,1274.93,1,2,1,1,1211,New Customer Low Value
+2670,194,59,2,1821.2399999999998,1,3,1,2,1312,New Customer Low Value
+2671,275,199,4,4955.93,2,1,3,4,2134,New Customer High Value
+2672,193,16,6,6883.04,1,4,4,4,1444,New Customer High Value
+2673,332,91,4,4218.0,4,2,3,3,4233,At Risk Customer
+2674,346,332,2,3247.83,4,1,1,3,4113,Reactivated Spender
+2675,227,172,3,2595.6099999999997,2,1,2,2,2122,New Customer Low Value
+2676,281,6,4,5327.23,2,4,3,4,2434,New Customer High Value
+2677,333,46,2,3117.8500000000004,4,3,1,3,4313,Occasional Spender
+2678,163,163,1,1636.9,1,1,1,1,1111,New Customer Low Value
+2679,263,208,2,2689.32,2,1,1,2,2112,New Customer Low Value
+2680,256,25,5,4899.13,2,4,4,4,2444,New Customer High Value
+2681,240,240,1,980.37,2,1,1,1,2111,New Customer Low Value
+2682,271,39,3,1606.23,2,3,2,1,2321,New Customer Low Value
+2683,283,17,4,4865.18,3,4,3,4,3434,Top Tier Loyalist
+2684,307,39,6,6231.48,3,3,4,4,3344,Top Tier Loyalist
+2685,273,45,4,3145.0299999999997,2,3,3,3,2333,New Customer High Value
+2686,346,76,3,5546.6,4,3,2,4,4324,Occasional Spender
+2687,358,18,6,4850.26,4,4,4,4,4444,Top Tier Loyalist
+2688,235,235,1,586.45,2,1,1,1,2111,New Customer Low Value
+2689,344,2,4,2740.04,4,4,3,2,4432,Price Conscious Buyers
+269,251,251,1,1403.5,2,1,1,1,2111,New Customer Low Value
+2690,169,110,2,2734.55,1,2,1,2,1212,New Customer Low Value
+2691,241,61,5,5500.5,2,3,4,4,2344,New Customer High Value
+2692,303,303,1,227.88,3,1,1,1,3111,Inactive Customer
+2693,81,2,4,2454.4399999999996,1,4,3,2,1432,1432
+2694,171,171,1,742.54,1,1,1,1,1111,New Customer Low Value
+2695,264,14,3,4537.4800000000005,2,4,2,4,2424,New Customer High Spender
+2696,235,152,3,3882.68,2,2,2,3,2223,New Customer High Potential
+2697,319,34,7,6415.43,3,4,4,4,3444,Top Tier Loyalist
+2698,334,13,6,8463.79,4,4,4,4,4444,Top Tier Loyalist
+2699,251,61,2,1555.01,2,3,1,1,2311,New Customer Low Value
+27,217,166,2,3305.4,2,1,1,3,2113,New Customer High Potential
+270,57,8,3,2943.82,1,4,2,2,1422,New Customer Low Value
+2700,186,186,1,1992.93,1,1,1,2,1112,New Customer Low Value
+2701,341,104,7,8368.75,4,2,4,4,4244,At Risk Customer
+2702,301,20,6,7788.049999999999,3,4,4,4,3444,Top Tier Loyalist
+2703,116,40,3,2376.67,1,3,2,2,1322,New Customer Low Value
+2704,335,335,1,478.16,4,1,1,1,4111,Inactive Customer
+2705,287,3,5,5229.6,3,4,4,4,3444,Top Tier Loyalist
+2706,170,124,2,2478.74,1,2,1,2,1212,New Customer Low Value
+2708,192,12,2,2205.9300000000003,1,4,1,2,1412,New Customer Low Value
+2709,190,190,1,1483.2,1,1,1,1,1111,New Customer Low Value
+271,253,253,1,1129.13,2,1,1,1,2111,New Customer Low Value
+2710,247,247,1,590.26,2,1,1,1,2111,New Customer Low Value
+2711,194,64,3,2517.16,1,3,2,2,1322,New Customer Low Value
+2712,227,76,3,2989.79,2,3,2,3,2323,New Customer High Spender
+2713,353,1,2,1722.85,4,4,1,1,4411,Occasional Spender
+2714,192,9,3,3670.07,1,4,2,3,1423,New Customer High Spender
+2715,223,151,3,3798.0299999999997,2,2,2,3,2223,New Customer High Potential
+2716,355,144,3,2867.3199999999997,4,2,2,2,4222,Inactive Customer
+2717,306,42,5,4589.52,3,3,4,4,3344,Top Tier Loyalist
+2718,353,353,1,912.52,4,1,1,1,4111,Inactive Customer
+2719,288,286,2,1821.18,3,1,1,2,3112,Inactive Customer
+272,327,92,2,284.21000000000004,3,2,1,1,3211,Inactive Customer
+2721,342,115,2,2292.96,4,2,1,2,4212,Inactive Customer
+2722,153,74,3,2848.52,1,3,2,2,1322,New Customer Low Value
+2723,178,67,2,1390.87,1,3,1,1,1311,New Customer Low Value
+2724,309,256,2,1579.3899999999999,3,1,1,1,3111,Inactive Customer
+2725,177,177,1,1216.14,1,1,1,1,1111,New Customer Low Value
+2726,292,28,3,3628.58,3,4,2,3,3423,Occasional Spender
+2727,312,50,3,4680.73,3,3,2,4,3324,Occasional Spender
+2728,244,39,2,2889.26,2,3,1,2,2312,New Customer Low Value
+2729,345,7,3,5113.66,4,4,2,4,4424,Occasional Spender
+273,263,29,8,9064.869999999999,2,4,4,4,2444,New Customer High Value
+2730,156,156,1,1129.13,1,2,1,1,1211,New Customer Low Value
+2731,305,171,2,458.78999999999996,3,1,1,1,3111,Inactive Customer
+2732,312,17,3,1339.65,3,4,2,1,3421,Occasional Spender
+2733,357,29,6,8725.74,4,4,4,4,4444,Top Tier Loyalist
+2734,226,56,3,2148.54,2,3,2,2,2322,New Customer Low Value
+2735,216,149,2,1340.77,2,2,1,1,2211,New Customer Low Value
+2736,343,43,5,4311.28,4,3,4,3,4343,Top Tier Loyalist
+2737,339,6,6,6915.92,4,4,4,4,4444,Top Tier Loyalist
+2738,203,203,1,642.7,1,1,1,1,1111,New Customer Low Value
+2739,335,335,1,642.7,4,1,1,1,4111,Inactive Customer
+274,324,279,2,1703.77,3,1,1,1,3111,Inactive Customer
+2740,328,87,3,2795.53,3,2,2,2,3222,Inactive Customer
+2741,225,225,1,1466.68,2,1,1,1,2111,New Customer Low Value
+2746,326,9,2,2697.83,3,4,1,2,3412,Occasional Spender
+2747,163,41,4,4787.97,1,3,3,4,1334,New Customer High Value
+2748,250,7,2,2635.5199999999995,2,4,1,2,2412,New Customer Low Value
+275,359,133,4,5379.46,4,2,3,4,4234,At Risk Customer
+2750,346,156,6,7158.1900000000005,4,2,4,4,4244,At Risk Customer
+2751,363,82,5,6610.73,4,2,4,4,4244,At Risk Customer
+2752,333,13,3,5446.97,4,4,2,4,4424,Occasional Spender
+2753,220,68,4,3488.69,2,3,3,3,2333,New Customer High Value
+2754,217,217,1,1762.96,2,1,1,1,2111,New Customer Low Value
+2755,357,29,7,5466.25,4,4,4,4,4444,Top Tier Loyalist
+2756,326,57,3,3384.1800000000003,3,3,2,3,3323,Occasional Spender
+2757,145,145,1,980.37,1,2,1,1,1211,New Customer Low Value
+2758,307,80,2,1487.52,3,3,1,1,3311,Occasional Spender
+2759,218,111,3,3294.2,2,2,2,3,2223,New Customer High Potential
+276,339,116,4,3822.11,4,2,3,3,4233,At Risk Customer
+2760,47,47,1,100.35,1,3,1,1,1311,New Customer Low Value
+2761,359,78,3,3083.77,4,3,2,3,4323,Occasional Spender
+2762,315,17,5,8185.46,3,4,4,4,3444,Top Tier Loyalist
+2763,353,58,7,4722.18,4,3,4,4,4344,Top Tier Loyalist
+2764,307,161,2,2196.7,3,1,1,2,3112,Inactive Customer
+2765,291,184,3,4560.51,3,1,2,4,3124,Reactivated Spender
+2766,179,59,3,4608.01,1,3,2,4,1324,New Customer High Spender
+2767,49,49,1,958.74,1,3,1,1,1311,New Customer Low Value
+2768,343,55,4,4866.48,4,3,3,4,4334,Top Tier Loyalist
+2769,261,47,3,5404.57,2,3,2,4,2324,New Customer High Spender
+277,301,301,1,533.51,3,1,1,1,3111,Inactive Customer
+2770,357,31,5,7729.01,4,4,4,4,4444,Top Tier Loyalist
+2771,347,45,3,4678.01,4,3,2,4,4324,Occasional Spender
+2772,347,26,5,5138.68,4,4,4,4,4444,Top Tier Loyalist
+2773,268,268,1,544.05,2,1,1,1,2111,New Customer Low Value
+2774,334,85,3,3325.7400000000002,4,2,2,3,4223,Reactivated Spender
+2775,345,13,4,4219.08,4,4,3,3,4433,Top Tier Loyalist
+2776,286,47,2,1715.5800000000002,3,3,1,1,3311,Occasional Spender
+2777,318,318,1,478.16,3,1,1,1,3111,Inactive Customer
+2778,273,258,2,2508.98,2,1,1,2,2112,New Customer Low Value
+2779,83,12,5,6558.76,1,4,4,4,1444,New Customer High Value
+2780,311,163,3,5226.17,3,1,2,4,3124,Reactivated Spender
+2781,121,121,1,441.49,1,2,1,1,1211,New Customer Low Value
+2782,199,171,2,1353.1799999999998,1,1,1,1,1111,New Customer Low Value
+2783,360,90,7,6442.86,4,2,4,4,4244,At Risk Customer
+2785,198,198,1,1403.5,1,1,1,1,1111,New Customer Low Value
+2786,269,4,4,2063.61,2,4,3,2,2432,2432
+2787,266,207,2,3597.71,2,1,1,3,2113,New Customer High Potential
+2788,331,45,6,8948.460000000001,3,3,4,4,3344,Top Tier Loyalist
+279,335,228,3,2016.44,4,1,2,2,4122,Inactive Customer
+2790,322,78,3,1799.14,3,3,2,2,3322,Occasional Spender
+2791,212,212,1,958.74,2,1,1,1,2111,New Customer Low Value
+2792,347,219,3,4771.39,4,1,2,4,4124,Reactivated Spender
+2793,141,35,3,4340.34,1,4,2,3,1423,New Customer High Spender
+2794,204,6,4,3798.25,1,4,3,3,1433,New Customer High Value
+2795,239,239,1,495.72,2,1,1,1,2111,New Customer Low Value
+2796,363,9,2,1706.46,4,4,1,1,4411,Occasional Spender
+2797,344,120,4,2588.2200000000003,4,2,3,2,4232,At Risk Customer
+2798,216,155,3,1629.65,2,2,2,1,2221,New Customer Low Value
+2799,287,43,3,2445.8599999999997,3,3,2,2,3322,Occasional Spender
+28,342,84,5,4344.26,4,2,4,3,4243,At Risk Customer
+280,182,54,4,4648.93,1,3,3,4,1334,New Customer High Value
+2800,42,42,1,230.91,1,3,1,1,1311,New Customer Low Value
+2801,64,64,1,71.16,1,3,1,1,1311,New Customer Low Value
+2802,184,173,2,836.55,1,1,1,1,1111,New Customer Low Value
+2803,193,31,2,2622.0600000000004,1,4,1,2,1412,New Customer Low Value
+2804,258,64,3,2186.75,2,3,2,2,2322,New Customer Low Value
+2805,364,4,2,1772.12,4,4,1,1,4411,Occasional Spender
+2807,354,354,1,1216.14,4,1,1,1,4111,Inactive Customer
+2808,181,99,2,2273.21,1,2,1,2,1212,New Customer Low Value
+2809,84,84,1,752.64,1,2,1,1,1211,New Customer Low Value
+281,363,10,2,1434.0900000000001,4,4,1,1,4411,Occasional Spender
+2810,173,63,4,2793.11,1,3,3,2,1332,1332
+2811,337,215,4,4444.34,4,1,3,4,4134,At Risk Customer
+2812,352,88,4,6004.48,4,2,3,4,4234,At Risk Customer
+2813,286,286,1,1812.75,3,1,1,2,3112,Inactive Customer
+2814,167,167,1,2083.94,1,1,1,2,1112,New Customer Low Value
+2815,139,123,2,3449.65,1,2,1,3,1213,New Customer High Potential
+2816,150,46,6,6726.52,1,3,4,4,1344,New Customer High Value
+2817,16,16,1,1538.99,1,4,1,1,1411,New Customer Low Value
+2818,107,100,2,1856.9,1,2,1,2,1212,New Customer Low Value
+2819,352,163,2,2836.0299999999997,4,1,1,2,4112,Inactive Customer
+282,70,70,1,1386.84,1,3,1,1,1311,New Customer Low Value
+2820,274,59,3,4334.41,2,3,2,3,2323,New Customer High Spender
+2821,324,52,4,4252.46,3,3,3,3,3333,Top Tier Loyalist
+2822,243,41,5,3846.17,2,3,4,3,2343,New Customer High Value
+2823,13,13,1,12.01,1,4,1,1,1411,New Customer Low Value
+2824,362,134,3,4600.01,4,2,2,4,4224,Reactivated Spender
+2825,362,113,2,3093.4700000000003,4,2,1,3,4213,Reactivated Spender
+2826,219,101,3,3410.7200000000003,2,2,2,3,2223,New Customer High Potential
+2827,118,115,2,1818.5700000000002,1,2,1,2,1212,New Customer Low Value
+2828,133,133,1,742.54,1,2,1,1,1211,New Customer Low Value
+2829,145,145,1,1129.13,1,2,1,1,1211,New Customer Low Value
+283,248,92,4,5399.15,2,2,3,4,2234,New Customer High Value
+2830,209,100,2,824.13,2,2,1,1,2211,New Customer Low Value
+2831,185,15,2,1913.1,1,4,1,2,1412,New Customer Low Value
+2832,199,24,5,4792.030000000001,1,4,4,4,1444,New Customer High Value
+2833,340,77,4,4772.45,4,3,3,4,4334,Top Tier Loyalist
+2834,319,67,3,3603.6800000000003,3,3,2,3,3323,Occasional Spender
+2835,273,273,1,416.98,2,1,1,1,2111,New Customer Low Value
+2836,360,14,4,3935.83,4,4,3,3,4433,Top Tier Loyalist
+2837,169,42,3,4508.51,1,3,2,4,1324,New Customer High Spender
+2838,179,179,1,1992.93,1,1,1,2,1112,New Customer Low Value
+2839,288,18,2,1129.8400000000001,3,4,1,1,3411,Occasional Spender
+284,293,134,3,3249.86,3,2,2,3,3223,Reactivated Spender
+2840,321,313,2,1587.35,3,1,1,1,3111,Inactive Customer
+2841,206,17,6,8566.88,1,4,4,4,1444,New Customer High Value
+2842,98,40,2,936.5,1,3,1,1,1311,New Customer Low Value
+2843,249,167,2,2055.8900000000003,2,1,1,2,2112,New Customer Low Value
+2844,347,48,3,4337.32,4,3,2,3,4323,Occasional Spender
+2845,267,59,3,1992.45,2,3,2,2,2322,New Customer Low Value
+2847,324,205,2,2200.36,3,1,1,2,3112,Inactive Customer
+2849,339,116,2,1766.51,4,2,1,1,4211,Inactive Customer
+285,356,123,3,2724.3,4,2,2,2,4222,Inactive Customer
+2850,294,8,2,1858.71,3,4,1,2,3412,Occasional Spender
+2851,308,16,4,5159.03,3,4,3,4,3434,Top Tier Loyalist
+2852,356,140,2,2498.86,4,2,1,2,4212,Inactive Customer
+2853,327,82,6,6453.25,3,2,4,4,3244,At Risk Customer
+2854,129,84,2,2698.07,1,2,1,2,1212,New Customer Low Value
+2856,258,7,5,6481.96,2,4,4,4,2444,New Customer High Value
+2857,354,114,5,7775.79,4,2,4,4,4244,At Risk Customer
+2858,132,109,2,3166.46,1,2,1,3,1213,New Customer High Potential
+2859,302,18,6,6031.22,3,4,4,4,3444,Top Tier Loyalist
+2860,357,9,5,6578.41,4,4,4,4,4444,Top Tier Loyalist
+2861,362,74,5,5043.110000000001,4,3,4,4,4344,Top Tier Loyalist
+2862,232,232,1,533.51,2,1,1,1,2111,New Customer Low Value
+2864,186,18,2,3156.5,1,4,1,3,1413,New Customer High Spender
+2865,253,1,6,9222.57,2,4,4,4,2444,New Customer High Value
+2866,287,118,3,3276.17,3,2,2,3,3223,Reactivated Spender
+2867,339,170,4,1921.42,4,1,3,2,4132,At Risk Customer
+2868,145,26,2,1186.62,1,4,1,1,1411,New Customer Low Value
+2869,360,119,2,2288.16,4,2,1,2,4212,Inactive Customer
+2871,251,21,2,1735.6499999999999,2,4,1,1,2411,New Customer Low Value
+2872,264,25,4,4737.05,2,4,3,4,2434,New Customer High Value
+2873,308,308,1,71.49,3,1,1,1,3111,Inactive Customer
+2874,270,61,4,4896.76,2,3,3,4,2334,New Customer High Value
+2875,110,110,1,1793.43,1,2,1,2,1212,New Customer Low Value
+2877,298,42,6,5003.900000000001,3,3,4,4,3344,Top Tier Loyalist
+2879,317,15,7,8428.4,3,4,4,4,3444,Top Tier Loyalist
+288,320,255,2,2480.62,3,1,1,2,3112,Inactive Customer
+2880,281,19,4,6764.59,2,4,3,4,2434,New Customer High Value
+2881,152,73,2,1211.28,1,3,1,1,1311,New Customer Low Value
+2882,353,295,2,2515.6800000000003,4,1,1,2,4112,Inactive Customer
+2883,359,50,3,4958.97,4,3,2,4,4324,Occasional Spender
+2884,294,21,3,2934.11,3,4,2,2,3422,Occasional Spender
+2885,279,172,5,6379.22,2,1,4,4,2144,New Customer High Value
+2886,320,84,4,3678.1499999999996,3,2,3,3,3233,At Risk Customer
+2887,340,25,7,7122.26,4,4,4,4,4444,Top Tier Loyalist
+2888,298,30,5,7488.91,3,4,4,4,3444,Top Tier Loyalist
+2889,309,260,3,5554.22,3,1,2,4,3124,Reactivated Spender
+289,303,45,7,7833.63,3,3,4,4,3344,Top Tier Loyalist
+2890,127,100,2,3185.41,1,2,1,3,1213,New Customer High Potential
+2891,364,63,5,5618.68,4,3,4,4,4344,Top Tier Loyalist
+2892,331,316,3,4482.93,3,1,2,4,3124,Reactivated Spender
+2893,126,126,1,642.31,1,2,1,1,1211,New Customer Low Value
+2894,332,320,3,5240.76,4,1,2,4,4124,Reactivated Spender
+2896,195,195,1,1873.97,1,1,1,2,1112,New Customer Low Value
+2897,300,300,1,1036.59,3,1,1,1,3111,Inactive Customer
+2898,108,107,2,1822.01,1,2,1,2,1212,New Customer Low Value
+2899,217,34,4,3473.21,2,4,3,3,2433,New Customer High Value
+29,265,23,3,4420.24,2,4,2,3,2423,New Customer High Spender
+2900,196,82,2,3082.38,1,2,1,3,1213,New Customer High Potential
+2901,235,39,5,7379.88,2,3,4,4,2344,New Customer High Value
+2902,213,213,1,363.01,2,1,1,1,2111,New Customer Low Value
+2903,27,27,1,1807.45,1,4,1,2,1412,New Customer Low Value
+2904,301,24,4,2709.9700000000003,3,4,3,2,3432,Price Conscious Buyers
+2905,95,45,2,1828.33,1,3,1,2,1312,New Customer Low Value
+2906,118,46,2,2867.02,1,3,1,2,1312,New Customer Low Value
+2907,347,91,3,3763.03,4,2,2,3,4223,Reactivated Spender
+2908,328,2,4,3088.5299999999997,3,4,3,3,3433,Top Tier Loyalist
+2909,350,84,3,3163.7,4,2,2,3,4223,Reactivated Spender
+291,136,41,2,983.55,1,3,1,1,1311,New Customer Low Value
+2910,296,97,3,662.4699999999999,3,2,2,1,3221,Inactive Customer
+2911,350,350,1,1458.17,4,1,1,1,4111,Inactive Customer
+2912,282,160,4,5530.79,3,1,3,4,3134,At Risk Customer
+2913,190,90,3,2448.62,1,2,2,2,1222,New Customer Low Value
+2914,286,13,6,6000.18,3,4,4,4,3444,Top Tier Loyalist
+2915,320,99,3,2473.43,3,2,2,2,3222,Inactive Customer
+2916,193,193,1,499.53,1,1,1,1,1111,New Customer Low Value
+2917,242,149,3,2846.74,2,2,2,2,2222,New Customer Low Value
+2918,209,52,5,6231.79,2,3,4,4,2344,New Customer High Value
+2919,297,22,3,3865.29,3,4,2,3,3423,Occasional Spender
+292,303,59,2,2439.67,3,3,1,2,3312,Occasional Spender
+2920,256,100,2,2787.82,2,2,1,2,2212,New Customer Low Value
+2921,323,58,4,4378.91,3,3,3,3,3333,Top Tier Loyalist
+2922,121,2,2,2573.12,1,4,1,2,1412,New Customer Low Value
+2923,283,14,6,5665.01,3,4,4,4,3444,Top Tier Loyalist
+2924,298,65,4,4718.05,3,3,3,4,3334,Top Tier Loyalist
+2925,350,350,1,1227.34,4,1,1,1,4111,Inactive Customer
+2926,330,330,1,1065.03,3,1,1,1,3111,Inactive Customer
+2927,274,121,2,2253.4,2,2,1,2,2212,New Customer Low Value
+2928,343,343,1,416.98,4,1,1,1,4111,Inactive Customer
+2929,349,2,4,4058.46,4,4,3,3,4433,Top Tier Loyalist
+293,239,11,4,3959.42,2,4,3,3,2433,New Customer High Value
+2930,355,72,6,5976.0599999999995,4,3,4,4,4344,Top Tier Loyalist
+2931,153,153,1,569.56,1,2,1,1,1211,New Customer Low Value
+2932,333,309,5,5912.33,4,1,4,4,4144,At Risk Customer
+2933,346,186,4,4443.3099999999995,4,1,3,4,4134,At Risk Customer
+2934,357,76,2,3869.2699999999995,4,3,1,3,4313,Occasional Spender
+2935,46,46,1,183.86,1,3,1,1,1311,New Customer Low Value
+2936,340,60,3,5538.37,4,3,2,4,4324,Occasional Spender
+2937,334,76,6,9528.32,4,3,4,4,4344,Top Tier Loyalist
+2938,202,185,2,1772.83,1,1,1,1,1111,New Customer Low Value
+2939,91,91,1,642.31,1,2,1,1,1211,New Customer Low Value
+294,318,116,6,6627.67,3,2,4,4,3244,At Risk Customer
+2940,276,95,2,2005.69,2,2,1,2,2212,New Customer Low Value
+2941,321,173,3,4164.76,3,1,2,3,3123,Reactivated Spender
+2942,347,147,3,3720.6,4,2,2,3,4223,Reactivated Spender
+2943,266,53,4,4831.7,2,3,3,4,2334,New Customer High Value
+2944,342,31,3,2744.51,4,4,2,2,4422,Occasional Spender
+2946,317,48,9,9148.09,3,3,4,4,3344,Top Tier Loyalist
+2947,29,29,1,1769.64,1,4,1,1,1411,New Customer Low Value
+2948,346,112,4,4582.9400000000005,4,2,3,4,4234,At Risk Customer
+2949,46,14,2,1267.5,1,4,1,1,1411,New Customer Low Value
+295,201,35,5,3776.17,1,4,4,3,1443,New Customer High Value
+2951,264,92,4,5579.610000000001,2,2,3,4,2234,New Customer High Value
+2952,317,28,3,3235.1400000000003,3,4,2,3,3423,Occasional Spender
+2953,112,81,2,2555.62,1,3,1,2,1312,New Customer Low Value
+2954,293,17,2,1819.4,3,4,1,2,3412,Occasional Spender
+2955,206,20,2,1583.55,1,4,1,1,1411,New Customer Low Value
+2956,139,98,4,3202.1899999999996,1,2,3,3,1233,New Customer High Value
+2957,363,297,2,2901.98,4,1,1,2,4112,Inactive Customer
+2958,315,98,3,3437.91,3,2,2,3,3223,Reactivated Spender
+2959,236,135,2,2122.07,2,2,1,2,2212,New Customer Low Value
+296,274,274,1,1762.96,2,1,1,1,2111,New Customer Low Value
+2960,114,89,2,3063.17,1,2,1,3,1213,New Customer High Potential
+2961,256,138,2,2514.3199999999997,2,2,1,2,2212,New Customer Low Value
+2962,333,115,2,2304.23,4,2,1,2,4212,Inactive Customer
+2963,358,246,2,1128.9,4,1,1,1,4111,Inactive Customer
+2965,182,91,3,2541.73,1,2,2,2,1222,New Customer Low Value
+2966,122,33,2,2755.04,1,4,1,2,1412,New Customer Low Value
+2967,330,330,1,2005.66,3,1,1,2,3112,Inactive Customer
+2968,355,187,5,2849.58,4,1,4,2,4142,At Risk Customer
+2969,331,133,3,1970.1599999999999,3,2,2,2,3222,Inactive Customer
+297,9,9,1,1466.68,1,4,1,1,1411,New Customer Low Value
+2970,343,99,3,3808.25,4,2,2,3,4223,Reactivated Spender
+2971,223,28,2,1697.3200000000002,2,4,1,1,2411,New Customer Low Value
+2973,225,94,3,2094.93,2,2,2,2,2222,New Customer Low Value
+2974,301,160,2,1166.79,3,1,1,1,3111,Inactive Customer
+2975,237,170,2,3636.9300000000003,2,1,1,3,2113,New Customer High Potential
+2976,7,7,1,1992.93,1,4,1,2,1412,New Customer Low Value
+2977,352,10,4,4978.24,4,4,3,4,4434,Top Tier Loyalist
+2978,246,246,1,1720.7,2,1,1,1,2111,New Customer Low Value
+2979,334,128,2,2097.0,4,2,1,2,4212,Inactive Customer
+298,209,9,5,5687.66,2,4,4,4,2444,New Customer High Value
+2980,152,16,3,3858.32,1,4,2,3,1423,New Customer High Spender
+2981,202,53,3,1787.0700000000002,1,3,2,1,1321,New Customer Low Value
+2982,348,118,5,5331.639999999999,4,2,4,4,4244,At Risk Customer
+2983,362,130,2,1897.89,4,2,1,2,4212,Inactive Customer
+2984,276,159,2,3097.3900000000003,2,1,1,3,2113,New Customer High Potential
+2985,338,39,8,10114.42,4,3,4,4,4344,Top Tier Loyalist
+2986,321,127,3,1991.1,3,2,2,2,3222,Inactive Customer
+2987,279,279,1,2091.47,2,1,1,2,2112,New Customer Low Value
+2988,322,103,3,3035.8,3,2,2,3,3223,Reactivated Spender
+2989,245,71,4,6442.17,2,3,3,4,2334,New Customer High Value
+299,93,93,1,1148.64,1,2,1,1,1211,New Customer Low Value
+2990,221,115,2,1327.9099999999999,2,2,1,1,2211,New Customer Low Value
+2991,76,76,1,71.49,1,3,1,1,1311,New Customer Low Value
+2992,360,51,5,7843.46,4,3,4,4,4344,Top Tier Loyalist
+2993,150,10,2,3400.6,1,4,1,3,1413,New Customer High Spender
+2994,302,16,2,488.47,3,4,1,1,3411,Occasional Spender
+2995,279,43,2,72.35000000000001,2,3,1,1,2311,New Customer Low Value
+2996,82,82,1,1842.92,1,2,1,2,1212,New Customer Low Value
+2997,308,32,3,2383.19,3,4,2,2,3422,Occasional Spender
+2998,316,316,1,1945.43,3,1,1,2,3112,Inactive Customer
+2999,341,9,7,7404.47,4,4,4,4,4444,Top Tier Loyalist
+3,254,254,1,1894.19,2,1,1,2,2112,New Customer Low Value
+30,273,12,2,1645.05,2,4,1,1,2411,New Customer Low Value
+300,310,157,2,3166.46,3,1,1,3,3113,Reactivated Spender
+3000,100,43,2,2379.44,1,3,1,2,1312,New Customer Low Value
+3001,308,105,2,1655.85,3,2,1,1,3211,Inactive Customer
+3002,359,45,4,3129.33,4,3,3,3,4333,Top Tier Loyalist
+3003,348,129,5,4994.17,4,2,4,4,4244,At Risk Customer
+3004,360,242,3,2773.2799999999997,4,1,2,2,4122,Inactive Customer
+3006,356,31,4,5912.1,4,4,3,4,4434,Top Tier Loyalist
+3007,339,228,3,4484.23,4,1,2,4,4124,Reactivated Spender
+3008,343,239,3,4596.3099999999995,4,1,2,4,4124,Reactivated Spender
+3009,269,269,1,1386.84,2,1,1,1,2111,New Customer Low Value
+301,192,94,2,361.78,1,2,1,1,1211,New Customer Low Value
+3010,269,111,2,1208.98,2,2,1,1,2211,New Customer Low Value
+3011,210,36,3,2135.76,2,4,2,2,2422,New Customer Low Value
+3012,324,36,3,3995.29,3,4,2,3,3423,Occasional Spender
+3013,139,5,3,2541.12,1,4,2,2,1422,New Customer Low Value
+3014,316,40,4,3365.1899999999996,3,3,3,3,3333,Top Tier Loyalist
+3015,197,47,4,6216.92,1,3,3,4,1334,New Customer High Value
+3016,187,1,4,6046.5599999999995,1,4,3,4,1434,New Customer High Value
+3017,351,250,2,2019.02,4,1,1,2,4112,Inactive Customer
+3018,325,110,3,1974.6399999999999,3,2,2,2,3222,Inactive Customer
+3019,129,65,2,2855.48,1,3,1,2,1312,New Customer Low Value
+3020,346,23,9,9561.79,4,4,4,4,4444,Top Tier Loyalist
+3021,213,190,2,2022.6799999999998,2,1,1,2,2112,New Customer Low Value
+3022,135,123,2,723.41,1,2,1,1,1211,New Customer Low Value
+3023,304,133,3,1891.97,3,2,2,2,3222,Inactive Customer
+3026,356,122,3,3112.23,4,2,2,3,4223,Reactivated Spender
+3027,301,78,4,3069.0299999999997,3,3,3,3,3333,Top Tier Loyalist
+3028,324,54,3,4071.95,3,3,2,3,3323,Occasional Spender
+3029,317,226,2,2085.9700000000003,3,1,1,2,3112,Inactive Customer
+303,109,44,2,1983.79,1,3,1,2,1312,New Customer Low Value
+3030,282,95,4,2783.2,3,2,3,2,3232,At Risk Customer
+3031,328,3,3,4300.08,3,4,2,3,3423,Occasional Spender
+3032,341,41,6,10222.97,4,3,4,4,4344,Top Tier Loyalist
+3033,159,159,1,1458.17,1,1,1,1,1111,New Customer Low Value
+3034,138,49,2,2054.81,1,3,1,2,1312,New Customer Low Value
+3035,241,51,2,1583.46,2,3,1,1,2311,New Customer Low Value
+3036,227,157,2,3469.37,2,1,1,3,2113,New Customer High Potential
+3037,279,279,1,1148.64,2,1,1,1,2111,New Customer Low Value
+3038,180,47,3,3037.29,1,3,2,3,1323,New Customer High Spender
+3039,275,81,5,4835.18,2,3,4,4,2344,New Customer High Value
+304,230,189,3,1838.69,2,1,2,2,2122,New Customer Low Value
+3041,167,125,2,3469.37,1,2,1,3,1213,New Customer High Potential
+3042,85,12,2,2364.25,1,4,1,2,1412,New Customer Low Value
+3043,327,66,3,3094.46,3,3,2,3,3323,Occasional Spender
+3044,315,22,6,7033.77,3,4,4,4,3444,Top Tier Loyalist
+3045,205,66,4,5408.2,1,3,3,4,1334,New Customer High Value
+3046,276,276,1,2091.47,2,1,1,2,2112,New Customer Low Value
+3047,356,68,2,2032.81,4,3,1,2,4312,Occasional Spender
+3048,83,66,3,3140.99,1,3,2,3,1323,New Customer High Spender
+3049,69,44,2,3412.71,1,3,1,3,1313,New Customer High Spender
+305,293,34,2,1147.6599999999999,3,4,1,1,3411,Occasional Spender
+3050,342,113,4,5009.860000000001,4,2,3,4,4234,At Risk Customer
+3051,238,238,1,1775.81,2,1,1,1,2111,New Customer Low Value
+3052,55,55,1,774.53,1,3,1,1,1311,New Customer Low Value
+3053,286,286,1,575.27,3,1,1,1,3111,Inactive Customer
+3054,199,3,4,6247.76,1,4,3,4,1434,New Customer High Value
+3055,299,71,4,5893.43,3,3,3,4,3334,Top Tier Loyalist
+3056,122,20,2,1510.35,1,4,1,1,1411,New Customer Low Value
+3057,209,29,6,8275.38,2,4,4,4,2444,New Customer High Value
+3058,332,25,2,4084.3999999999996,4,4,1,3,4413,Occasional Spender
+3059,305,143,2,3898.92,3,2,1,3,3213,Reactivated Spender
+306,135,135,1,792.9,1,2,1,1,1211,New Customer Low Value
+3060,360,73,3,2837.86,4,3,2,2,4322,Occasional Spender
+3061,175,60,5,4703.16,1,3,4,4,1344,New Customer High Value
+3062,301,47,3,1770.18,3,3,2,1,3321,Occasional Spender
+3063,162,93,4,1240.62,1,2,3,1,1231,New Customer Budget Spender
+3064,309,56,5,5125.55,3,3,4,4,3344,Top Tier Loyalist
+3065,337,245,2,1791.3400000000001,4,1,1,2,4112,Inactive Customer
+3066,348,165,3,2960.91,4,1,2,3,4123,Reactivated Spender
+3067,226,40,2,1871.67,2,3,1,2,2312,New Customer Low Value
+3068,351,85,5,4622.52,4,2,4,4,4244,At Risk Customer
+307,83,83,1,1240.31,1,2,1,1,1211,New Customer Low Value
+3070,331,175,2,774.12,3,1,1,1,3111,Inactive Customer
+3071,315,159,2,3680.88,3,1,1,3,3113,Reactivated Spender
+3072,144,82,2,2537.49,1,2,1,2,1212,New Customer Low Value
+3073,252,252,1,752.64,2,1,1,1,2111,New Customer Low Value
+3074,286,11,4,4617.69,3,4,3,4,3434,Top Tier Loyalist
+3075,312,82,3,2418.54,3,2,2,2,3222,Inactive Customer
+3076,290,241,2,2583.19,3,1,1,2,3112,Inactive Customer
+3077,261,26,2,2188.55,2,4,1,2,2412,New Customer Low Value
+3078,346,170,2,545.52,4,1,1,1,4111,Inactive Customer
+3079,325,132,3,3959.55,3,2,2,3,3223,Reactivated Spender
+308,227,30,3,3307.47,2,4,2,3,2423,New Customer High Spender
+3080,280,64,4,4109.76,2,3,3,3,2333,New Customer High Value
+3081,151,107,2,3384.3099999999995,1,2,1,3,1213,New Customer High Potential
+3082,340,82,2,2125.1,4,2,1,2,4212,Inactive Customer
+3083,326,76,4,2532.0,3,3,3,2,3332,Price Conscious Buyers
+3084,166,16,2,3037.8900000000003,1,4,1,3,1413,New Customer High Spender
+3085,239,26,3,3388.5699999999997,2,4,2,3,2423,New Customer High Spender
+3086,254,19,5,5683.9,2,4,4,4,2444,New Customer High Value
+3087,185,85,3,2711.55,1,2,2,2,1222,New Customer Low Value
+3088,150,4,3,1470.54,1,4,2,1,1421,New Customer Low Value
+3089,266,72,3,4430.83,2,3,2,3,2323,New Customer High Spender
+309,29,10,2,2319.57,1,4,1,2,1412,New Customer Low Value
+3090,322,199,3,2953.25,3,1,2,3,3123,Reactivated Spender
+3091,341,341,1,71.49,4,1,1,1,4111,Inactive Customer
+3092,308,308,1,1458.17,3,1,1,1,3111,Inactive Customer
+3093,263,69,3,4141.88,2,3,2,3,2323,New Customer High Spender
+3094,331,162,5,4997.79,3,1,4,4,3144,At Risk Customer
+3095,182,108,3,3788.69,1,2,2,3,1223,New Customer High Potential
+3096,274,16,2,3794.99,2,4,1,3,2413,New Customer High Spender
+3097,61,61,1,642.7,1,3,1,1,1311,New Customer Low Value
+3098,359,359,1,1179.0,4,1,1,1,4111,Inactive Customer
+31,220,90,3,1389.3,2,2,2,1,2221,New Customer Low Value
+310,338,94,5,8091.16,4,2,4,4,4244,At Risk Customer
+3100,163,21,2,2555.29,1,4,1,2,1412,New Customer Low Value
+3101,90,62,3,3983.01,1,3,2,3,1323,New Customer High Spender
+3102,270,122,3,4501.64,2,2,2,4,2224,New Customer High Potential
+3103,142,142,1,1228.07,1,2,1,1,1211,New Customer Low Value
+3104,336,69,3,2599.06,4,3,2,2,4322,Occasional Spender
+3105,248,236,2,2833.76,2,1,1,2,2112,New Customer Low Value
+3106,244,200,3,2896.94,2,1,2,2,2122,New Customer Low Value
+3107,298,96,2,2588.13,3,2,1,2,3212,Inactive Customer
+3108,287,62,3,4257.25,3,3,2,3,3323,Occasional Spender
+3109,311,311,1,1769.64,3,1,1,1,3111,Inactive Customer
+311,364,62,4,5148.91,4,3,3,4,4334,Top Tier Loyalist
+3110,76,76,1,12.01,1,3,1,1,1311,New Customer Low Value
+3111,163,123,3,2953.18,1,2,2,3,1223,New Customer High Potential
+3112,251,12,4,4880.6900000000005,2,4,3,4,2434,New Customer High Value
+3113,285,125,2,1270.25,3,2,1,1,3211,Inactive Customer
+3114,325,325,1,1812.75,3,1,1,2,3112,Inactive Customer
+3115,286,286,1,12.01,3,1,1,1,3111,Inactive Customer
+3116,317,251,4,3493.2,3,1,3,3,3133,At Risk Customer
+3117,297,26,5,6156.6,3,4,4,4,3444,Top Tier Loyalist
+3118,178,13,6,9120.24,1,4,4,4,1444,New Customer High Value
+3119,348,348,1,1894.19,4,1,1,2,4112,Inactive Customer
+312,245,29,2,2926.75,2,4,1,2,2412,New Customer Low Value
+3120,345,62,3,3769.3499999999995,4,3,2,3,4323,Occasional Spender
+3121,258,258,1,1635.3,2,1,1,1,2111,New Customer Low Value
+3122,304,231,3,4615.82,3,1,2,4,3124,Reactivated Spender
+3123,355,269,3,3143.46,4,1,2,3,4123,Reactivated Spender
+3124,39,39,1,202.62,1,3,1,1,1311,New Customer Low Value
+3125,127,127,1,1240.31,1,2,1,1,1211,New Customer Low Value
+3126,278,41,2,2590.33,2,3,1,2,2312,New Customer Low Value
+3128,297,166,2,1649.02,3,1,1,1,3111,Inactive Customer
+3129,234,17,4,5988.05,2,4,3,4,2434,New Customer High Value
+313,152,56,3,4535.1,1,3,2,4,1324,New Customer High Spender
+3130,286,103,2,2567.96,3,2,1,2,3212,Inactive Customer
+3131,91,91,1,544.05,1,2,1,1,1211,New Customer Low Value
+3132,179,179,1,175.89,1,1,1,1,1111,New Customer Low Value
+3133,169,12,3,5066.87,1,4,2,4,1424,New Customer High Spender
+3134,341,133,5,6899.59,4,2,4,4,4244,At Risk Customer
+3135,321,307,2,2904.48,3,1,1,2,3112,Inactive Customer
+3136,332,135,2,1922.98,4,2,1,2,4212,Inactive Customer
+3137,349,151,3,2978.19,4,2,2,3,4223,Reactivated Spender
+3139,46,46,1,1890.39,1,3,1,2,1312,New Customer Low Value
+314,150,21,4,3251.86,1,4,3,3,1433,New Customer High Value
+3140,340,41,2,2351.7799999999997,4,3,1,2,4312,Occasional Spender
+3141,356,71,6,3118.51,4,3,4,3,4343,Top Tier Loyalist
+3142,356,13,3,3460.8199999999997,4,4,2,3,4423,Occasional Spender
+3143,217,59,6,6723.53,2,3,4,4,2344,New Customer High Value
+3144,152,65,2,1903.78,1,3,1,2,1312,New Customer Low Value
+3145,165,104,2,2567.57,1,2,1,2,1212,New Customer Low Value
+3146,302,74,2,3308.63,3,3,1,3,3313,Occasional Spender
+3147,177,4,4,4078.25,1,4,3,3,1433,New Customer High Value
+3148,56,56,1,230.91,1,3,1,1,1311,New Customer Low Value
+3149,23,23,1,958.74,1,4,1,1,1411,New Customer Low Value
+315,330,28,6,4113.5,3,4,4,3,3443,Top Tier Loyalist
+3150,259,146,3,1845.8300000000002,2,2,2,2,2222,New Customer Low Value
+3151,281,91,4,6393.35,2,2,3,4,2234,New Customer High Value
+3152,118,57,3,1377.52,1,3,2,1,1321,New Customer Low Value
+3153,315,315,1,2091.47,3,1,1,2,3112,Inactive Customer
+3154,324,15,2,2104.34,3,4,1,2,3412,Occasional Spender
+3155,55,55,1,175.89,1,3,1,1,1311,New Customer Low Value
+3156,5,5,1,742.54,1,4,1,1,1411,New Customer Low Value
+3157,255,63,4,4843.8,2,3,3,4,2334,New Customer High Value
+3158,359,68,2,3170.2,4,3,1,3,4313,Occasional Spender
+3159,26,26,1,1636.9,1,4,1,1,1411,New Customer Low Value
+316,339,14,3,2274.85,4,4,2,2,4422,Occasional Spender
+3163,127,58,3,2986.16,1,3,2,3,1323,New Customer High Spender
+3164,157,112,2,1893.17,1,2,1,2,1212,New Customer Low Value
+3165,319,88,5,6982.86,3,2,4,4,3244,At Risk Customer
+3166,170,48,2,2655.98,1,3,1,2,1312,New Customer Low Value
+3167,234,234,1,1231.15,2,1,1,1,2111,New Customer Low Value
+3168,313,310,2,1643.83,3,1,1,1,3111,Inactive Customer
+3169,187,1,3,2838.95,1,4,2,2,1422,New Customer Low Value
+317,81,81,1,230.91,1,3,1,1,1311,New Customer Low Value
+3170,273,85,2,2520.34,2,2,1,2,2212,New Customer Low Value
+3171,76,76,1,1812.75,1,3,1,2,1312,New Customer Low Value
+3172,149,69,2,1589.46,1,3,1,1,1311,New Customer Low Value
+3173,297,177,2,2452.31,3,1,1,2,3112,Inactive Customer
+3174,338,52,4,3650.39,4,3,3,3,4333,Top Tier Loyalist
+3175,292,286,2,2458.27,3,1,1,2,3112,Inactive Customer
+3176,246,61,4,3639.9399999999996,2,3,3,3,2333,New Customer High Value
+3177,329,329,2,1820.0,3,1,1,2,3112,Inactive Customer
+3178,308,238,2,3121.54,3,1,1,3,3113,Reactivated Spender
+3179,269,269,1,1148.64,2,1,1,1,2111,New Customer Low Value
+318,251,186,2,2539.83,2,1,1,2,2112,New Customer Low Value
+3180,228,228,1,1765.3,2,1,1,1,2111,New Customer Low Value
+3181,360,10,3,5088.4,4,4,2,4,4424,Occasional Spender
+3183,356,147,5,3603.49,4,2,4,3,4243,At Risk Customer
+3184,306,69,4,3010.9,3,3,3,3,3333,Top Tier Loyalist
+3185,320,19,4,4524.8099999999995,3,4,3,4,3434,Top Tier Loyalist
+3186,324,324,1,1793.43,3,1,1,2,3112,Inactive Customer
+3187,64,64,1,1386.84,1,3,1,1,1311,New Customer Low Value
+3188,244,244,1,1073.07,2,1,1,1,2111,New Customer Low Value
+3189,195,57,2,200.7,1,3,1,1,1311,New Customer Low Value
+319,316,236,2,2842.71,3,1,1,2,3112,Inactive Customer
+3190,313,158,3,922.88,3,1,2,1,3121,Inactive Customer
+3191,234,20,2,2677.8199999999997,2,4,1,2,2412,New Customer Low Value
+3192,334,189,4,4871.5199999999995,4,1,3,4,4134,At Risk Customer
+3193,313,11,4,3419.38,3,4,3,3,3433,Top Tier Loyalist
+3194,308,87,2,1922.0300000000002,3,2,1,2,3212,Inactive Customer
+3195,361,50,5,5066.01,4,3,4,4,4344,Top Tier Loyalist
+3196,150,63,4,3788.12,1,3,3,3,1333,New Customer High Value
+3197,262,56,3,2927.77,2,3,2,2,2322,New Customer Low Value
+3198,130,102,2,2822.81,1,2,1,2,1212,New Customer Low Value
+3199,273,34,4,3646.73,2,4,3,3,2433,New Customer High Value
+32,263,213,2,2706.5299999999997,2,1,1,2,2112,New Customer Low Value
+320,318,60,3,2127.73,3,3,2,2,3322,Occasional Spender
+3200,308,40,5,4865.6900000000005,3,3,4,4,3344,Top Tier Loyalist
+3201,325,48,2,2026.4900000000002,3,3,1,2,3312,Occasional Spender
+3202,212,130,4,5783.91,2,2,3,4,2234,New Customer High Value
+3204,130,70,2,2066.5299999999997,1,3,1,2,1312,New Customer Low Value
+3205,362,97,5,4244.93,4,2,4,3,4243,At Risk Customer
+3206,314,76,5,5931.860000000001,3,3,4,4,3344,Top Tier Loyalist
+3207,189,82,2,428.99,1,2,1,1,1211,New Customer Low Value
+3208,117,101,2,1604.74,1,2,1,1,1211,New Customer Low Value
+3209,329,248,2,1873.09,3,1,1,2,3112,Inactive Customer
+321,203,13,2,2221.75,1,4,1,2,1412,New Customer Low Value
+3210,189,189,1,575.27,1,1,1,1,1111,New Customer Low Value
+3211,172,36,3,3667.73,1,4,2,3,1423,New Customer High Spender
+3212,355,216,3,5130.27,4,1,2,4,4124,Reactivated Spender
+3213,360,69,3,2417.7200000000003,4,3,2,2,4322,Occasional Spender
+3215,295,67,3,4413.96,3,3,2,3,3323,Occasional Spender
+3216,195,1,2,1156.01,1,4,1,1,1411,New Customer Low Value
+3217,298,95,4,4191.76,3,2,3,3,3233,At Risk Customer
+3218,240,220,2,1274.06,2,1,1,1,2111,New Customer Low Value
+3219,228,206,3,3715.37,2,1,2,3,2123,New Customer High Potential
+322,316,2,5,6293.04,3,4,4,4,3444,Top Tier Loyalist
+3220,298,81,3,1915.9299999999998,3,3,2,2,3322,Occasional Spender
+3221,322,188,8,9404.83,3,1,4,4,3144,At Risk Customer
+3222,16,16,1,544.05,1,4,1,1,1411,New Customer Low Value
+3223,327,36,6,7669.72,3,4,4,4,3444,Top Tier Loyalist
+3224,330,81,5,5216.47,3,3,4,4,3344,Top Tier Loyalist
+3225,301,9,3,3265.59,3,4,2,3,3423,Occasional Spender
+3226,159,107,2,727.25,1,2,1,1,1211,New Customer Low Value
+3227,259,97,5,4023.5899999999997,2,2,4,3,2243,New Customer High Value
+3228,334,41,4,6403.3099999999995,4,3,3,4,4334,Top Tier Loyalist
+323,289,281,2,2598.57,3,1,1,2,3112,Inactive Customer
+3230,283,70,3,3063.34,3,3,2,3,3323,Occasional Spender
+3231,333,35,4,4045.55,4,4,3,3,4433,Top Tier Loyalist
+3232,336,121,6,6304.55,4,2,4,4,4244,At Risk Customer
+3233,111,81,2,2465.06,1,3,1,2,1312,New Customer Low Value
+3234,275,150,2,2358.0,2,2,1,2,2212,New Customer Low Value
+3237,282,178,3,3747.78,3,1,2,3,3123,Reactivated Spender
+3238,171,30,4,2845.21,1,4,3,2,1432,1432
+3239,358,3,4,3478.23,4,4,3,3,4433,Top Tier Loyalist
+324,359,22,3,2404.02,4,4,2,2,4422,Occasional Spender
+3240,240,97,3,5176.33,2,2,2,4,2224,New Customer High Potential
+3241,333,72,3,4051.66,4,3,2,3,4323,Occasional Spender
+3242,361,119,4,4860.91,4,2,3,4,4234,At Risk Customer
+3243,292,292,1,1415.01,3,1,1,1,3111,Inactive Customer
+3244,356,90,2,2011.3200000000002,4,2,1,2,4212,Inactive Customer
+3245,163,131,3,2563.78,1,2,2,2,1222,New Customer Low Value
+3246,234,100,3,4349.68,2,2,2,3,2223,New Customer High Potential
+3247,280,65,4,3572.7200000000003,2,3,3,3,2333,New Customer High Value
+3248,290,59,2,1439.2600000000002,3,3,1,1,3311,Occasional Spender
+3249,332,40,5,7421.21,4,3,4,4,4344,Top Tier Loyalist
+325,251,134,2,1542.3500000000001,2,2,1,1,2211,New Customer Low Value
+3250,245,204,2,2473.3900000000003,2,1,1,2,2112,New Customer Low Value
+3251,288,8,7,6634.42,3,4,4,4,3444,Top Tier Loyalist
+3252,308,223,5,5047.87,3,1,4,4,3144,At Risk Customer
+3253,28,28,1,1466.68,1,4,1,1,1411,New Customer Low Value
+3254,280,220,2,2498.63,2,1,1,2,2112,New Customer Low Value
+3255,350,107,2,3501.01,4,2,1,3,4213,Reactivated Spender
+3256,217,208,2,3148.9799999999996,2,1,1,3,2113,New Customer High Potential
+3257,251,251,1,2083.94,2,1,1,2,2112,New Customer Low Value
+3258,251,18,4,5561.5,2,4,3,4,2434,New Customer High Value
+326,271,271,1,544.05,2,1,1,1,2111,New Customer Low Value
+3260,327,327,1,360.4,3,1,1,1,3111,Inactive Customer
+3261,354,77,6,6047.34,4,3,4,4,4344,Top Tier Loyalist
+3262,291,2,4,4452.63,3,4,3,4,3434,Top Tier Loyalist
+3263,357,24,4,3059.7,4,4,3,3,4433,Top Tier Loyalist
+3264,331,116,5,6703.3099999999995,3,2,4,4,3244,At Risk Customer
+3265,286,89,4,2306.69,3,2,3,2,3232,At Risk Customer
+3267,210,89,3,4052.3100000000004,2,2,2,3,2223,New Customer High Potential
+3269,263,134,2,2295.34,2,2,1,2,2212,New Customer Low Value
+327,335,17,4,4330.41,4,4,3,3,4433,Top Tier Loyalist
+3270,347,123,2,2941.88,4,2,1,2,4212,Inactive Customer
+3271,304,304,1,1036.59,3,1,1,1,3111,Inactive Customer
+3272,296,296,1,569.56,3,1,1,1,3111,Inactive Customer
+3273,331,116,2,3220.6,3,2,1,3,3213,Reactivated Spender
+3274,190,34,2,771.27,1,4,1,1,1411,New Customer Low Value
+3275,275,5,2,1774.97,2,4,1,1,2411,New Customer Low Value
+3276,179,179,1,1362.99,1,1,1,1,1111,New Customer Low Value
+3277,224,38,4,4055.41,2,3,3,3,2333,New Customer High Value
+3278,312,23,5,5194.07,3,4,4,4,3444,Top Tier Loyalist
+3279,298,298,1,1071.23,3,1,1,1,3111,Inactive Customer
+328,320,164,2,567.21,3,1,1,1,3111,Inactive Customer
+3280,167,135,3,3586.3900000000003,1,2,2,3,1223,New Customer High Potential
+3282,351,134,3,4474.51,4,2,2,4,4224,Reactivated Spender
+3283,256,45,2,2544.17,2,3,1,2,2312,New Customer Low Value
+3284,317,279,2,1462.0600000000002,3,1,1,1,3111,Inactive Customer
+3285,287,20,4,3441.48,3,4,3,3,3433,Top Tier Loyalist
+3286,142,11,5,5380.68,1,4,4,4,1444,New Customer High Value
+3287,282,77,3,3694.7200000000003,3,3,2,3,3323,Occasional Spender
+3288,264,177,3,4521.34,2,1,2,4,2124,New Customer High Potential
+3289,271,70,3,3888.4,2,3,2,3,2323,New Customer High Spender
+329,340,204,4,3254.83,4,1,3,3,4133,At Risk Customer
+3290,333,68,4,3326.2,4,3,3,3,4333,Top Tier Loyalist
+3291,253,47,4,3946.9500000000003,2,3,3,3,2333,New Customer High Value
+3292,302,302,1,60.34,3,1,1,1,3111,Inactive Customer
+3293,300,1,5,4716.33,3,4,4,4,3444,Top Tier Loyalist
+3294,63,63,1,1555.58,1,3,1,1,1311,New Customer Low Value
+3295,308,275,3,3679.38,3,1,2,3,3123,Reactivated Spender
+3296,290,138,3,2396.27,3,2,2,2,3222,Inactive Customer
+3297,140,59,3,2616.46,1,3,2,2,1322,New Customer Low Value
+3298,338,5,3,3034.66,4,4,2,3,4423,Occasional Spender
+3299,251,167,2,657.94,2,1,1,1,2111,New Customer Low Value
+33,286,105,2,2990.3,3,2,1,3,3213,Reactivated Spender
+330,108,108,1,1179.0,1,2,1,1,1211,New Customer Low Value
+3300,175,71,2,3046.15,1,3,1,3,1313,New Customer High Spender
+3301,356,70,3,2010.8300000000002,4,3,2,2,4322,Occasional Spender
+3302,248,21,3,851.51,2,4,2,1,2421,New Customer Low Value
+3303,305,145,4,3763.12,3,2,3,3,3233,At Risk Customer
+3304,273,79,5,5909.78,2,3,4,4,2344,New Customer High Value
+3305,212,40,2,306.78999999999996,2,3,1,1,2311,New Customer Low Value
+3306,356,143,3,4691.39,4,2,2,4,4224,Reactivated Spender
+3307,236,119,2,3853.58,2,2,1,3,2213,New Customer High Potential
+3308,95,95,1,2005.66,1,2,1,2,1212,New Customer Low Value
+3309,295,295,1,1057.51,3,1,1,1,3111,Inactive Customer
+331,327,83,5,5010.969999999999,3,2,4,4,3244,At Risk Customer
+3310,282,52,2,2005.68,3,3,1,2,3312,Occasional Spender
+3311,110,66,2,1539.4,1,3,1,1,1311,New Customer Low Value
+3312,340,130,3,3191.05,4,2,2,3,4223,Reactivated Spender
+3313,227,204,2,970.42,2,1,1,1,2111,New Customer Low Value
+3314,298,59,3,3771.66,3,3,2,3,3323,Occasional Spender
+3315,311,93,3,2699.2000000000003,3,2,2,2,3222,Inactive Customer
+3316,21,21,1,795.34,1,4,1,1,1411,New Customer Low Value
+3317,290,88,3,1895.95,3,2,2,2,3222,Inactive Customer
+3318,274,233,2,2839.3599999999997,2,1,1,2,2112,New Customer Low Value
+3319,238,23,5,5792.73,2,4,4,4,2444,New Customer High Value
+3320,318,138,7,6038.73,3,2,4,4,3244,At Risk Customer
+3321,332,332,1,590.26,4,1,1,1,4111,Inactive Customer
+3323,285,191,3,4290.13,3,1,2,3,3123,Reactivated Spender
+3324,232,41,5,9139.6,2,3,4,4,2344,New Customer High Value
+3325,176,46,3,2304.24,1,3,2,2,1322,New Customer Low Value
+3326,322,30,7,7252.21,3,4,4,4,3444,Top Tier Loyalist
+3327,241,57,3,1959.4499999999998,2,3,2,2,2322,New Customer Low Value
+3328,137,137,1,202.62,1,2,1,1,1211,New Customer Low Value
+3329,205,19,3,2367.92,1,4,2,2,1422,New Customer Low Value
+333,353,23,5,4658.25,4,4,4,4,4444,Top Tier Loyalist
+3330,150,23,4,1830.71,1,4,3,2,1432,1432
+3331,347,37,3,4652.11,4,4,2,4,4424,Occasional Spender
+3332,308,161,3,3568.4399999999996,3,1,2,3,3123,Reactivated Spender
+3333,346,192,4,4726.83,4,1,3,4,4134,At Risk Customer
+3334,319,74,5,2980.62,3,3,4,3,3343,Top Tier Loyalist
+3335,330,4,3,1673.05,3,4,2,1,3421,Occasional Spender
+3336,261,108,3,2979.8,2,2,2,3,2223,New Customer High Potential
+3337,295,7,6,5584.06,3,4,4,4,3444,Top Tier Loyalist
+3339,299,39,3,2465.21,3,3,2,2,3322,Occasional Spender
+334,240,57,6,6125.9,2,3,4,4,2344,New Customer High Value
+3340,167,133,2,1844.49,1,2,1,2,1212,New Customer Low Value
+3341,195,195,1,1415.01,1,1,1,1,1111,New Customer Low Value
+3342,353,101,4,4374.33,4,2,3,3,4233,At Risk Customer
+3343,345,79,4,3611.75,4,3,3,3,4333,Top Tier Loyalist
+3344,220,11,2,1705.0700000000002,2,4,1,1,2411,New Customer Low Value
+3345,194,32,4,3382.96,1,4,3,3,1433,New Customer High Value
+3346,220,220,1,1071.23,2,1,1,1,2111,New Customer Low Value
+3347,315,108,4,3296.39,3,2,3,3,3233,At Risk Customer
+3348,248,150,2,1676.6200000000001,2,2,1,1,2211,New Customer Low Value
+3349,314,263,3,4286.9400000000005,3,1,2,3,3123,Reactivated Spender
+335,345,25,2,2234.34,4,4,1,2,4412,Occasional Spender
+3350,270,270,1,1538.99,2,1,1,1,2111,New Customer Low Value
+3351,319,40,4,5905.95,3,3,3,4,3334,Top Tier Loyalist
+3352,125,38,4,3930.0,1,3,3,3,1333,New Customer High Value
+3353,313,253,3,2066.63,3,1,2,2,3122,Inactive Customer
+3354,287,287,1,1129.13,3,1,1,1,3111,Inactive Customer
+3355,140,140,1,1071.23,1,2,1,1,1211,New Customer Low Value
+3356,263,248,2,2052.76,2,1,1,2,2112,New Customer Low Value
+3357,315,315,1,912.52,3,1,1,1,3111,Inactive Customer
+3358,335,98,5,6029.48,4,2,4,4,4244,At Risk Customer
+3359,254,254,1,290.62,2,1,1,1,2111,New Customer Low Value
+336,266,266,1,360.4,2,1,1,1,2111,New Customer Low Value
+3360,303,88,6,3776.08,3,2,4,3,3243,At Risk Customer
+3361,336,45,2,3071.8399999999997,4,3,1,3,4313,Occasional Spender
+3362,267,87,2,672.4,2,2,1,1,2211,New Customer Low Value
+3363,358,52,5,4808.63,4,3,4,4,4344,Top Tier Loyalist
+3364,327,276,2,2613.09,3,1,1,2,3112,Inactive Customer
+3365,307,72,4,3636.73,3,3,3,3,3333,Top Tier Loyalist
+3366,187,187,1,1198.46,1,1,1,1,1111,New Customer Low Value
+3367,293,83,4,5553.099999999999,3,2,3,4,3234,At Risk Customer
+3368,345,44,4,4163.73,4,3,3,3,4333,Top Tier Loyalist
+3369,251,77,3,3597.2200000000003,2,3,2,3,2323,New Customer High Spender
+337,243,243,1,1024.66,2,1,1,1,2111,New Customer Low Value
+3370,333,43,2,1555.22,4,3,1,1,4311,Occasional Spender
+3371,336,42,7,6535.12,4,3,4,4,4344,Top Tier Loyalist
+3372,185,64,3,3579.04,1,3,2,3,1323,New Customer High Spender
+3373,288,91,3,4441.49,3,2,2,3,3223,Reactivated Spender
+3374,94,94,1,1890.39,1,2,1,2,1212,New Customer Low Value
+3375,360,13,6,5673.67,4,4,4,4,4444,Top Tier Loyalist
+3376,137,94,2,1042.92,1,2,1,1,1211,New Customer Low Value
+3377,314,78,4,4071.12,3,3,3,3,3333,Top Tier Loyalist
+3378,140,140,1,2091.47,1,2,1,2,1212,New Customer Low Value
+3379,269,21,3,4192.1900000000005,2,4,2,3,2423,New Customer High Spender
+338,299,11,6,7111.83,3,4,4,4,3444,Top Tier Loyalist
+3380,198,151,2,2113.63,1,2,1,2,1212,New Customer Low Value
+3381,270,196,2,1880.11,2,1,1,2,2112,New Customer Low Value
+3382,362,77,4,3034.52,4,3,3,3,4333,Top Tier Loyalist
+3383,329,30,3,5553.84,3,4,2,4,3424,Occasional Spender
+3384,297,297,1,227.88,3,1,1,1,3111,Inactive Customer
+3385,288,117,2,2453.2,3,2,1,2,3212,Inactive Customer
+3386,85,8,2,2337.48,1,4,1,2,1412,New Customer Low Value
+3387,241,83,6,7508.01,2,2,4,4,2244,New Customer High Value
+3388,211,104,3,3027.42,2,2,2,3,2223,New Customer High Potential
+3389,364,82,3,1970.6100000000001,4,2,2,2,4222,Inactive Customer
+339,265,59,5,6459.18,2,3,4,4,2344,New Customer High Value
+3391,324,20,4,3516.9900000000002,3,4,3,3,3433,Top Tier Loyalist
+3393,336,154,2,1319.1399999999999,4,2,1,1,4211,Inactive Customer
+3394,20,20,1,1577.53,1,4,1,1,1411,New Customer Low Value
+3395,129,61,3,1910.77,1,3,2,2,1322,New Customer Low Value
+3397,90,90,1,544.05,1,2,1,1,1211,New Customer Low Value
+3398,274,66,2,1705.0700000000002,2,3,1,1,2311,New Customer Low Value
+3399,310,38,3,3822.3199999999997,3,3,2,3,3323,Occasional Spender
+34,265,183,3,4853.66,2,1,2,4,2124,New Customer High Potential
+340,223,223,1,574.64,2,1,1,1,2111,New Customer Low Value
+3400,301,27,3,2506.51,3,4,2,2,3422,Occasional Spender
+3401,230,67,5,5619.38,2,3,4,4,2344,New Customer High Value
+3402,310,13,5,6634.25,3,4,4,4,3444,Top Tier Loyalist
+3403,134,134,1,1635.3,1,2,1,1,1211,New Customer Low Value
+3404,79,52,3,3265.3599999999997,1,3,2,3,1323,New Customer High Spender
+3405,319,70,5,4835.26,3,3,4,4,3344,Top Tier Loyalist
+3406,237,104,4,5689.7,2,2,3,4,2234,New Customer High Value
+3407,198,60,4,2902.18,1,3,3,2,1332,1332
+3409,335,74,5,6757.48,4,3,4,4,4344,Top Tier Loyalist
+341,135,135,1,1977.36,1,2,1,2,1212,New Customer Low Value
+3410,333,242,3,2965.8900000000003,4,1,2,3,4123,Reactivated Spender
+3411,349,31,6,9342.86,4,4,4,4,4444,Top Tier Loyalist
+3412,55,55,1,1386.84,1,3,1,1,1311,New Customer Low Value
+3413,310,26,4,6325.24,3,4,3,4,3434,Top Tier Loyalist
+3414,362,163,2,3190.8199999999997,4,1,1,3,4113,Reactivated Spender
+3415,303,103,2,2659.96,3,2,1,2,3212,Inactive Customer
+3417,360,96,4,4296.72,4,2,3,3,4233,At Risk Customer
+3418,341,221,2,1697.6799999999998,4,1,1,1,4111,Inactive Customer
+3419,89,6,2,2017.15,1,4,1,2,1412,New Customer Low Value
+3420,318,6,7,8881.04,3,4,4,4,3444,Top Tier Loyalist
+3421,237,29,5,6513.95,2,4,4,4,2444,New Customer High Value
+3422,328,33,3,3764.44,3,4,2,3,3423,Occasional Spender
+3423,112,78,2,2197.44,1,3,1,2,1312,New Customer Low Value
+3424,342,154,2,2940.52,4,2,1,2,4212,Inactive Customer
+3425,340,25,5,5870.48,4,4,4,4,4444,Top Tier Loyalist
+3426,361,46,4,5659.9,4,3,3,4,4334,Top Tier Loyalist
+3427,236,106,2,2981.0299999999997,2,2,1,3,2213,New Customer High Potential
+3428,92,92,1,1274.93,1,2,1,1,1211,New Customer Low Value
+3429,284,122,2,2148.05,3,2,1,2,3212,Inactive Customer
+343,342,134,5,6672.29,4,2,4,4,4244,At Risk Customer
+3430,268,102,3,1184.44,2,2,2,1,2221,New Customer Low Value
+3431,281,29,7,8505.35,2,4,4,4,2444,New Customer High Value
+3432,321,107,5,6069.81,3,2,4,4,3244,At Risk Customer
+3433,343,111,4,3792.78,4,2,3,3,4233,At Risk Customer
+3434,178,151,2,2495.23,1,2,1,2,1212,New Customer Low Value
+3435,362,179,3,3499.43,4,1,2,3,4123,Reactivated Spender
+3436,334,23,5,4595.14,4,4,4,4,4444,Top Tier Loyalist
+3437,228,103,2,3530.7,2,2,1,3,2213,New Customer High Potential
+3438,294,222,3,3245.6099999999997,3,1,2,3,3123,Reactivated Spender
+3439,279,83,3,2740.45,2,2,2,2,2222,New Customer Low Value
+344,322,9,5,6631.34,3,4,4,4,3444,Top Tier Loyalist
+3440,265,265,1,1555.58,2,1,1,1,2111,New Customer Low Value
+3442,237,225,2,1411.9299999999998,2,1,1,1,2111,New Customer Low Value
+3443,231,30,3,4735.28,2,4,2,4,2424,New Customer High Spender
+3445,334,120,4,5369.3099999999995,4,2,3,4,4234,At Risk Customer
+3446,5,5,1,792.9,1,4,1,1,1411,New Customer Low Value
+3447,349,84,7,7460.52,4,2,4,4,4244,At Risk Customer
+3448,233,50,3,3473.58,2,3,2,3,2323,New Customer High Spender
+3449,150,150,1,642.31,1,2,1,1,1211,New Customer Low Value
+345,300,288,2,1727.6,3,1,1,1,3111,Inactive Customer
+3450,354,206,4,5282.38,4,1,3,4,4134,At Risk Customer
+3451,224,16,4,5424.7,2,4,3,4,2434,New Customer High Value
+3452,265,265,1,1577.53,2,1,1,1,2111,New Customer Low Value
+3453,169,129,2,2455.52,1,2,1,2,1212,New Customer Low Value
+3454,215,116,3,2523.31,2,2,2,2,2222,New Customer Low Value
+3455,234,10,3,1448.0100000000002,2,4,2,1,2421,New Customer Low Value
+3456,161,161,1,1538.99,1,1,1,1,1111,New Customer Low Value
+3457,98,98,1,1793.43,1,2,1,2,1212,New Customer Low Value
+3458,206,206,1,2005.66,1,1,1,2,1112,New Customer Low Value
+3459,67,67,1,1890.39,1,3,1,2,1312,New Customer Low Value
+346,318,114,5,5585.2,3,2,4,4,3244,At Risk Customer
+3460,178,81,3,3614.63,1,3,2,3,1323,New Customer High Spender
+3461,165,137,2,1687.05,1,2,1,1,1211,New Customer Low Value
+3462,211,45,3,3119.54,2,3,2,3,2323,New Customer High Spender
+3463,335,58,3,2921.33,4,3,2,2,4322,Occasional Spender
+3465,282,125,5,5637.35,3,2,4,4,3244,At Risk Customer
+3466,324,128,2,759.79,3,2,1,1,3211,Inactive Customer
+3467,258,54,2,3049.92,2,3,1,3,2313,New Customer High Spender
+3468,120,27,3,3113.17,1,4,2,3,1423,New Customer High Spender
+3469,39,39,1,71.49,1,3,1,1,1311,New Customer Low Value
+347,347,60,3,5245.719999999999,4,3,2,4,4324,Occasional Spender
+3470,248,33,3,5494.379999999999,2,4,2,4,2424,New Customer High Spender
+3471,245,184,2,1769.9,2,1,1,1,2111,New Customer Low Value
+3472,327,169,3,3591.51,3,1,2,3,3123,Reactivated Spender
+3473,85,85,1,1311.44,1,2,1,1,1211,New Customer Low Value
+3474,171,72,5,4654.08,1,3,4,4,1344,New Customer High Value
+3475,189,189,1,1228.07,1,1,1,1,1111,New Customer Low Value
+3476,133,51,3,1795.47,1,3,2,2,1322,New Customer Low Value
+3477,235,65,4,4141.78,2,3,3,3,2333,New Customer High Value
+3478,206,41,3,3495.81,1,3,2,3,1323,New Customer High Spender
+3479,287,66,4,4359.32,3,3,3,3,3333,Top Tier Loyalist
+348,350,126,4,4567.33,4,2,3,4,4234,At Risk Customer
+3480,63,63,1,1061.56,1,3,1,1,1311,New Customer Low Value
+3481,181,55,4,3815.57,1,3,3,3,1333,New Customer High Value
+3482,354,28,4,6438.67,4,4,3,4,4434,Top Tier Loyalist
+3483,362,246,5,7661.05,4,1,4,4,4144,At Risk Customer
+3484,306,103,2,2426.5299999999997,3,2,1,2,3212,Inactive Customer
+3485,26,26,1,1890.39,1,4,1,2,1412,New Customer Low Value
+3486,248,10,2,1858.71,2,4,1,2,2412,New Customer Low Value
+3487,180,11,2,2536.32,1,4,1,2,1412,New Customer Low Value
+3489,320,168,3,4378.71,3,1,2,3,3123,Reactivated Spender
+349,283,283,1,1555.58,3,1,1,1,3111,Inactive Customer
+3490,364,182,3,3339.04,4,1,2,3,4123,Reactivated Spender
+3491,232,190,2,1186.0900000000001,2,1,1,1,2111,New Customer Low Value
+3492,204,204,1,1073.07,1,1,1,1,1111,New Customer Low Value
+3493,226,94,5,8288.52,2,2,4,4,2244,New Customer High Value
+3494,114,5,2,2072.5,1,4,1,2,1412,New Customer Low Value
+3495,352,14,3,2256.56,4,4,2,2,4422,Occasional Spender
+3496,273,257,3,4150.74,2,1,2,3,2123,New Customer High Potential
+3497,121,53,2,1978.77,1,3,1,2,1312,New Customer Low Value
+3498,331,159,5,5076.71,3,1,4,4,3144,At Risk Customer
+3499,309,52,4,5607.58,3,3,3,4,3334,Top Tier Loyalist
+35,278,278,1,1292.84,2,1,1,1,2111,New Customer Low Value
+350,218,5,3,3871.46,2,4,2,3,2423,New Customer High Spender
+3500,356,292,2,2251.07,4,1,1,2,4112,Inactive Customer
+351,12,12,1,1807.45,1,4,1,2,1412,New Customer Low Value
+352,211,32,2,2173.15,2,4,1,2,2412,New Customer Low Value
+353,329,24,9,11816.32,3,4,4,4,3444,Top Tier Loyalist
+354,348,68,4,3602.73,4,3,3,3,4333,Top Tier Loyalist
+355,281,46,3,3861.04,2,3,2,3,2323,New Customer High Spender
+356,278,191,2,2146.04,2,1,1,2,2112,New Customer Low Value
+357,251,39,5,5353.29,2,3,4,4,2344,New Customer High Value
+358,71,71,1,1894.19,1,3,1,2,1312,New Customer Low Value
+359,346,27,6,5768.49,4,4,4,4,4444,Top Tier Loyalist
+360,219,126,2,2118.27,2,2,1,2,2212,New Customer Low Value
+361,314,261,3,3726.3,3,1,2,3,3123,Reactivated Spender
+362,90,90,1,416.98,1,2,1,1,1211,New Customer Low Value
+363,315,15,5,9813.689999999999,3,4,4,4,3444,Top Tier Loyalist
+364,134,87,2,2595.8100000000004,1,2,1,2,1212,New Customer Low Value
+365,295,56,4,4135.62,3,3,3,3,3333,Top Tier Loyalist
+366,341,188,2,3134.79,4,1,1,3,4113,Reactivated Spender
+367,280,44,3,3435.46,2,3,2,3,2323,New Customer High Spender
+368,332,18,5,5509.38,4,4,4,4,4444,Top Tier Loyalist
+369,304,102,6,6412.15,3,2,4,4,3244,At Risk Customer
+37,301,52,4,4801.75,3,3,3,4,3334,Top Tier Loyalist
+370,347,112,5,4689.65,4,2,4,4,4244,At Risk Customer
+371,102,102,1,2083.94,1,2,1,2,1212,New Customer Low Value
+372,311,75,3,2232.2400000000002,3,3,2,2,3322,Occasional Spender
+373,224,224,1,1466.68,2,1,1,1,2111,New Customer Low Value
+374,29,14,2,2239.02,1,4,1,2,1412,New Customer Low Value
+375,162,162,1,586.45,1,1,1,1,1111,New Customer Low Value
+377,313,12,5,3660.09,3,4,4,3,3443,Top Tier Loyalist
+378,342,141,4,3366.12,4,2,3,3,4233,At Risk Customer
+38,342,342,1,71.49,4,1,1,1,4111,Inactive Customer
+380,148,148,1,495.72,1,2,1,1,1211,New Customer Low Value
+381,238,3,4,3513.38,2,4,3,3,2433,New Customer High Value
+382,311,144,4,3538.43,3,2,3,3,3233,At Risk Customer
+383,244,172,2,2345.37,2,1,1,2,2112,New Customer Low Value
+384,303,86,2,2541.6,3,2,1,2,3212,Inactive Customer
+385,241,107,2,1821.2399999999998,2,2,1,2,2212,New Customer Low Value
+386,267,67,3,2956.79,2,3,2,3,2323,New Customer High Spender
+387,32,32,1,1636.9,1,4,1,1,1411,New Customer Low Value
+388,191,56,2,2109.38,1,3,1,2,1312,New Customer Low Value
+389,306,114,3,659.4399999999999,3,2,2,1,3221,Inactive Customer
+39,327,86,4,3524.65,3,2,3,3,3233,At Risk Customer
+390,335,77,2,644.86,4,3,1,1,4311,Occasional Spender
+391,341,57,3,2633.34,4,3,2,2,4322,Occasional Spender
+392,262,139,3,3099.16,2,2,2,3,2223,New Customer High Potential
+393,147,147,1,1555.58,1,2,1,1,1211,New Customer Low Value
+394,356,108,3,2639.16,4,2,2,2,4222,Inactive Customer
+395,273,273,1,533.51,2,1,1,1,2111,New Customer Low Value
+396,346,92,2,1594.16,4,2,1,1,4211,Inactive Customer
+397,331,46,3,2083.76,3,3,2,2,3322,Occasional Spender
+398,105,105,1,533.51,1,2,1,1,1211,New Customer Low Value
+399,287,94,3,4961.38,3,2,2,4,3224,Reactivated Spender
+4,196,196,1,478.16,1,1,1,1,1111,New Customer Low Value
+40,341,158,3,2535.07,4,1,2,2,4122,Inactive Customer
+400,241,135,4,4254.0,2,2,3,3,2233,New Customer High Value
+401,196,196,1,1216.14,1,1,1,1,1111,New Customer Low Value
+402,240,57,3,3023.01,2,3,2,3,2323,New Customer High Spender
+403,278,57,2,2178.0299999999997,2,3,1,2,2312,New Customer Low Value
+404,266,179,3,4724.29,2,1,2,4,2124,New Customer High Potential
+405,351,15,4,5071.17,4,4,3,4,4434,Top Tier Loyalist
+406,338,138,2,1632.15,4,2,1,1,4211,Inactive Customer
+407,330,129,3,3115.39,3,2,2,3,3223,Reactivated Spender
+408,138,68,2,2075.62,1,3,1,2,1312,New Customer Low Value
+409,199,199,1,235.63,1,1,1,1,1111,New Customer Low Value
+41,260,30,5,5149.45,2,4,4,4,2444,New Customer High Value
+410,134,7,3,3424.56,1,4,2,3,1423,New Customer High Spender
+411,283,283,1,1231.15,3,1,1,1,3111,Inactive Customer
+412,321,83,2,2497.73,3,2,1,2,3212,Inactive Customer
+413,316,316,1,1555.58,3,1,1,1,3111,Inactive Customer
+414,305,48,4,2336.23,3,3,3,2,3332,Price Conscious Buyers
+415,294,249,2,3670.0,3,1,1,3,3113,Reactivated Spender
+416,268,89,2,2279.6000000000004,2,2,1,2,2212,New Customer Low Value
+417,310,176,2,3076.9300000000003,3,1,1,3,3113,Reactivated Spender
+418,339,115,2,2407.6099999999997,4,2,1,2,4212,Inactive Customer
+419,106,106,1,60.34,1,2,1,1,1211,New Customer Low Value
+42,333,136,2,944.84,4,2,1,1,4211,Inactive Customer
+420,288,78,4,3668.9900000000002,3,3,3,3,3333,Top Tier Loyalist
+421,322,57,4,3910.92,3,3,3,3,3333,Top Tier Loyalist
+422,181,181,1,1172.78,1,1,1,1,1111,New Customer Low Value
+423,340,217,2,2345.58,4,1,1,2,4112,Inactive Customer
+424,361,75,5,5983.65,4,3,4,4,4344,Top Tier Loyalist
+425,250,26,3,4558.32,2,4,2,4,2424,New Customer High Spender
+426,325,60,5,6733.66,3,3,4,4,3344,Top Tier Loyalist
+427,178,178,1,1289.85,1,1,1,1,1111,New Customer Low Value
+428,140,140,2,2016.92,1,2,1,2,1212,New Customer Low Value
+429,354,186,2,1892.8300000000002,4,1,1,2,4112,Inactive Customer
+43,327,62,3,1824.54,3,3,2,2,3322,Occasional Spender
+430,255,66,3,3366.31,2,3,2,3,2323,New Customer High Spender
+432,363,38,4,5127.3099999999995,4,3,3,4,4334,Top Tier Loyalist
+433,315,16,3,3951.61,3,4,2,3,3423,Occasional Spender
+436,125,51,2,1604.9499999999998,1,3,1,1,1311,New Customer Low Value
+437,172,49,3,2627.4,1,3,2,2,1322,New Customer Low Value
+438,180,52,4,5806.1900000000005,1,3,3,4,1334,New Customer High Value
+439,138,100,3,4291.27,1,2,2,3,1223,New Customer High Potential
+44,247,37,2,2890.4700000000003,2,4,1,2,2412,New Customer Low Value
+440,152,12,3,3717.0099999999998,1,4,2,3,1423,New Customer High Spender
+441,309,63,2,1965.68,3,3,1,2,3312,Occasional Spender
+442,203,62,2,1142.72,1,3,1,1,1311,New Customer Low Value
+443,307,5,3,2332.2799999999997,3,4,2,2,3422,Occasional Spender
+444,204,75,3,3313.83,1,3,2,3,1323,New Customer High Spender
+445,325,60,6,7981.42,3,3,4,4,3344,Top Tier Loyalist
+446,315,53,5,6871.57,3,3,4,4,3344,Top Tier Loyalist
+447,206,192,2,2587.74,1,1,1,2,1112,New Customer Low Value
+448,357,283,3,3999.32,4,1,2,3,4123,Reactivated Spender
+449,325,301,2,2122.07,3,1,1,2,3112,Inactive Customer
+45,175,44,2,2840.84,1,3,1,2,1312,New Customer Low Value
+450,90,90,1,1231.15,1,2,1,1,1211,New Customer Low Value
+451,342,285,2,3312.01,4,1,1,3,4113,Reactivated Spender
+452,259,25,3,3541.17,2,4,2,3,2423,New Customer High Spender
+453,313,65,4,1475.15,3,3,3,1,3331,Price Conscious Buyers
+454,154,52,2,2570.13,1,3,1,2,1312,New Customer Low Value
+455,124,68,3,4076.17,1,3,2,3,1323,New Customer High Spender
+456,362,89,2,2834.0099999999998,4,2,1,2,4212,Inactive Customer
+457,272,116,3,4647.089999999999,2,2,2,4,2224,New Customer High Potential
+458,346,33,4,3119.91,4,4,3,3,4433,Top Tier Loyalist
+459,184,39,4,5424.47,1,3,3,4,1334,New Customer High Value
+46,291,54,2,895.69,3,3,1,1,3311,Occasional Spender
+460,357,319,2,1703.77,4,1,1,1,4111,Inactive Customer
+461,233,21,5,7303.52,2,4,4,4,2444,New Customer High Value
+462,325,161,4,5097.69,3,1,3,4,3134,At Risk Customer
+463,286,68,3,4470.16,3,3,2,4,3324,Occasional Spender
+464,270,10,5,6569.16,2,4,4,4,2444,New Customer High Value
+465,151,5,3,1410.25,1,4,2,1,1421,New Customer Low Value
+466,129,41,3,2349.8,1,3,2,2,1322,New Customer Low Value
+467,364,276,3,3845.85,4,1,2,3,4123,Reactivated Spender
+468,348,95,5,7193.37,4,2,4,4,4244,At Risk Customer
+469,329,108,6,4621.5599999999995,3,2,4,4,3244,At Risk Customer
+47,291,158,3,3188.2,3,1,2,3,3123,Reactivated Spender
+471,49,49,1,71.49,1,3,1,1,1311,New Customer Low Value
+472,347,50,4,4932.150000000001,4,3,3,4,4334,Top Tier Loyalist
+473,323,116,5,6162.23,3,2,4,4,3244,At Risk Customer
+474,98,98,1,1071.23,1,2,1,1,1211,New Customer Low Value
+475,338,25,3,2468.71,4,4,2,2,4422,Occasional Spender
+477,266,36,5,5899.43,2,4,4,4,2444,New Customer High Value
+478,359,4,6,4525.070000000001,4,4,4,4,4444,Top Tier Loyalist
+479,228,77,5,5854.75,2,3,4,4,2344,New Customer High Value
+48,299,83,5,5705.75,3,2,4,4,3244,At Risk Customer
+481,63,15,2,2156.44,1,4,1,2,1412,New Customer Low Value
+482,323,145,6,5671.72,3,2,4,4,3244,At Risk Customer
+483,41,41,1,569.56,1,3,1,1,1311,New Customer Low Value
+484,65,20,2,3217.67,1,4,1,3,1413,New Customer High Spender
+485,273,15,5,4919.77,2,4,4,4,2444,New Customer High Value
+486,319,92,3,3612.85,3,2,2,3,3223,Reactivated Spender
+487,352,352,1,416.98,4,1,1,1,4111,Inactive Customer
+488,318,83,3,1693.33,3,2,2,1,3221,Inactive Customer
+489,328,328,1,1777.8,3,1,1,1,3111,Inactive Customer
+49,334,145,2,3556.3900000000003,4,2,1,3,4213,Reactivated Spender
+490,243,146,3,4133.87,2,2,2,3,2223,New Customer High Potential
+491,292,69,3,3584.37,3,3,2,3,3323,Occasional Spender
+492,346,91,3,3302.7200000000003,4,2,2,3,4223,Reactivated Spender
+495,362,188,3,2363.42,4,1,2,2,4122,Inactive Customer
+496,188,46,2,1096.15,1,3,1,1,1311,New Customer Low Value
+497,149,129,2,872.49,1,2,1,1,1211,New Customer Low Value
+498,347,52,4,5920.98,4,3,3,4,4334,Top Tier Loyalist
+499,359,56,7,5551.78,4,3,4,4,4344,Top Tier Loyalist
+5,303,219,2,1861.4099999999999,3,1,1,2,3112,Inactive Customer
+50,272,162,4,5057.13,2,1,3,4,2134,New Customer High Value
+500,309,76,4,5519.93,3,3,3,4,3334,Top Tier Loyalist
+501,214,183,2,1980.48,2,1,1,2,2112,New Customer Low Value
+502,337,300,2,1545.54,4,1,1,1,4111,Inactive Customer
+503,215,84,3,3981.04,2,2,2,3,2223,New Customer High Potential
+504,281,176,4,4730.59,2,1,3,4,2134,New Customer High Value
+505,190,123,2,2019.02,1,2,1,2,1212,New Customer Low Value
+506,321,87,5,7714.38,3,2,4,4,3244,At Risk Customer
+507,330,37,5,6057.1,3,4,4,4,3444,Top Tier Loyalist
+508,348,258,3,3538.98,4,1,2,3,4123,Reactivated Spender
+509,355,90,5,5657.05,4,2,4,4,4244,At Risk Customer
+51,357,58,4,4809.6900000000005,4,3,3,4,4334,Top Tier Loyalist
+510,60,60,1,1555.58,1,3,1,1,1311,New Customer Low Value
+511,222,222,1,1073.07,2,1,1,1,2111,New Customer Low Value
+512,339,96,3,3700.44,4,2,2,3,4223,Reactivated Spender
+513,362,15,3,3603.16,4,4,2,3,4423,Occasional Spender
+514,264,124,3,4610.6900000000005,2,2,2,4,2224,New Customer High Potential
+515,287,28,4,6781.43,3,4,3,4,3434,Top Tier Loyalist
+516,360,20,3,3499.56,4,4,2,3,4423,Occasional Spender
+517,11,11,1,543.39,1,4,1,1,1411,New Customer Low Value
+518,262,262,1,1661.92,2,1,1,1,2111,New Customer Low Value
+519,305,106,2,2179.94,3,2,1,2,3212,Inactive Customer
+52,295,28,2,2134.31,3,4,1,2,3412,Occasional Spender
+521,219,155,2,1849.5700000000002,2,2,1,2,2212,New Customer Low Value
+522,310,42,4,3520.19,3,3,3,3,3333,Top Tier Loyalist
+523,364,19,4,4340.95,4,4,3,3,4433,Top Tier Loyalist
+524,347,139,6,5228.08,4,2,4,4,4244,At Risk Customer
+525,224,142,4,4597.9,2,2,3,4,2234,New Customer High Value
+526,248,155,2,1900.13,2,2,1,2,2212,New Customer Low Value
+527,44,44,1,1890.39,1,3,1,2,1312,New Customer Low Value
+528,322,249,4,4528.16,3,1,3,4,3134,At Risk Customer
+529,283,13,4,4429.64,3,4,3,3,3433,Top Tier Loyalist
+53,358,314,2,3070.69,4,1,1,3,4113,Reactivated Spender
+530,177,177,1,1890.39,1,1,1,2,1112,New Customer Low Value
+531,331,254,3,1829.65,3,1,2,2,3122,Inactive Customer
+532,331,58,4,3962.5099999999998,3,3,3,3,3333,Top Tier Loyalist
+533,176,3,2,2205.3599999999997,1,4,1,2,1412,New Customer Low Value
+534,346,7,6,5173.889999999999,4,4,4,4,4444,Top Tier Loyalist
+536,84,84,1,748.17,1,2,1,1,1211,New Customer Low Value
+537,232,50,2,2362.24,2,3,1,2,2312,New Customer Low Value
+538,359,158,4,3953.5699999999997,4,1,3,3,4133,At Risk Customer
+539,239,121,3,3196.05,2,2,2,3,2223,New Customer High Potential
+54,309,80,5,6620.16,3,3,4,4,3344,Top Tier Loyalist
+540,304,80,5,3203.4900000000002,3,3,4,3,3343,Top Tier Loyalist
+541,205,138,2,3122.0600000000004,1,2,1,3,1213,New Customer High Potential
+542,321,80,3,3841.7200000000003,3,3,2,3,3323,Occasional Spender
+543,210,170,2,1529.78,2,1,1,1,2111,New Customer Low Value
+544,356,292,3,2435.23,4,1,2,2,4122,Inactive Customer
+545,347,229,2,3985.66,4,1,1,3,4113,Reactivated Spender
+546,333,155,2,3506.4799999999996,4,2,1,3,4213,Reactivated Spender
+547,354,75,6,5913.53,4,3,4,4,4344,Top Tier Loyalist
+548,355,11,5,6193.27,4,4,4,4,4444,Top Tier Loyalist
+549,324,41,6,6151.78,3,3,4,4,3344,Top Tier Loyalist
+55,357,139,4,2035.29,4,2,3,2,4232,At Risk Customer
+550,121,121,1,1842.92,1,2,1,2,1212,New Customer Low Value
+551,214,205,2,2074.25,2,1,1,2,2112,New Customer Low Value
+552,160,160,1,71.49,1,1,1,1,1111,New Customer Low Value
+553,312,20,2,1761.8899999999999,3,4,1,1,3411,Occasional Spender
+554,148,57,2,2234.89,1,3,1,2,1312,New Customer Low Value
+555,256,256,1,1812.75,2,1,1,2,2112,New Customer Low Value
+556,210,148,2,3235.9,2,2,1,3,2213,New Customer High Potential
+557,326,326,1,1762.96,3,1,1,1,3111,Inactive Customer
+558,335,165,2,2898.21,4,1,1,2,4112,Inactive Customer
+559,142,7,3,4058.52,1,4,2,3,1423,New Customer High Spender
+56,298,3,3,2158.1499999999996,3,4,2,2,3422,Occasional Spender
+560,57,42,2,1727.23,1,3,1,1,1311,New Customer Low Value
+561,173,29,2,764.65,1,4,1,1,1411,New Customer Low Value
+562,338,236,2,2741.61,4,1,1,2,4112,Inactive Customer
+563,265,34,5,3023.29,2,4,4,3,2443,New Customer High Value
+564,360,53,3,3381.06,4,3,2,3,4323,Occasional Spender
+565,223,113,3,5125.13,2,2,2,4,2224,New Customer High Potential
+566,53,53,1,1228.07,1,3,1,1,1311,New Customer Low Value
+567,211,88,2,600.84,2,2,1,1,2211,New Customer Low Value
+568,332,202,3,1894.57,4,1,2,2,4122,Inactive Customer
+569,357,357,1,2091.47,4,1,1,2,4112,Inactive Customer
+57,51,36,2,2583.19,1,4,1,2,1412,New Customer Low Value
+570,120,120,1,60.34,1,2,1,1,1211,New Customer Low Value
+571,333,333,1,1065.03,4,1,1,1,4111,Inactive Customer
+572,305,106,2,2330.1099999999997,3,2,1,2,3212,Inactive Customer
+573,106,106,1,980.37,1,2,1,1,1211,New Customer Low Value
+574,320,286,2,1288.42,3,1,1,1,3111,Inactive Customer
+575,275,249,2,1998.31,2,1,1,2,2112,New Customer Low Value
+576,279,8,4,7674.71,2,4,3,4,2434,New Customer High Value
+577,232,3,5,4823.68,2,4,4,4,2444,New Customer High Value
+578,294,200,5,4771.4400000000005,3,1,4,4,3144,At Risk Customer
+579,361,146,7,7264.93,4,2,4,4,4244,At Risk Customer
+58,191,40,4,3998.2,1,3,3,3,1333,New Customer High Value
+580,363,239,2,1016.53,4,1,1,1,4111,Inactive Customer
+581,132,54,2,2832.11,1,3,1,2,1312,New Customer Low Value
+582,164,164,1,499.53,1,1,1,1,1111,New Customer Low Value
+583,90,32,3,2901.91,1,4,2,2,1422,New Customer Low Value
+584,312,133,3,3223.63,3,2,2,3,3223,Reactivated Spender
+585,334,98,4,3487.71,4,2,3,3,4233,At Risk Customer
+586,314,91,3,3834.28,3,2,2,3,3223,Reactivated Spender
+587,191,54,3,3254.15,1,3,2,3,1323,New Customer High Spender
+588,225,225,1,1720.7,2,1,1,1,2111,New Customer Low Value
+589,125,125,1,1386.84,1,2,1,1,1211,New Customer Low Value
+59,265,265,1,1362.99,2,1,1,1,2111,New Customer Low Value
+590,276,44,4,5149.85,2,3,3,4,2334,New Customer High Value
+591,222,222,1,441.49,2,1,1,1,2111,New Customer Low Value
+592,317,200,4,3192.94,3,1,3,3,3133,At Risk Customer
+593,140,2,3,2885.03,1,4,2,2,1422,New Customer Low Value
+594,351,34,5,7113.4800000000005,4,4,4,4,4444,Top Tier Loyalist
+595,227,185,3,3268.42,2,1,2,3,2123,New Customer High Potential
+596,86,86,1,1458.17,1,2,1,1,1211,New Customer Low Value
+597,220,62,4,4115.54,2,3,3,3,2333,New Customer High Value
+598,353,183,3,3021.8199999999997,4,1,2,3,4123,Reactivated Spender
+599,240,116,3,4134.62,2,2,2,3,2223,New Customer High Potential
+6,328,65,2,3572.75,3,3,1,3,3313,Occasional Spender
+600,321,207,3,3893.54,3,1,2,3,3123,Reactivated Spender
+601,106,59,2,1423.2,1,3,1,1,1311,New Customer Low Value
+602,228,174,2,1487.1899999999998,2,1,1,1,2111,New Customer Low Value
+603,314,50,4,5418.12,3,3,3,4,3334,Top Tier Loyalist
+604,339,70,4,4197.32,4,3,3,3,4333,Top Tier Loyalist
+605,269,42,4,4072.36,2,3,3,3,2333,New Customer High Value
+606,360,56,5,5433.75,4,3,4,4,4344,Top Tier Loyalist
+607,358,269,3,4069.75,4,1,2,3,4123,Reactivated Spender
+608,331,86,6,6320.59,3,2,4,4,3244,At Risk Customer
+609,292,191,2,1709.82,3,1,1,1,3111,Inactive Customer
+61,289,117,2,2282.93,3,2,1,2,3212,Inactive Customer
+610,271,47,5,3704.8999999999996,2,3,4,3,2343,New Customer High Value
+611,321,4,5,5600.15,3,4,4,4,3444,Top Tier Loyalist
+612,168,88,2,2134.63,1,2,1,2,1212,New Customer Low Value
+614,175,19,2,2053.88,1,4,1,2,1412,New Customer Low Value
+615,67,43,2,2835.4300000000003,1,3,1,2,1312,New Customer Low Value
+616,281,93,2,3445.3,2,2,1,3,2213,New Customer High Potential
+618,309,309,1,1227.34,3,1,1,1,3111,Inactive Customer
+619,341,66,5,4439.73,4,3,4,3,4343,Top Tier Loyalist
+62,356,6,3,3653.4900000000002,4,4,2,3,4423,Occasional Spender
+620,257,104,4,3392.77,2,2,3,3,2233,New Customer High Value
+621,343,188,3,2633.98,4,1,2,2,4122,Inactive Customer
+622,315,315,1,1386.84,3,1,1,1,3111,Inactive Customer
+623,232,182,2,3297.2200000000003,2,1,1,3,2113,New Customer High Potential
+624,270,155,2,3134.5,2,2,1,3,2213,New Customer High Potential
+625,351,17,5,4472.53,4,4,4,4,4444,Top Tier Loyalist
+626,347,107,4,4846.48,4,2,3,4,4234,At Risk Customer
+627,62,62,1,1179.0,1,3,1,1,1311,New Customer Low Value
+628,300,55,5,5519.54,3,3,4,4,3344,Top Tier Loyalist
+629,298,65,2,1383.1599999999999,3,3,1,1,3311,Occasional Spender
+63,286,286,1,1216.14,3,1,1,1,3111,Inactive Customer
+630,312,128,2,2368.95,3,2,1,2,3212,Inactive Customer
+631,250,17,4,2231.46,2,4,3,2,2432,2432
+632,238,238,1,1403.5,2,1,1,1,2111,New Customer Low Value
+633,259,2,5,5636.11,2,4,4,4,2444,New Customer High Value
+634,318,18,5,4850.0,3,4,4,4,3444,Top Tier Loyalist
+635,101,101,1,795.34,1,2,1,1,1211,New Customer Low Value
+636,210,31,4,3646.44,2,4,3,3,2433,New Customer High Value
+637,353,8,8,6276.3099999999995,4,4,4,4,4444,Top Tier Loyalist
+638,342,228,4,6395.89,4,1,3,4,4134,At Risk Customer
+639,261,9,2,2076.59,2,4,1,2,2412,New Customer Low Value
+64,344,4,4,2407.6,4,4,3,2,4432,Price Conscious Buyers
+640,157,11,3,3936.42,1,4,2,3,1423,New Customer High Spender
+641,306,203,2,1327.9099999999999,3,1,1,1,3111,Inactive Customer
+642,351,25,5,1408.32,4,4,4,1,4441,Price Conscious Buyers
+643,355,210,3,4934.43,4,1,2,4,4124,Reactivated Spender
+644,305,282,2,1606.12,3,1,1,1,3111,Inactive Customer
+645,242,117,4,4445.89,2,2,3,4,2234,New Customer High Value
+646,339,177,2,1490.71,4,1,1,1,4111,Inactive Customer
+647,344,43,3,3433.08,4,3,2,3,4323,Occasional Spender
+648,147,58,3,3418.28,1,3,2,3,1323,New Customer High Spender
+649,289,289,1,71.16,3,1,1,1,3111,Inactive Customer
+650,315,51,5,6539.38,3,3,4,4,3344,Top Tier Loyalist
+651,361,361,1,1793.43,4,1,1,2,4112,Inactive Customer
+652,149,6,4,4254.02,1,4,3,3,1433,New Customer High Value
+653,213,38,4,2737.28,2,3,3,2,2332,2332
+655,359,59,4,6010.49,4,3,3,4,4334,Top Tier Loyalist
+656,240,72,5,5716.93,2,3,4,4,2344,New Customer High Value
+657,206,176,4,4599.57,1,1,3,4,1134,New Customer High Value
+658,98,98,1,1403.5,1,2,1,1,1211,New Customer Low Value
+659,353,353,1,1403.5,4,1,1,1,4111,Inactive Customer
+66,315,44,3,4141.97,3,3,2,3,3323,Occasional Spender
+660,13,13,1,1228.07,1,4,1,1,1411,New Customer Low Value
+661,168,35,2,1715.53,1,4,1,1,1411,New Customer Low Value
+662,317,191,2,1134.63,3,1,1,1,3111,Inactive Customer
+663,106,74,3,4283.32,1,3,2,3,1323,New Customer High Spender
+664,353,85,3,1554.47,4,2,2,1,4221,Inactive Customer
+665,281,281,1,441.49,2,1,1,1,2111,New Customer Low Value
+666,261,223,2,1547.0700000000002,2,1,1,1,2111,New Customer Low Value
+668,336,100,5,4919.13,4,2,4,4,4244,At Risk Customer
+669,355,9,6,7401.7,4,4,4,4,4444,Top Tier Loyalist
+67,242,117,4,5073.24,2,2,3,4,2234,New Customer High Value
+670,338,203,3,2905.62,4,1,2,2,4122,Inactive Customer
+671,330,63,3,4045.7000000000003,3,3,2,3,3323,Occasional Spender
+672,309,285,2,3558.1499999999996,3,1,1,3,3113,Reactivated Spender
+673,63,63,1,495.72,1,3,1,1,1311,New Customer Low Value
+674,294,116,2,3545.45,3,2,1,3,3213,Reactivated Spender
+675,55,1,2,2542.59,1,4,1,2,1412,New Customer Low Value
+676,183,34,4,4616.7,1,4,3,4,1434,New Customer High Value
+677,353,145,3,2272.41,4,2,2,2,4222,Inactive Customer
+679,328,112,7,4658.09,3,2,4,4,3244,At Risk Customer
+68,349,85,3,5127.98,4,2,2,4,4224,Reactivated Spender
+680,248,107,3,3604.12,2,2,2,3,2223,New Customer High Potential
+681,348,8,4,4526.280000000001,4,4,3,4,4434,Top Tier Loyalist
+682,270,21,4,5886.25,2,4,3,4,2434,New Customer High Value
+683,287,180,2,3439.7200000000003,3,1,1,3,3113,Reactivated Spender
+684,299,43,4,3752.42,3,3,3,3,3333,Top Tier Loyalist
+685,180,113,3,4343.65,1,2,2,3,1223,New Customer High Potential
+686,188,144,2,1085.0,1,2,1,1,1211,New Customer Low Value
+687,355,9,5,2332.96,4,4,4,2,4442,Price Conscious Buyers
+688,82,82,1,2005.66,1,2,1,2,1212,New Customer Low Value
+69,332,21,3,3505.11,4,4,2,3,4423,Occasional Spender
+690,340,180,2,3965.4399999999996,4,1,1,3,4113,Reactivated Spender
+691,324,203,2,4182.94,3,1,1,3,3113,Reactivated Spender
+692,350,66,5,5991.08,4,3,4,4,4344,Top Tier Loyalist
+693,320,11,3,3617.61,3,4,2,3,3423,Occasional Spender
+694,265,8,4,3860.25,2,4,3,3,2433,New Customer High Value
+695,346,17,7,9096.2,4,4,4,4,4444,Top Tier Loyalist
+696,286,104,4,2163.06,3,2,3,2,3232,At Risk Customer
+697,314,12,4,5888.76,3,4,3,4,3434,Top Tier Loyalist
+698,228,174,2,1823.67,2,1,1,2,2112,New Customer Low Value
+699,56,56,1,1403.5,1,3,1,1,1311,New Customer Low Value
+7,316,310,2,420.74,3,1,1,1,3111,Inactive Customer
+70,171,5,3,3030.38,1,4,2,3,1423,New Customer High Spender
+700,296,174,3,2529.2,3,1,2,2,3122,Inactive Customer
+701,317,259,2,1958.68,3,1,1,2,3112,Inactive Customer
+702,320,314,2,3030.32,3,1,1,3,3113,Reactivated Spender
+703,173,2,3,3678.2200000000003,1,4,2,3,1423,New Customer High Spender
+704,310,81,6,5604.58,3,3,4,4,3344,Top Tier Loyalist
+705,285,152,2,635.61,3,2,1,1,3211,Inactive Customer
+706,324,109,4,5865.09,3,2,3,4,3234,At Risk Customer
+707,349,45,3,5424.9,4,3,2,4,4324,Occasional Spender
+709,200,200,1,71.16,1,1,1,1,1111,New Customer Low Value
+710,150,104,2,3867.75,1,2,1,3,1213,New Customer High Potential
+711,363,138,3,2007.03,4,2,2,2,4222,Inactive Customer
+712,279,100,4,2738.66,2,2,3,2,2232,New Customer Budget Spender
+713,256,256,1,1057.51,2,1,1,1,2111,New Customer Low Value
+714,282,76,7,3820.1499999999996,3,3,4,3,3343,Top Tier Loyalist
+715,300,159,3,4278.66,3,1,2,3,3123,Reactivated Spender
+716,236,40,4,4962.31,2,3,3,4,2334,New Customer High Value
+717,158,97,2,1029.23,1,2,1,1,1211,New Customer Low Value
+718,232,35,4,4703.3,2,4,3,4,2434,New Customer High Value
+719,353,12,6,7712.93,4,4,4,4,4444,Top Tier Loyalist
+72,235,51,2,2757.79,2,3,1,2,2312,New Customer Low Value
+720,362,86,5,4892.9400000000005,4,2,4,4,4244,At Risk Customer
+721,237,93,2,2569.6299999999997,2,2,1,2,2212,New Customer Low Value
+722,364,176,3,3825.1,4,1,2,3,4123,Reactivated Spender
+723,355,16,5,4999.139999999999,4,4,4,4,4444,Top Tier Loyalist
+724,120,24,3,4007.4399999999996,1,4,2,3,1423,New Customer High Spender
+725,262,71,3,5328.43,2,3,2,4,2324,New Customer High Spender
+726,157,157,1,1280.28,1,1,1,1,1111,New Customer Low Value
+727,342,157,4,5196.860000000001,4,1,3,4,4134,At Risk Customer
+728,207,26,4,5487.18,2,4,3,4,2434,New Customer High Value
+729,291,55,4,7183.13,3,3,3,4,3334,Top Tier Loyalist
+73,356,270,2,2601.96,4,1,1,2,4112,Inactive Customer
+730,159,31,2,2590.33,1,4,1,2,1412,New Customer Low Value
+731,169,135,2,1917.48,1,2,1,2,1212,New Customer Low Value
+732,208,192,2,3804.6400000000003,2,1,1,3,2113,New Customer High Potential
+733,213,69,4,6641.91,2,3,3,4,2334,New Customer High Value
+734,209,209,1,1036.59,2,1,1,1,2111,New Customer Low Value
+735,270,270,1,1977.36,2,1,1,2,2112,New Customer Low Value
+736,244,243,2,3248.5,2,1,1,3,2113,New Customer High Potential
+737,260,55,4,3963.44,2,3,3,3,2333,New Customer High Value
+738,341,155,4,6002.849999999999,4,2,3,4,4234,At Risk Customer
+739,302,80,4,3642.5,3,3,3,3,3333,Top Tier Loyalist
+74,76,76,1,590.26,1,3,1,1,1311,New Customer Low Value
+740,198,62,4,6155.53,1,3,3,4,1334,New Customer High Value
+742,343,11,4,3238.08,4,4,3,3,4433,Top Tier Loyalist
+743,342,342,1,1945.43,4,1,1,2,4112,Inactive Customer
+744,24,24,1,590.26,1,4,1,1,1411,New Customer Low Value
+745,290,12,3,2055.28,3,4,2,2,3422,Occasional Spender
+746,232,64,3,2592.1,2,3,2,2,2322,New Customer Low Value
+747,36,36,1,1227.34,1,4,1,1,1411,New Customer Low Value
+748,323,47,6,6121.91,3,3,4,4,3344,Top Tier Loyalist
+749,323,122,5,3893.92,3,2,4,3,3243,At Risk Customer
+75,181,61,3,2123.11,1,3,2,2,1322,New Customer Low Value
+750,335,80,3,4108.18,4,3,2,3,4323,Occasional Spender
+751,131,131,1,202.62,1,2,1,1,1211,New Customer Low Value
+752,313,21,5,5311.2300000000005,3,4,4,4,3444,Top Tier Loyalist
+753,203,109,4,7028.85,1,2,3,4,1234,New Customer High Value
+754,278,278,1,71.49,2,1,1,1,2111,New Customer Low Value
+755,130,96,3,2071.7799999999997,1,2,2,2,1222,New Customer Low Value
+756,109,46,3,2894.3,1,3,2,2,1322,New Customer Low Value
+757,327,126,3,2461.08,3,2,2,2,3222,Inactive Customer
+758,265,265,1,360.4,2,1,1,1,2111,New Customer Low Value
+759,236,24,5,5199.15,2,4,4,4,2444,New Customer High Value
+76,226,2,3,3130.48,2,4,2,3,2423,New Customer High Spender
+760,255,89,3,3083.14,2,2,2,3,2223,New Customer High Potential
+761,321,146,4,4673.68,3,2,3,4,3234,At Risk Customer
+762,324,86,5,3989.6800000000003,3,2,4,3,3243,At Risk Customer
+763,331,170,3,4422.03,3,1,2,3,3123,Reactivated Spender
+764,201,80,3,3627.46,1,3,2,3,1323,New Customer High Spender
+765,173,25,5,3834.41,1,4,4,3,1443,New Customer High Value
+766,277,17,4,3392.3700000000003,2,4,3,3,2433,New Customer High Value
+767,43,43,1,1216.14,1,3,1,1,1311,New Customer Low Value
+768,239,8,6,6006.76,2,4,4,4,2444,New Customer High Value
+769,364,124,5,7218.24,4,2,4,4,4244,At Risk Customer
+77,332,233,2,2276.1,4,1,1,2,4112,Inactive Customer
+770,151,135,2,2440.57,1,2,1,2,1212,New Customer Low Value
+771,164,125,2,2163.98,1,2,1,2,1212,New Customer Low Value
+772,288,288,1,1807.45,3,1,1,2,3112,Inactive Customer
+773,248,140,2,2864.66,2,2,1,2,2212,New Customer Low Value
+774,144,144,1,1311.44,1,2,1,1,1211,New Customer Low Value
+775,69,59,2,1845.7800000000002,1,3,1,2,1312,New Customer Low Value
+776,310,64,4,3277.96,3,3,3,3,3333,Top Tier Loyalist
+777,139,48,2,1273.5,1,3,1,1,1311,New Customer Low Value
+778,332,264,2,1217.3400000000001,4,1,1,1,4111,Inactive Customer
+779,291,288,2,709.07,3,1,1,1,3111,Inactive Customer
+78,213,213,1,569.56,2,1,1,1,2111,New Customer Low Value
+780,355,263,2,1723.91,4,1,1,1,4111,Inactive Customer
+781,314,192,3,1895.67,3,1,2,2,3122,Inactive Customer
+782,103,26,2,3124.19,1,4,1,3,1413,New Customer High Spender
+783,196,97,3,2799.6400000000003,1,2,2,2,1222,New Customer Low Value
+784,304,144,2,760.18,3,2,1,1,3211,Inactive Customer
+785,181,21,2,1059.09,1,4,1,1,1411,New Customer Low Value
+786,121,121,1,1280.28,1,2,1,1,1211,New Customer Low Value
+787,341,91,8,8977.69,4,2,4,4,4244,At Risk Customer
+788,318,40,3,1964.19,3,3,2,2,3322,Occasional Spender
+789,318,5,5,1714.87,3,4,4,1,3441,Price Conscious Buyers
+79,305,192,2,1883.01,3,1,1,2,3112,Inactive Customer
+790,233,15,4,4813.08,2,4,3,4,2434,New Customer High Value
+791,347,124,5,5406.76,4,2,4,4,4244,At Risk Customer
+792,337,272,3,2378.05,4,1,2,2,4122,Inactive Customer
+793,285,24,5,6799.08,3,4,4,4,3444,Top Tier Loyalist
+794,270,23,4,4039.99,2,4,3,3,2433,New Customer High Value
+795,19,19,1,980.37,1,4,1,1,1411,New Customer Low Value
+796,333,7,4,4475.9400000000005,4,4,3,4,4434,Top Tier Loyalist
+797,347,22,3,4305.48,4,4,2,3,4423,Occasional Spender
+798,356,22,2,2898.21,4,4,1,2,4412,Occasional Spender
+799,351,11,7,8340.59,4,4,4,4,4444,Top Tier Loyalist
+8,361,23,5,6316.86,4,4,4,4,4444,Top Tier Loyalist
+80,360,183,8,9605.74,4,1,4,4,4144,At Risk Customer
+800,192,192,1,748.17,1,1,1,1,1111,New Customer Low Value
+801,241,183,2,1074.8,2,1,1,1,2111,New Customer Low Value
+802,234,151,3,4982.5,2,2,2,4,2224,New Customer High Potential
+803,197,67,4,3110.65,1,3,3,3,1333,New Customer High Value
+804,187,187,1,360.4,1,1,1,1,1111,New Customer Low Value
+805,275,123,5,6730.54,2,2,4,4,2244,New Customer High Value
+806,71,71,1,980.37,1,3,1,1,1311,New Customer Low Value
+807,271,81,3,3422.09,2,3,2,3,2323,New Customer High Spender
+808,324,231,2,1833.8999999999999,3,1,1,2,3112,Inactive Customer
+809,271,46,2,2168.39,2,3,1,2,2312,New Customer Low Value
+81,118,73,2,2850.94,1,3,1,2,1312,New Customer Low Value
+810,204,142,2,2340.37,1,2,1,2,1212,New Customer Low Value
+811,338,190,2,1156.0,4,1,1,1,4111,Inactive Customer
+812,335,265,2,2253.4,4,1,1,2,4112,Inactive Customer
+813,252,51,3,3829.99,2,3,2,3,2323,New Customer High Spender
+815,354,270,2,2313.03,4,1,1,2,4112,Inactive Customer
+816,55,55,1,12.01,1,3,1,1,1311,New Customer Low Value
+817,353,353,1,590.26,4,1,1,1,4111,Inactive Customer
+818,284,67,5,4049.9900000000002,3,3,4,3,3343,Top Tier Loyalist
+819,171,44,3,2907.77,1,3,2,2,1322,New Customer Low Value
+82,314,84,4,4651.21,3,2,3,4,3234,At Risk Customer
+820,331,298,2,2533.09,3,1,1,2,3112,Inactive Customer
+821,271,34,3,2504.66,2,4,2,2,2422,New Customer Low Value
+823,216,24,4,6068.1900000000005,2,4,3,4,2434,New Customer High Value
+824,92,10,2,2612.33,1,4,1,2,1412,New Customer Low Value
+825,229,11,3,2819.46,2,4,2,2,2422,New Customer Low Value
+826,148,78,2,3200.91,1,3,1,3,1313,New Customer High Spender
+827,281,50,6,7022.39,2,3,4,4,2344,New Customer High Value
+828,121,121,1,945.04,1,2,1,1,1211,New Customer Low Value
+829,105,13,2,3460.56,1,4,1,3,1413,New Customer High Spender
+83,344,158,3,2681.13,4,1,2,2,4122,Inactive Customer
+830,287,150,6,6106.9400000000005,3,2,4,4,3244,At Risk Customer
+831,301,12,4,3955.2200000000003,3,4,3,3,3433,Top Tier Loyalist
+832,340,18,7,8940.73,4,4,4,4,4444,Top Tier Loyalist
+833,327,137,4,5618.28,3,2,3,4,3234,At Risk Customer
+834,247,19,2,1250.16,2,4,1,1,2411,New Customer Low Value
+835,290,69,4,3589.25,3,3,3,3,3333,Top Tier Loyalist
+836,205,73,2,1687.05,1,3,1,1,1311,New Customer Low Value
+837,212,208,2,3043.24,2,1,1,3,2113,New Customer High Potential
+838,262,196,3,2413.38,2,1,2,2,2122,New Customer Low Value
+84,29,29,1,71.16,1,4,1,1,1411,New Customer Low Value
+840,287,92,2,2531.24,3,2,1,2,3212,Inactive Customer
+841,214,151,3,4560.0,2,2,2,4,2224,New Customer High Potential
+842,348,56,3,2614.8,4,3,2,2,4322,Occasional Spender
+843,228,20,2,727.41,2,4,1,1,2411,New Customer Low Value
+844,337,32,3,4069.49,4,4,2,3,4423,Occasional Spender
+845,126,126,1,100.35,1,2,1,1,1211,New Customer Low Value
+846,190,83,2,3611.09,1,2,1,3,1213,New Customer High Potential
+847,337,123,2,1497.22,4,2,1,1,4211,Inactive Customer
+848,277,170,2,3110.33,2,1,1,3,2113,New Customer High Potential
+849,141,28,2,1409.91,1,4,1,1,1411,New Customer Low Value
+85,347,38,3,2280.09,4,3,2,2,4322,Occasional Spender
+850,311,35,5,6116.04,3,4,4,4,3444,Top Tier Loyalist
+851,143,10,4,5347.0,1,4,3,4,1434,New Customer High Value
+853,357,65,5,6523.59,4,3,4,4,4344,Top Tier Loyalist
+854,198,9,2,2369.44,1,4,1,2,1412,New Customer Low Value
+855,105,105,1,1842.92,1,2,1,2,1212,New Customer Low Value
+856,183,2,5,4306.26,1,4,4,3,1443,New Customer High Value
+857,282,25,3,4304.99,3,4,2,3,3423,Occasional Spender
+858,125,114,2,1040.71,1,2,1,1,1211,New Customer Low Value
+859,339,225,5,6021.04,4,1,4,4,4144,At Risk Customer
+86,337,1,4,2324.39,4,4,3,2,4432,Price Conscious Buyers
+860,119,119,1,2091.47,1,2,1,2,1212,New Customer Low Value
+861,292,55,4,4053.63,3,3,3,3,3333,Top Tier Loyalist
+863,210,159,2,864.06,2,1,1,1,2111,New Customer Low Value
+864,236,47,3,4432.9,2,3,2,3,2323,New Customer High Spender
+865,223,135,5,5063.610000000001,2,2,4,4,2244,New Customer High Value
+866,280,99,3,4302.23,2,2,2,3,2223,New Customer High Potential
+867,362,294,5,6543.92,4,1,4,4,4144,At Risk Customer
+868,284,84,4,4485.07,3,2,3,4,3234,At Risk Customer
+87,165,19,5,3981.77,1,4,4,3,1443,New Customer High Value
+870,278,101,4,2918.67,2,2,3,2,2232,New Customer Budget Spender
+871,296,55,4,3534.9900000000002,3,3,3,3,3333,Top Tier Loyalist
+873,268,32,4,2789.3,2,4,3,2,2432,2432
+874,344,47,5,5226.81,4,3,4,4,4344,Top Tier Loyalist
+875,361,64,3,4661.099999999999,4,3,2,4,4324,Occasional Spender
+877,241,181,2,1941.0,2,1,1,2,2112,New Customer Low Value
+878,190,163,2,3168.8,1,1,1,3,1113,New Customer High Potential
+879,361,361,1,958.74,4,1,1,1,4111,Inactive Customer
+88,147,110,2,2567.96,1,2,1,2,1212,New Customer Low Value
+880,125,63,3,4774.51,1,3,2,4,1324,New Customer High Spender
+881,355,148,3,5353.86,4,2,2,4,4224,Reactivated Spender
+882,184,113,4,6557.2,1,2,3,4,1234,New Customer High Value
+883,314,314,1,175.89,3,1,1,1,3111,Inactive Customer
+884,60,60,1,1842.92,1,3,1,2,1312,New Customer Low Value
+885,214,8,3,3628.9399999999996,2,4,2,3,2423,New Customer High Spender
+886,349,349,1,1992.93,4,1,1,2,4112,Inactive Customer
+887,352,78,3,3631.99,4,3,2,3,4323,Occasional Spender
+888,332,311,3,4665.62,4,1,2,4,4124,Reactivated Spender
+889,317,37,4,3791.6800000000003,3,4,3,3,3433,Top Tier Loyalist
+89,286,5,4,4923.01,3,4,3,4,3434,Top Tier Loyalist
+890,256,166,3,2722.64,2,1,2,2,2122,New Customer Low Value
+891,126,13,2,2306.35,1,4,1,2,1412,New Customer Low Value
+892,356,104,4,3111.8,4,2,3,3,4233,At Risk Customer
+893,252,179,2,2617.99,2,1,1,2,2112,New Customer Low Value
+894,329,49,3,4854.08,3,3,2,4,3324,Occasional Spender
+896,233,39,2,1959.67,2,3,1,2,2312,New Customer Low Value
+897,346,130,5,5970.28,4,2,4,4,4244,At Risk Customer
+898,206,206,1,478.16,1,1,1,1,1111,New Customer Low Value
+899,182,50,2,1326.4099999999999,1,3,1,1,1311,New Customer Low Value
+9,92,92,1,1577.53,1,2,1,1,1211,New Customer Low Value
+90,297,280,2,2172.38,3,1,1,2,3112,Inactive Customer
+900,337,13,4,2446.44,4,4,3,2,4432,Price Conscious Buyers
+901,229,83,4,6948.22,2,2,3,4,2234,New Customer High Value
+902,355,43,5,3960.2799999999997,4,3,4,3,4343,Top Tier Loyalist
+903,355,17,6,7812.8,4,4,4,4,4444,Top Tier Loyalist
+904,330,122,2,2717.99,3,2,1,2,3212,Inactive Customer
+905,344,118,4,2741.9700000000003,4,2,3,2,4232,At Risk Customer
+906,349,185,4,5998.02,4,1,3,4,4134,At Risk Customer
+907,150,106,3,1706.52,1,2,2,1,1221,New Customer Low Value
+908,294,5,5,2366.12,3,4,4,2,3442,Price Conscious Buyers
+909,286,190,3,5444.38,3,1,2,4,3124,Reactivated Spender
+91,262,10,3,2327.3,2,4,2,2,2422,New Customer Low Value
+910,343,343,1,569.56,4,1,1,1,4111,Inactive Customer
+911,361,206,2,1931.4,4,1,1,2,4112,Inactive Customer
+912,258,41,4,4889.82,2,3,3,4,2334,New Customer High Value
+913,255,254,2,2364.0699999999997,2,1,1,2,2112,New Customer Low Value
+914,334,107,3,3945.35,4,2,2,3,4223,Reactivated Spender
+915,267,29,2,788.98,2,4,1,1,2411,New Customer Low Value
+916,164,127,2,2921.6000000000004,1,2,1,2,1212,New Customer Low Value
+917,320,50,2,2643.27,3,3,1,2,3312,Occasional Spender
+918,349,17,5,4842.29,4,4,4,4,4444,Top Tier Loyalist
+919,362,81,6,6054.360000000001,4,3,4,4,4344,Top Tier Loyalist
+92,351,45,2,3006.96,4,3,1,3,4313,Occasional Spender
+920,326,91,5,5194.719999999999,3,2,4,4,3244,At Risk Customer
+921,260,45,3,4843.64,2,3,2,4,2324,New Customer High Spender
+923,355,59,2,1907.8,4,3,1,2,4312,Occasional Spender
+924,361,110,3,1524.37,4,2,2,1,4221,Inactive Customer
+925,359,17,7,8821.98,4,4,4,4,4444,Top Tier Loyalist
+926,145,33,3,2398.05,1,4,2,2,1422,New Customer Low Value
+927,318,298,2,3651.77,3,1,1,3,3113,Reactivated Spender
+928,288,88,3,3326.67,3,2,2,3,3223,Reactivated Spender
+929,219,120,2,949.46,2,2,1,1,2211,New Customer Low Value
+93,335,127,2,3270.47,4,2,1,3,4213,Reactivated Spender
+930,246,148,2,1431.17,2,2,1,1,2211,New Customer Low Value
+931,349,349,1,1466.68,4,1,1,1,4111,Inactive Customer
+932,84,4,3,2305.16,1,4,2,2,1422,New Customer Low Value
+933,284,169,2,2161.37,3,1,1,2,3112,Inactive Customer
+934,140,84,3,4773.2,1,2,2,4,1224,New Customer High Potential
+935,279,236,2,2209.4700000000003,2,1,1,2,2112,New Customer Low Value
+936,323,33,6,7083.98,3,4,4,4,3444,Top Tier Loyalist
+937,315,16,2,759.13,3,4,1,1,3411,Occasional Spender
+938,233,62,3,3629.66,2,3,2,3,2323,New Customer High Spender
+939,176,176,1,1703.52,1,1,1,1,1111,New Customer Low Value
+94,118,34,2,672.4,1,4,1,1,1411,New Customer Low Value
+940,223,77,2,2412.34,2,3,1,2,2312,New Customer Low Value
+941,358,34,6,10566.55,4,4,4,4,4444,Top Tier Loyalist
+943,296,113,3,3881.76,3,2,2,3,3223,Reactivated Spender
+944,332,134,5,2399.2200000000003,4,2,4,2,4242,At Risk Customer
+945,344,131,4,4171.98,4,2,3,3,4233,At Risk Customer
+946,344,3,4,4947.74,4,4,3,4,4434,Top Tier Loyalist
+947,354,81,4,3599.1600000000003,4,3,3,3,4333,Top Tier Loyalist
+948,321,101,3,3541.6,3,2,2,3,3223,Reactivated Spender
+949,270,89,4,3953.52,2,2,3,3,2233,New Customer High Value
+95,208,208,1,1403.5,2,1,1,1,2111,New Customer Low Value
+950,336,40,4,3869.88,4,3,3,3,4333,Top Tier Loyalist
+951,316,7,3,2145.52,3,4,2,2,3422,Occasional Spender
+952,289,47,3,3364.86,3,3,2,3,3323,Occasional Spender
+953,303,79,5,5576.12,3,3,4,4,3344,Top Tier Loyalist
+954,209,114,3,3908.5099999999998,2,2,2,3,2223,New Customer High Potential
+955,349,17,4,2615.3,4,4,3,2,4432,Price Conscious Buyers
+956,358,225,2,2288.8999999999996,4,1,1,2,4112,Inactive Customer
+957,124,46,2,1605.38,1,3,1,1,1311,New Customer Low Value
+958,264,164,3,1811.2200000000003,2,1,2,2,2122,New Customer Low Value
+959,248,125,3,4083.0299999999997,2,2,2,3,2223,New Customer High Potential
+96,318,117,2,2153.0699999999997,3,2,1,2,3212,Inactive Customer
+960,316,79,3,4755.21,3,3,2,4,3324,Occasional Spender
+961,330,330,1,1661.92,3,1,1,1,3111,Inactive Customer
+962,273,13,5,4949.75,2,4,4,4,2444,New Customer High Value
+963,294,61,7,8753.43,3,3,4,4,3344,Top Tier Loyalist
+964,309,2,3,3113.41,3,4,2,3,3423,Occasional Spender
+965,329,61,2,2957.32,3,3,1,3,3313,Occasional Spender
+966,154,154,1,71.16,1,2,1,1,1211,New Customer Low Value
+967,351,293,2,3227.8100000000004,4,1,1,3,4113,Reactivated Spender
+968,284,36,4,4616.66,3,4,3,4,3434,Top Tier Loyalist
+969,156,18,4,5390.85,1,4,3,4,1434,New Customer High Value
+97,250,145,5,5853.32,2,2,4,4,2244,New Customer High Value
+970,325,34,4,4660.14,3,4,3,4,3434,Top Tier Loyalist
+971,342,49,3,2935.59,4,3,2,2,4322,Occasional Spender
+972,292,292,1,2091.47,3,1,1,2,3112,Inactive Customer
+973,298,9,5,7784.9400000000005,3,4,4,4,3444,Top Tier Loyalist
+974,340,115,3,5373.99,4,2,2,4,4224,Reactivated Spender
+975,226,11,6,7867.37,2,4,4,4,2444,New Customer High Value
+976,265,178,2,3256.7200000000003,2,1,1,3,2113,New Customer High Potential
+977,353,42,3,3503.4700000000003,4,3,2,3,4323,Occasional Spender
+978,298,298,1,1163.89,3,1,1,1,3111,Inactive Customer
+979,309,6,4,5402.88,3,4,3,4,3434,Top Tier Loyalist
+98,238,238,1,945.04,2,1,1,1,2111,New Customer Low Value
+981,226,26,4,4841.35,2,4,3,4,2434,New Customer High Value
+982,113,56,3,1255.84,1,3,2,1,1321,New Customer Low Value
+983,347,2,5,5878.150000000001,4,4,4,4,4444,Top Tier Loyalist
+984,171,79,2,1946.8899999999999,1,3,1,2,1312,New Customer Low Value
+986,334,76,5,3933.88,4,3,4,3,4343,Top Tier Loyalist
+987,255,23,6,7995.85,2,4,4,4,2444,New Customer High Value
+989,305,34,3,4723.3099999999995,3,4,2,4,3424,Occasional Spender
+99,295,74,5,5010.45,3,3,4,4,3344,Top Tier Loyalist
+990,222,12,5,4868.64,2,4,4,4,2444,New Customer High Value
+991,324,186,2,1759.5300000000002,3,1,1,1,3111,Inactive Customer
+993,319,8,4,3569.2,3,4,3,3,3433,Top Tier Loyalist
+994,266,184,3,3329.99,2,1,2,3,2123,New Customer High Potential
+995,323,12,3,3624.7200000000003,3,4,2,3,3423,Occasional Spender
+996,297,64,3,3954.87,3,3,2,3,3323,Occasional Spender
+997,95,73,2,2468.38,1,3,1,2,1312,New Customer Low Value
+998,322,322,1,1274.93,3,1,1,1,3111,Inactive Customer
+999,363,105,4,6946.23,4,2,3,4,4234,At Risk Customer
