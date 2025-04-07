@@ -35,9 +35,9 @@ Pada bagian ini, feature yang digunakan adalah *Length*, *Recency*, *Frequency*,
 Analisis LRFM pada Store Bike bermanfaat untuk mengelompokkan konsumen berdasarkan perilaku transaksinya. Sehingga, dapat diperoleh rekomendasi bisnis yang sesuai untuk mempertahankan customer.
 
 ## File Content
-- **store_bike.csv** - dataset yang digunakan
-- **store_bike_clean.csv** - dataset gabungan yang sudah melalui preprocessing
-- **Offline Complete.csv** - dataset transaksi offline yang sudah melalui preprocessing
-- **Online Complete.csv** - dataset transaksi online yang sudah melalui preprocessing
-- **Offline Store Bike.csv** - dataset hasil analisis LRFM transaksi offline
-- **Online Store Bike.csv** - dataset hasil analisis LRFM transaksi online
+- [**store_bike.csv**](https://github.com/deriellea/LRFM-Porto/blob/main/store_bike.csv) - dataset yang digunakan
+- [**store_bike_clean.csv**](https://github.com/deriellea/LRFM-Porto/blob/main/store_bike_clean.csv) - dataset gabungan yang sudah melalui preprocessing
+- [**Offline Complete.csv**](https://github.com/deriellea/LRFM-Porto/blob/main/Offline%20Complete.csv) - dataset transaksi offline yang sudah melalui preprocessing
+- [**Online Complete.csv**](https://github.com/deriellea/LRFM-Porto/blob/main/Online%20Complete.csv) - dataset transaksi online yang sudah melalui preprocessing
+- [**Offline Store Bike.csv**](https://github.com/deriellea/LRFM-Porto/blob/main/Offline%20Store%20Bike.csv) - dataset hasil analisis LRFM transaksi offline
+- [**Online Store Bike.csv**](https://github.com/deriellea/LRFM-Porto/blob/main/Online%20Store%20Bike.csv) - dataset hasil analisis LRFM transaksi online
