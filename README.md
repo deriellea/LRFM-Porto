@@ -1,7 +1,7 @@
 # Store Bike LRFM Analysis Portofolio
 Team Members:
 JCDS 2602
-- [Alfidhiya Amany R.](github.com/al)
+- [Alfidhiya Amany R.](github.com/alfidhiya)
 - [Derielle Aisyah Ahmad](github.com/deriellea)
 - [Hasson Josia](github.com/)
 
