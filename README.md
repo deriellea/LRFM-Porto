@@ -31,6 +31,9 @@ Pada bagian ini, feature yang digunakan adalah *Length*, *Recency*, *Frequency*,
 - *Frequency* : Jumlah transaksi yang telah dilakukan oleh konsumen pada periode waktu tertentu
 - *Monetary* : Total nilai atau jumlah uang yang dihabiskan oleh pelanggan selama periode waktu tertentu. Semakin tinggi nilainya, semakin berharga pelanggan tersebut bagi perusahaan.
 
+## Tableau Dashboard Visualization
+[**Store Bike Tableau Dashboard**](https://public.tableau.com/app/profile/alfidhiya.amany.ramli/viz/StoreBikeLRFMAnalysisDashboard/LRFMDashboard)
+
 ## Kesimpulan dan Rekomendasi
 Analisis LRFM pada Store Bike bermanfaat untuk mengelompokkan konsumen berdasarkan perilaku transaksinya. Sehingga, dapat diperoleh rekomendasi bisnis yang sesuai untuk mempertahankan customer.
 
