@@ -3,7 +3,7 @@ Team Members:
 JCDS 2602
 - [Alfidhiya Amany R.](github.com/alfidhiya)
 - [Derielle Aisyah Ahmad](github.com/deriellea)
-- [Hasson Josia](github.com/)
+- [Hasson Josia](github.com/hassonjosia)
 
 ## Table of Contents
 - [Latar Belakang](https://github.com/deriellea/LRFM-Porto/edit/main/README.md#latar-belakang)
